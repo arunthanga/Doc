@@ -289,3 +289,75 @@ Base biochar is K-rich; enrich to a balanced slow-release organic input:
 ## 18. Assumptions & disclaimer
 
 All costs, yields, prices and returns are **planning-grade indicative estimates** (mid-2026 market references) for the purpose of scheme application and bank appraisal. They must be confirmed by: (a) a laboratory proximate analysis of the actual feedstock; (b) formal machinery quotations; (c) written confirmation of ESS/AIF eligibility and convergence from DIC Palakkad and the lending bank; and (d) a carbon-credit LOI from an aggregator before carbon revenue is counted. Regulatory categories and subsidy rates are subject to the prevailing KSPCB, DIC and scheme guidelines at the time of application.
+
+---
+
+## Annexure A — Plot layout (38 cent, 2 t/day-ready)
+
+A scaled schematic is provided as **`plot-layout.svg`** (open in any browser to print on one page). Text schematic below for quick reference:
+
+```
+                                   N ^
+   ============ GREENBELT / SETBACK  ~550 m² (perimeter tree belt) ============
+   |                                                            [stack]        |
+   |  +-------------+   +----------------------+   +--------------------------+|
+   |  | Feedstock   |   | PYROLYSIS + EMISSION |   | Product storage          ||
+   |  | day-bin     |   | CONTROL   ~150 m²    |   | + bagging   ~150 m²      ||
+   |  | ~80 m²      |   | reactor #1 (+ space  |   |                          ||
+   |  | (1-2 day)   |   |  for reactor #2)     |   |                          ||
+   |  +-------------+   +----------------------+   +--------------------------+|
+   |  - - - - - - INTERNAL ROAD / LOADER TURNING (~258 m²) - - - - - - - - - - |
+   |  +---------------------------+   +------------------------------------+  |
+   |  | ENRICHMENT / COMPOSTING   |   | Office / Lab (QC)                  |  |
+   |  | + CURING     ~250 m²      |   | Utilities / Water   ~100 m²        |  |
+   |  | (char + manure/neem/      |   | borewell+tanks, electrical, fire   |  |
+   |  |  rock-P + microbes)       |   |                                    |  |
+   |  +---------------------------+   +------------------------------------+  |
+   |                        [ WEIGHBRIDGE ]   [ GATE ]                        |
+   ==========================================================================
+              ▼ PWD ROAD (access)        → Farm (feedstock + sun-drying) ~200 m
+```
+
+**Notes:** greenbelt on all sides for KSPCB consent; pyrolysis block sized with vacant bay + pre-laid foundation/tie-ins for **reactor #2** (Phase-2); large biomass storage is kept **off-site at the farm** (200 m), so only a 1–2 day day-bin sits on the plot; weighbridge and gate at the road frontage.
+
+---
+
+## Annexure B — Term-loan amortisation schedule
+
+**Assumptions:** Term loan **₹110 L**; effective rate **6% p.a.** (9% − 3% AIF interest subvention); tenure **7 years**; **6-month construction moratorium** (interest served, no principal in Year 1); **Kerala ESS ~₹40 L received ~Month 12 and applied as principal prepayment**, leaving ~₹70 L to amortise over Years 2–7. Equal annual instalment (EAI) Years 2–7 ≈ **₹14.24 L** (≈ **₹1.19 L/month EMI**).
+
+| Year | Opening (₹L) | Interest @6% (₹L) | Principal repaid (₹L) | ESS prepayment (₹L) | Closing (₹L) |
+|---|---|---|---|---|---|
+| 1 | 110.00 | 6.60 | 0.00 (moratorium) | 40.00 | 70.00 |
+| 2 | 70.00 | 4.20 | 10.04 | – | 59.96 |
+| 3 | 59.96 | 3.60 | 10.64 | – | 49.32 |
+| 4 | 49.32 | 2.96 | 11.28 | – | 38.04 |
+| 5 | 38.04 | 2.28 | 11.96 | – | 26.08 |
+| 6 | 26.08 | 1.56 | 12.68 | – | 13.40 |
+| 7 | 13.40 | 0.80 | 13.44 | – | ~0.00 |
+| **Total** | | **~22.0** | **~70.0** | **40.0** | |
+
+**AIF benefit:** the 3% subvention saves ~**₹11 L** of interest over the loan life versus a 9% loan on the same balances. Guarantee fee is government-paid under AIF (CGTMSE), so the loan is **collateral-free** — the farm is not mortgaged.
+
+---
+
+## Annexure C — Month-by-month cash flow, Year 1 (Phase-1 ramp)
+
+**Assumptions (Phase-1, physical-sales base case):** commissioning at **Month 7**; ramp 25% → 100% by Month 12. Full-capacity monthly revenue **₹8.75 L** (₹1.05 cr/yr); operating cost ≈ **₹2.0 L fixed + ₹3.0 L variable at 100%**; interest served during moratorium ≈ **₹0.55 L/month**. Capex is funded by equity + term loan (not shown in operating flow). ESS ₹40 L inflow at Month 12 is a financing item applied to loan prepayment (Annexure B).
+
+| Month | Phase | Capacity | Revenue (₹L) | Op. cost (₹L) | EBITDA (₹L) | Interest (₹L) | Net op. cash (₹L) |
+|---|---|---|---|---|---|---|---|
+| 1–6 | Construction / pre-op | – | 0.00 | trial only | – | 0.55/mo | interest served from loan |
+| 7 | Commissioning | 25% | 2.19 | 2.75 | −0.56 | 0.55 | −1.11 |
+| 8 | Ramp | 40% | 3.50 | 3.20 | 0.30 | 0.55 | −0.25 |
+| 9 | Ramp | 55% | 4.81 | 3.65 | 1.16 | 0.55 | 0.61 |
+| 10 | Ramp | 70% | 6.13 | 4.10 | 2.03 | 0.55 | 1.48 |
+| 11 | Ramp | 85% | 7.44 | 4.55 | 2.89 | 0.55 | 2.34 |
+| 12 | Full | 100% | 8.75 | 5.00 | 3.75 | 0.55 | 3.20 |
+| **H2 total** | | | **32.82** | **23.25** | **9.57** | **3.30** | **6.27** |
+
+**Steady state (Year 2+, Phase-1 full):** monthly revenue ₹8.75 L − opex ₹5.0 L = **EBITDA ₹3.75 L**; less EMI ₹1.19 L → **net cash ~₹2.56 L/month (~₹30.7 L/yr)** before tax and depreciation.
+
+**Debt-service coverage (Year 2):** EBITDA ≈ ₹45 L ÷ debt service ≈ ₹14.24 L → **DSCR ≈ 3.1** (comfortably bankable; lenders typically want ≥ 1.5–2.0).
+
+**Upside:** adding realized carbon revenue (~₹0.66 cr/yr in Phase-1, ~₹1.32 cr/yr in Phase-2) lifts EBITDA sharply and shortens payback to under ~2 years — kept out of the base case above pending a signed aggregator LOI.
