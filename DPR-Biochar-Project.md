@@ -2,7 +2,7 @@
 ## Tender-Coconut & Agri-Biomass Biochar and Enriched Bio-Fertilizer Unit
 
 **Location:** Eruthenpathy, Chittur Taluk, Palakkad District, Kerala (Kerala–Tamil Nadu border)
-**Feedstock origin:** Tender-coconut husk briquettes from packaging/export unit, Kanjikode Industrial Estate, Palakkad + own coconut farm residues
+**Feedstock origin:** Tender-coconut husk briquettes from a partner packaging unit in the regional industrial belt + own coconut farm residues
 **Prepared for:** Submission to District Industries Centre (DIC), Palakkad and lending bank (AIF / term loan)
 **Document status:** Planning-grade DPR — figures are indicative estimates to be firmed up with (a) a feedstock proximate-analysis lab report and (b) formal machinery quotations before sanction.
 
@@ -10,7 +10,7 @@
 
 ## 1. Executive summary
 
-The project sets up a **continuous, low-emission biochar plant with an enriched (microbe-inoculated) organic bio-fertilizer line** on an owned **38-cent plot**, using **4 tonnes/day of tender-coconut husk briquettes** (from a partner packaging unit ~30–40 km away at Kanjikode) as the anchor feedstock, supplemented by coconut fronds, shells and coir pith from the promoter's adjacent farm.
+The project sets up a **continuous, low-emission biochar plant with an enriched (microbe-inoculated) organic bio-fertilizer line** on an owned **38-cent plot**, using **4 tonnes/day of tender-coconut husk briquettes** (from a partner tender-coconut packaging unit ~30–40 km away) as the anchor feedstock, supplemented by coconut fronds, shells and coir pith from the promoters' adjacent farm.
 
 - **Phase-1 capacity:** ~**1 tonne/day biochar** (~300 t/yr) — matched to the 4 t/day briquette feed.
 - **Phase-2 (expansion):** ~**2 tonnes/day biochar** (~600 t/yr) by adding a second modular reactor and aggregating farm/regional biomass.
@@ -22,11 +22,14 @@ The project sets up a **continuous, low-emission biochar plant with an enriched 
 
 ---
 
-## 2. Promoter profile
+## 2. Promoter
 
-- Software engineer; owns a coconut farm and a separate 38-cent plot (~200 m apart) in Eruthenpathy, Palakkad.
-- Partner: friend operating a tender-coconut packaging & export business at Kanjikode Industrial Estate, generating ~4 t/day of husk briquette residue (current disposal cost → becomes secured, low-cost feedstock).
-- Captive demand: promoter's own coconut farm can consume and demonstrate the enriched product, de-risking market entry.
+**Promoter entity:** *Arun and Friends* (proposed partnership enterprise).
+
+- Promoted by Arun and associates ("Arun and Friends").
+- Owns the project site (38-cent plot) and an adjacent coconut farm (~200 m away) in Eruthenpathy, Palakkad.
+- Anchor feedstock (~4 t/day tender-coconut husk briquettes) is secured from a partner tender-coconut packaging unit in the regional industrial belt under a supply arrangement — the residue is currently a disposal cost and becomes a secured, low-cost feedstock.
+- Captive demand: the promoters' own coconut farm can consume and demonstrate the enriched product, de-risking market entry.
 
 ---
 
@@ -361,3 +364,70 @@ A scaled schematic is provided as **`plot-layout.svg`** (open in any browser to 
 **Debt-service coverage (Year 2):** EBITDA ≈ ₹45 L ÷ debt service ≈ ₹14.24 L → **DSCR ≈ 3.1** (comfortably bankable; lenders typically want ≥ 1.5–2.0).
 
 **Upside:** adding realized carbon revenue (~₹0.66 cr/yr in Phase-1, ~₹1.32 cr/yr in Phase-2) lifts EBITDA sharply and shortens payback to under ~2 years — kept out of the base case above pending a signed aggregator LOI.
+
+---
+
+## Annexure D — Machinery quotation-comparison template (fillable)
+
+**How to use:** send this to at least **two local vendors (Coimbatore/Pollachi hub)** and **one national continuous-technology vendor**. Ask each to quote the **Phase-1 reactor (1 t/day)** together with the **2 t/day-sized gas train and dryer** (so no re-work at expansion), and to price reactor #2 tie-in provisions as a separate option. Enter the received figures in Table D-2, then carry the sub-totals into **Section 10 — Cost of project** (mapping shown in the "→ Cost item" column).
+
+### Table D-1 — Scope & required specification (issue to vendors)
+
+| # | Equipment | Sized for | Required specification / notes | → Cost item |
+|---|---|---|---|---|
+| 1 | Pyrolysis / carbonization reactor | **Phase-1: 1 t/day** (~200–250 kg/hr feed) | Continuous or semi-continuous; multi-feedstock (briquette, husk, frond, shell, coir); yield ≥30% dry basis | #4 |
+| 2 | Reactor #2 tie-in provisions | Phase-2 (option) | Pre-laid foundation bolts, flanged feed/gas stubs, spare panel ways — quote as separate option | #4 (future) |
+| 3 | Feed system (hopper, screw/belt conveyor, metering) | **2 t/day (common header)** | Variable-speed feed; suited to briquettes + shredded biomass | #4 |
+| 4 | Waste-heat dryer | **2 t/day** | Uses pyrolysis/syngas waste heat; inlet moisture up to ~25% | #5 |
+| 5 | Emission control train — afterburner/flare + cyclone + alkaline scrubber + mist eliminator + ID fan + stack | **2 t/day** | Must meet **KSPCB (Orange) ambient/stack norms**; syngas combustion; vendor to state guaranteed emission values | #5 |
+| 6 | Char cooling / quench + discharge | 1 t/day | Sealed cooling; moisture/temperature controlled | #5 |
+| 7 | Sieving / screening | 1 t/day | Grade separation (powder/granular) | #6 |
+| 8 | Enrichment mixer / blender | 1 t/day | For char + manure/neem/rock-P + microbial slurry | #6 |
+| 9 | Pelletizer (optional) | 1 t/day | For densified enriched product | #6 |
+| 10 | Weighing + bagging | 1 t/day | 25 kg bags + FIBC jumbo option | #6 |
+| 11 | Control panel / instrumentation (PLC/SCADA) | 2 t/day | Temp/pressure monitoring, interlocks, e-stop | #7 |
+| 12 | Erection, commissioning & operator training | — | Include site supervision & trial run | #4–#7 |
+| 13 | Freight, insurance, unloading | — | To site, Eruthenpathy | #4–#7 |
+| 14 | Taxes (GST) | — | State applicable rate separately | — |
+
+### Table D-2 — Price comparison (fill from vendor quotes, ₹)
+
+| # | Equipment (as above) | Sized for | Vendor A: __________ | Vendor B: __________ | Vendor C: __________ |
+|---|---|---|---|---|---|
+| 1 | Pyrolysis reactor | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 2 | Reactor #2 tie-in provisions (option) | Phase-2 | ₹__________ | ₹__________ | ₹__________ |
+| 3 | Feed system | 2 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 4 | Waste-heat dryer | 2 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 5 | Emission control train | 2 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 6 | Char cooling / quench | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 7 | Sieving / screening | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 8 | Enrichment mixer | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 9 | Pelletizer (optional) | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 10 | Weighing + bagging | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 11 | Control panel / SCADA | 2 t/day | ₹__________ | ₹__________ | ₹__________ |
+| 12 | Erection, commissioning, training | — | ₹__________ | ₹__________ | ₹__________ |
+| 13 | Freight, insurance | — | ₹__________ | ₹__________ | ₹__________ |
+| | **Sub-total (ex-GST)** | | ₹__________ | ₹__________ | ₹__________ |
+| 14 | GST | — | ₹__________ | ₹__________ | ₹__________ |
+| | **TOTAL (incl. GST)** | | **₹__________** | **₹__________** | **₹__________** |
+| | *Carry to Section 10:* items #4 (reactor+feed) + #5 (dryer+emission+cooling) + #6 (sieving/mixing/bagging) + #7 (electrical/control) | | | | |
+
+### Table D-3 — Commercial-terms comparison (fill from vendor quotes)
+
+| Parameter | Vendor A | Vendor B | Vendor C |
+|---|---|---|---|
+| Make / model offered | | | |
+| Rated capacity (kg/hr feed; t/day biochar) | | | |
+| Guaranteed biochar yield (% dry basis) | | | |
+| Material of construction (reactor) | | | |
+| Connected electrical load (kW) | | | |
+| Guaranteed stack emissions vs KSPCB norms (state values) | | | |
+| Feedstock types accepted (briquette/husk/frond/shell/coir) | | | |
+| Delivery period (weeks from PO) | | | |
+| Warranty (months) | | | |
+| After-sales / spares — distance from site | | | |
+| Payment terms | | | |
+| Training & commissioning included? | | | |
+| References / plants in operation (contactable) | | | |
+
+**Evaluation guidance:** do not select on price alone — weight **emission-compliance (for CTO), guaranteed yield, feedstock flexibility, and after-sales proximity** (favouring the Coimbatore/Pollachi hub for fast service). Confirm the quoted gas train and dryer are genuinely **rated for 2 t/day** so Phase-2 needs only the second reactor module.
