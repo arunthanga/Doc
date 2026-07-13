@@ -25,7 +25,7 @@ Primary Agricultural Co-operative Societies (PACS) and co-operative outlets are 
 
 ## 2. The factual position
 
-1. **The current procedure.** Under the Union Government's **Direct Benefit Transfer (DBT) for fertilizers** (in force since 2017–18), all subsidised fertilizers — **urea, DAP, MOP, super-phosphate, etc.** — can be sold only through **Aadhaar-linked Point-of-Sale (PoS) machines with biometric (fingerprint) authentication**, with the buyer identified via Aadhaar / Kisan Credit Card / Voter ID and the sale logged in the integrated fertilizer management system (iFMS).
+1. **The current procedure — the exact position.** Fertilizer sale and movement are governed by the **Fertilizer (Control) Order, 1985** made under the **Essential Commodities Act, 1955**. The Union Department of Fertilizers introduced **Direct Benefit Transfer (DBT) in Fertilizers from October 2016** (pilot), launched the **Integrated Fertilizer Management System (iFMS) in June 2016**, and **completed the pan-India rollout on 1 March 2018**. Under the **Aadhaar-enabled Fertilizers Distribution System (AeFDS)**, all subsidised fertilizers — **urea, DAP, MOP, super-phosphate, etc.** — can be sold only through **Aadhaar-linked Point-of-Sale (PoS) machines with biometric authentication**, the buyer being identified via **Aadhaar / Kisan Credit Card / Voter ID**. Notably, the Department's own guidelines provide that the crop/area recommendation is **not binding** and sale is on a **"no-denial mode"** — a principle that should protect genuine farmers from being turned away for want of documents.
 
 2. **The difficulties on the ground.** In Palakkad, farmers report:
    - **Repeated demands for documents** — Aadhaar, and in practice **land-tax receipts / land records** — at every purchase;
@@ -65,3 +65,64 @@ _________________________
 [Phone / Email]
 
 Endorsed by: Adv. Sumesh Achuthan, MLA, Chittur
+
+---
+
+## Annexure — Draft Government Order (model, for the Government's consideration)
+
+> The following is a model draft placed for the Government's consideration. The actual G.O. number, date and file references are to be assigned by the Department.
+
+```
+GOVERNMENT OF KERALA
+Abstract
+
+Co-operation Department — Sale of subsidised fertilizers through Primary
+Agricultural Co-operative Societies (PACS) — One-time Farmer Registration to
+simplify procurement for genuine farmers, and strengthened safeguards against
+diversion — Orders issued.
+
+CO-OPERATION DEPARTMENT
+G.O.(Ms) No. ______/2026/Co-op          Thiruvananthapuram, dated __-__-2026
+
+Read:  1. The Fertilizer (Control) Order, 1985 (under the Essential
+          Commodities Act, 1955).
+       2. DoF DBT/AeFDS framework (iFMS, June 2016; pan-India w.e.f. 01-03-2018),
+          providing for sale on "no-denial mode."
+       3. The Kerala Co-operative Societies Act, 1969.
+       4. Representation dated 15-07-2026 of the Chittur Agriculture
+          Marketing Society, Kozhinjampara, forwarded by the MLA, Chittur.
+
+ORDER
+
+  Whereas genuine farmers — especially the elderly and tenant cultivators —
+face hardship from repeated document demands and biometric failures at the point
+of sale, while diversion to wrong persons must be prevented;
+
+  Government, having considered the matter, hereby order that, through the
+co-operative (PACS) network —
+
+  (1) a one-time verified "Farmer Registration / ID," linked once to Aadhaar,
+      land / registered-lease record and Soil Health Card, shall be issued, so
+      that documents (including land-tax receipts) are not demanded at every
+      purchase;
+  (2) biometric alternatives (OTP / face authentication) and purchase by an
+      authorised family member / registered nominee shall be permitted for the
+      elderly, ill and differently-abled;
+  (3) registered tenant / lease cultivators (via Padasekhara Samithis / lease
+      registers / Krishi Bhavan certificates) shall be recognised as eligible;
+  (4) the land-tax receipt shall not be insisted upon at each sale once the
+      one-time registration is complete;
+  (5) crop-wise / area-wise entitlement ceilings shall be enforced in the
+      PoS/iFMS, with flagging of bulk/abnormal purchases and audit, to block
+      diversion and cross-border leakage; and
+  (6) PACS in Eruthempathy, Vadakarapathy and Kozhinjampara shall be assured
+      buffer stock and upgraded PoS connectivity during the peak season.
+
+                                        By order of the Governor,
+                                        __________________________
+                                        Secretary to Government
+To  The Registrar of Co-operative Societies; the Director of Agriculture
+    Development & Farmers' Welfare.
+    Copy to: Agriculture Dept.; Food & Civil Supplies Dept.; the MLA, Chittur.
+```
+

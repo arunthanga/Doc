@@ -31,7 +31,11 @@ We are farmer-representatives of the Chittur Agriculture Marketing Society, Kozh
 
 3. **Deepening borewells.** Because surface water is scarce and rainfall is low, farmers depend almost entirely on borewells. Water tables have fallen steeply — borewells that were once 400–600 ft now increasingly **cross 800–1,000 ft** in these panchayats.
 
-4. **The power bottleneck.** Following the groundwater regime tightened after the Plachimada (Perumatty panchayat) bottling-plant water controversy and under the **Kerala Ground Water (Control and Regulation) Act, 2002 and Rules, 2004**, an electricity connection to a well/borewell requires a permit from the Ground Water Authority. In practice, agricultural connections in this belt are effectively held at around **3 HP**; the district-level committee sanctions motors only in the **3–5 HP** band, and anything above 5 HP has to go all the way to the **State-level authority**, causing long delays.
+4. **The power bottleneck — the exact legal position.** Following the groundwater regime tightened after the Plachimada (Perumatty panchayat) bottling-plant water controversy:
+   - Under the **Kerala Ground Water (Control and Regulation) Act, 2002 (Act 19 of 2003)** and the **Kerala Ground Water (Control and Regulation) Rules, 2004**, the Government, exercising powers under **Section 6(1)**, notified certain areas as "notified areas." By **G.O.(P) No. 58/2005/WRD dated 19-11-2005**, **Chittoor (Palakkad District) was declared a notified area** (along with Athiyannur, Kodungalloor, Kozhikode and Kasaragode).
+   - Consequently, under **Section 7** of the Act, extraction of groundwater in Chittoor requires a **permit from the Kerala State Ground Water Authority**.
+   - By **KSEB Board Circular dated 05-06-2007** (Circular_Control_05-06-2007), the Board directed that an **electric connection to any open well / borewell within a notified area shall be given only on production of the Ground Water Authority permit**, treating that permit as a statutory clearance — in line with the proviso to **Clause 6(1) of the Kerala Electricity Supply Code** (now the **Kerala Electricity Supply Code, 2014**).
+   - Under the Ground Water Department's operating practice, the **District-level committee sanctions motors only in the 3–5 HP band**, and motors **above 5 HP require State-level authority** approval, so in practice farmers in this belt are effectively held at around **3 HP**, with long delays for anything higher.
 
 5. **Why 3 HP is not enough.** A 3 HP pump simply cannot lift adequate water from a borewell that is 800–1,000 ft deep. The result is that farms cannot be irrigated even where a valid well exists, causing crop loss and distress among paddy, banana, coconut and vegetable growers who have no alternative source of water.
 
@@ -66,3 +70,59 @@ _________________________
 [Phone / Email]
 
 Endorsed by: Adv. Sumesh Achuthan, MLA, Chittur
+
+---
+
+## Annexure — Draft Government Order (model, for the Government's consideration)
+
+> The following is a model draft placed for the Government's consideration. The actual G.O. number, date and file references are to be assigned by the Department.
+
+```
+GOVERNMENT OF KERALA
+Abstract
+
+Power (Electricity) Department — Agricultural electric connections in the
+notified "critical" ground-water areas of Chittoor block, Palakkad District —
+Enhancement of permissible motor capacity up to 5 HP for deep bore-wells and
+single-window clearance — Sanctioned — Orders issued.
+
+POWER (ELECTRICITY) DEPARTMENT
+G.O.(Ms) No. ______/2026/PD          Thiruvananthapuram, dated __-__-2026
+
+Read:  1. The Kerala Ground Water (Control and Regulation) Act, 2002
+          (Act 19 of 2003) and Rules, 2004.
+       2. G.O.(P) No. 58/2005/WRD dated 19-11-2005 (notified areas).
+       3. KSEB Board Circular dated 05-06-2007.
+       4. Representation dated 15-07-2026 of the Chittur Agriculture
+          Marketing Society, Kozhinjampara, forwarded by the MLA, Chittur.
+
+ORDER
+
+  Whereas Chittoor block is a notified area under the Act read above (2)
+and one of the "Critical" ground-water blocks of the State; and whereas
+bore-wells in Eruthempathy, Vadakarapathy and Kozhinjampara now commonly
+exceed 800–1,000 ft, for which a 3 HP pump-set is technically insufficient;
+
+  Government, having considered the matter, hereby order that —
+
+  (1) KSEB Ltd. shall sanction agricultural (LT-VA) connections up to 5 HP
+      as a matter of course to genuine cultivators in the said panchayats,
+      on production of the Ground Water Authority permit, where the certified
+      bore-well depth exceeds [500/800] ft;
+  (2) applications for connections above 5 HP for genuinely deep bore-wells
+      shall be disposed by the State Ground Water Authority within [30] days
+      on the basis of a well-depth certificate;
+  (3) a single-window mechanism shall process the GWA permit and the KSEB
+      connection together within a fixed time-limit;
+  (4) the concessional LT-VA agricultural tariff shall continue to apply; and
+  (5) the Department shall examine dedicated agricultural feeders / PM-KUSUM
+      solar-pump support for the belt.
+
+                                        By order of the Governor,
+                                        __________________________
+                                        Secretary to Government
+To  The Chairman & Managing Director, KSEB Ltd.
+    The Member Secretary, Kerala State Ground Water Authority.
+    Copy to: Agriculture Dept.; Water Resources Dept.; the MLA, Chittur.
+```
+

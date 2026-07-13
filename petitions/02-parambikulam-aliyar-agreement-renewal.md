@@ -28,13 +28,13 @@ Chittur is the **eastern-most** agricultural tract of Kerala. Almost every river
 
 ## 3. The agreement and its shortfall — the facts
 
-1. **The agreement.** The PAP agreement was signed between Kerala and Tamil Nadu on **29 May 1970**, with retrospective effect from **9 November 1958**.
+1. **The agreement.** The PAP agreement was signed between Kerala and Tamil Nadu on **29 May 1970**, with **retrospective effect from 9 November 1958**. Being an inter-State river-water matter, it falls within the framework of the **Inter-State River Water Disputes Act, 1956** and Entry 56 of the Union List / Article 262 of the Constitution — a subject held at the level of the **Hon'ble Chief Minister (Inter-State River Waters portfolio)**.
 
 2. **Renewal is decades overdue.** The agreement contains a clause for **review every 30 years**, i.e. it was **due for review in 1988**. Despite many rounds of official- and political-level talks, it **has still not been renewed** — a delay now of nearly four decades.
 
 3. **Kerala's assured share is not being received.** Under the agreement, Kerala is entitled to about **7,250 million cubic feet (≈ 7.25 TMC)** of water per water year (1 July – 10 June) at the **Manakadavu weir** for the Chitturpuzha, in addition to an entitlement of about **2.5 TMC from the Parambikulam group of reservoirs for the exclusive use of the Chitturpuzha valley**. In practice, actual releases fall far short:
    - In the **2023–24 water year, Kerala received only about 3,573 mcft** (as reported to the Assembly up to January 2024) — roughly **half** the assured 7,250 mcft.
-   - The Kerala Assembly's **1994 ad-hoc committee** recorded that Kerala had received only about **15.9 TMC against a due share of 41.75 TMC**.
+   - The **Kerala Legislative Assembly Ad-hoc Committee on the Parambikulam–Mullaperiyar water-sharing agreement (Report, 1994)** recorded that Kerala had received only about **15.9 TMC against a due share of 41.75 TMC**.
 
 4. **Structural cause.** Following the construction of the chain of PAP dams and diversions, the natural flow that once reached the Chitturpuzha valley has been substantially curtailed; assured flows at Manakadavu and Sholayar are not being honoured in low-yield years, and Tamil Nadu has proposed further diversions without Kerala's concurrence.
 
@@ -67,3 +67,61 @@ _________________________
 [Phone / Email]
 
 Endorsed by: Adv. Sumesh Achuthan, MLA, Chittur
+
+---
+
+## Annexure — Draft Government Order (model, for the Government's consideration)
+
+> The following is a model draft placed for the Government's consideration. The actual G.O. number, date and file references are to be assigned by the Department.
+
+```
+GOVERNMENT OF KERALA
+Abstract
+
+Water Resources Department — Parambikulam–Aliyar Project (PAP) inter-State
+agreement dated 29-05-1970 with Tamil Nadu — Review/renewal (due since 1988)
+and realisation of Kerala's assured Chitturpuzha share at Manakadavu weir —
+Constitution of negotiating committee and installation of telemetry —
+Orders issued.
+
+WATER RESOURCES (INTER-STATE WATERS) DEPARTMENT
+G.O.(Ms) No. ______/2026/WRD          Thiruvananthapuram, dated __-__-2026
+
+Read:  1. The Parambikulam–Aliyar Project agreement dated 29-05-1970
+          (effective 09-11-1958), Article on review after 30 years.
+       2. Report (1994) of the Kerala Legislative Assembly Ad-hoc Committee
+          on the Parambikulam–Mullaperiyar agreement.
+       3. The Inter-State River Water Disputes Act, 1956.
+       4. Representation dated 15-07-2026 of the Chittur Agriculture
+          Marketing Society, Kozhinjampara, forwarded by the MLA, Chittur.
+
+ORDER
+
+  Whereas the review of the PAP agreement, due after 30 years (i.e. in 1988),
+remains pending; and whereas Kerala's assured entitlement of 7,250 mcft
+(≈7.25 TMC) at the Manakadavu weir for the Chitturpuzha is not being realised
+(only ≈3,573 mcft received in the 2023–24 water year);
+
+  Government, having considered the matter, hereby order that —
+
+  (1) the State shall accord top priority, at the Chief-Minister level, to the
+      review/renewal of the PAP agreement with the Government of Tamil Nadu;
+  (2) a Kerala–Tamil Nadu joint (Secretary-level) negotiating committee shall
+      be (re)constituted to conclude the review within a time-bound schedule;
+  (3) the Water Resources Department shall install telemetry/measuring stations
+      at the Manakadavu weir and Sholayar to verify and guarantee the assured
+      flows, including in low-yield years and summer months;
+  (4) the State shall press for the 2.5 TMC exclusive Chitturpuzha-valley share
+      and, failing a favourable response, examine recourse to the Union
+      Government / a statutory tribunal under the Act read above (3); and
+  (5) the Moolathara Right Bank Canal micro-irrigation extension serving
+      Eruthempathy/Vadakarapathy/Kozhinjampara shall be expedited.
+
+                                        By order of the Governor,
+                                        __________________________
+                                        Secretary to Government
+To  The Chief Secretary; the Principal Secretary, Water Resources.
+    Copy to: the Hon'ble Chief Minister's Office (Inter-State River Waters);
+    the Chief Engineer (IDRB); the MLA, Chittur.
+```
+
