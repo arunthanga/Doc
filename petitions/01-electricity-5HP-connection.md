@@ -54,7 +54,9 @@ We humbly request the Hon'ble Minister to:
 
 5. **Retain the concessional LT-VA agricultural tariff** for these enhanced-HP irrigation connections.
 
-6. Consider **dedicated agricultural feeders and solar-pump support (PM-KUSUM / State schemes)** so that the higher connected load does not raise the farmer's cost, and to make deep-borewell irrigation energy-efficient (paired with drip/micro-irrigation).
+6. **Ease the permission to install a TT (changeover) switch.** Every agricultural motor is now fitted with a **smart meter** that automatically detects and notifies any overshoot of the sanctioned HP limit, for which a **penalty is levied**. This automatic safeguard makes the earlier restrictive approach to TT / changeover-switch permission unnecessary. At present, obtaining **TT-switch permission for a free / subsidised agricultural EB connection is difficult and time-consuming**. We request that the process of granting **TT-switch (changeover-switch) permission be simplified and eased**, since any excess use is in any case automatically detected and penalised by the smart meter.
+
+7. Consider **dedicated agricultural feeders / assured three-phase supply hours** for the belt so that deep-borewell irrigation is reliable (paired with drip/micro-irrigation).
 
 We are willing to furnish panchayat-wise lists of affected farmers, borewell-depth data and pending connection applications.
 
@@ -121,9 +123,12 @@ exceed 800–1,000 ft, for which a 3 HP pump-set is technically insufficient;
       certificate, without any Ground Water Authority reference;
   (4) accordingly, the Ground Water Authority's flow-meter, daily-log and
       yield-test conditions shall not apply as a pre-condition to the EB line;
-  (5) the concessional LT-VA agricultural tariff shall continue to apply; and
-  (6) the Department shall examine dedicated agricultural feeders / PM-KUSUM
-      solar-pump support for the belt.
+  (5) the concessional LT-VA agricultural tariff shall continue to apply;
+  (6) the process for grant of permission to install a TT / change-over switch
+      for agricultural connections shall be simplified and eased, since the
+      smart meter now automatically detects and penalises any overshoot of the
+      sanctioned HP; and
+  (7) the Department shall examine dedicated agricultural feeders for the belt.
 
                                         By order of the Governor,
                                         __________________________
