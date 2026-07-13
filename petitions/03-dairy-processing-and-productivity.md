@@ -29,7 +29,7 @@ Chittur is among the foremost milk-producing regions of Kerala, yet the dairy-pr
 
 2. **Existing capacity is concentrated elsewhere in the district.** The Milma / MRCMPU **Palakkad Dairy at Kallepully** (commissioned 1967) and the **cattle-feed plant at Malampuzha** serve the district, and a straw-baling unit operates at Pattanchery. However, the **eastern Chittur belt (Kozhinjampara / Eruthempathy / Vadakarapathy) has little or no dedicated milk-processing / value-addition capacity of its own**, so much of the milk leaves the region as raw milk with limited local value addition.
 
-3. **Missing links.** There is **no dedicated frozen-semen / bull station or semen-preservation and AI-strengthening centre** in the Chittur region, and there is **no Veterinary and Animal Sciences College in Palakkad district** — the Kerala Veterinary & Animal Sciences University (KVASU) campuses are far away (Pookode, Wayanad; Mannuthy, Thrissur). This limits both productivity support to farmers and skilled veterinary manpower locally.
+3. **Missing links.** There is **no dedicated frozen-semen / bull station or semen-preservation and AI-strengthening centre** in the Chittur region (frozen-semen production is concentrated at the **Kerala Livestock Development Board (KLDB)** stations elsewhere in the State), and there is **no Veterinary and Animal Sciences College in Palakkad district** — the campuses of the **Kerala Veterinary and Animal Sciences University (KVASU), established under the Kerala Veterinary and Animal Sciences University Act, 2010**, are far away (Pookode, Wayanad; Mannuthy, Thrissur). The dairy co-operative structure functions through Milma / MRCMPU under the **Kerala Co-operative Societies Act, 1969**. This limits both productivity support to farmers and skilled veterinary manpower locally.
 
 ## 3. Our prayer
 
@@ -65,3 +65,60 @@ _________________________
 [Phone / Email]
 
 Endorsed by: Adv. Sumesh Achuthan, MLA, Chittur
+
+---
+
+## Annexure — Draft Government Order (model, for the Government's consideration)
+
+> The following is a model draft placed for the Government's consideration. The actual G.O. number, date and file references are to be assigned by the Department.
+
+```
+GOVERNMENT OF KERALA
+Abstract
+
+Animal Husbandry & Dairy Development Department — Chittur (Palakkad), a leading
+milk-producing region — Establishment of dairy value-addition / cattle-feed /
+semen-preservation facilities and a Veterinary College, and productivity
+measures — Administrative sanction accorded — Orders issued.
+
+ANIMAL HUSBANDRY & DAIRY DEVELOPMENT DEPARTMENT
+G.O.(Ms) No. ______/2026/AHD          Thiruvananthapuram, dated __-__-2026
+
+Read:  1. The Kerala Veterinary and Animal Sciences University Act, 2010.
+       2. The Kerala Co-operative Societies Act, 1969 (Milma/MRCMPU).
+       3. Representation dated 15-07-2026 of the Chittur Agriculture
+          Marketing Society, Kozhinjampara, forwarded by the MLA, Chittur.
+
+ORDER
+
+  Whereas Palakkad district, with the Chittur belt as a major contributor,
+records daily milk collection of the order of 3 lakh litres sustained by about
+30,000 dairy farmers, yet lacks dedicated processing/value-addition, cattle-feed,
+and semen-preservation infrastructure in the eastern belt and a veterinary
+college in the district;
+
+  Government, having considered the matter, hereby accord administrative
+sanction / order that —
+
+  (1) a modern dairy products / value-addition and processing plant (or capacity
+      expansion) shall be established in the Chittur belt through Milma/MRCMPU;
+  (2) a cattle-feed manufacturing unit shall be set up in Chittur using locally
+      available maize and agricultural residues;
+  (3) a frozen-semen / semen-preservation and AI-strengthening centre (with
+      sexed-semen and embryo-transfer facilities) shall be established through
+      KLDB / the Department;
+  (4) the establishment of a KVASU Veterinary and Animal Sciences College in
+      Palakkad/Chittur shall be examined and processed; and
+  (5) fodder development (maize/azolla/TMR), bulk milk coolers, mineral-mixture
+      supply, herd-health camps, high-genetic-merit semen and cattle insurance
+      shall be strengthened in the belt.
+
+                                        By order of the Governor,
+                                        __________________________
+                                        Secretary to Government
+To  The Director of Dairy Development; the Director of Animal Husbandry;
+    the Managing Director, KLDB; the Chairman, Milma / MRCMPU;
+    the Vice-Chancellor, KVASU.
+    Copy to: Co-operation Department; the MLA, Chittur.
+```
+

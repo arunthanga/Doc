@@ -30,4 +30,16 @@ These drafts were prepared using publicly reported data (Central Ground Water Bo
 
 **Before printing on the Society's letterhead**, please fill in the bracketed blanks `[...]` (names, signatories, phone, membership numbers), attach the noted annexures, and, where useful, add a Malayalam translation. Any Government Order (G.O.) numbers should be verified with the MLA's office / department for the latest reference.
 
+## Government Order references and templates
+
+Each English petition now (a) cites the **exact Government Order / statutory instrument** inline (e.g. *G.O.(P) No. 58/2005/WRD dated 19-11-2005* notifying Chittoor under the Kerala Ground Water Act; *KSEB Board Circular dated 05-06-2007*; *CPCB Directions dated 07-03-2016*; the *Fertilizer (Control) Order, 1985*; the *PAP agreement dated 29-05-1970*), and (b) ends with a **model "Draft Government Order"** in Kerala G.O. format that the Minister may adopt (the actual G.O. number/date/file references are left blank for the Department to assign).
+
+## Language versions
+
+- **English:** the numbered files in this folder (`01`–`05`) and `00-README`.
+- **Malayalam (മലയാളം):** `ml/` sub-folder.
+- **Tamil (தமிழ்):** `ta/` sub-folder.
+
+PDFs for all three languages are generated into `pdf/` by `build-petitions-pdf.py`.
+
 The individual petitions are in the numbered files in this folder.

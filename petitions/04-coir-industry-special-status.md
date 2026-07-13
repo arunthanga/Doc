@@ -29,12 +29,12 @@ Chittur adjoins the Pollachi belt of Tamil Nadu and has abundant coconut and coi
 
 2. **The consequence.** Because of this gap, the **polluting / primary processes (de-fibring, pith buffering) are carried out in Pollachi**, while only value-addition (mats, yarn, mattings, geotextiles) is done in Kerala. Coir entrepreneurs — including many from Kerala — have set up primary units in Pollachi, taking away investment, jobs and the value of our own coconut husk.
 
-3. **CPCB norms actually permit a lighter category.** The Central Pollution Control Board's own methodology and its 2023 draft / 2025 classification place coir at a **much lighter category than Red**:
+3. **CPCB norms actually permit a lighter category.** The **CPCB Directions dated 07-03-2016** (No. B-29012/ESS(CPA)/2015-16), issued under **Section 18(1)(b) of the Water (Prevention and Control of Pollution) Act, 1974**, harmonised the classification on a **Pollution Index (PI)** basis — **Red (PI ≥ 60), Orange (41–59), Green (21–40), White (≤ 20)** — and this has been carried forward by the **CPCB Directions dated 12-02-2025**. Under this methodology and the current classification, coir is placed at a **much lighter category than Red**:
    - Coir **fibre / pith processing generating effluent — Green**;
    - Coir fibre / pith processing and manufacture of coir products by **dry process — White**;
    - Only coir **bleaching / dyeing / printing — Orange**.
 
-   In other words, a blanket Red/Orange treatment of ordinary de-fibring and dry pith processing in Kerala is **stricter than the CPCB norm requires**, and Kerala can align without diluting genuine environmental safeguards.
+   For comparison, the **TNPCB Board Proceedings dated 10-11-2021** briefly moved coir from White to Orange, but this was **withdrawn in 2023**, retaining coconut-husk retting, de-fibring and pith-processing in the **White** category in Tamil Nadu. In other words, a blanket Red/Orange treatment of ordinary de-fibring and dry pith processing in Kerala is **stricter than the CPCB norm requires**, and the Kerala State Pollution Control Board can align (under the same 2016/2025 Directions) without diluting genuine environmental safeguards.
 
 ## 3. Our prayer
 
@@ -62,3 +62,59 @@ _________________________
 [Phone / Email]
 
 Endorsed by: Adv. Sumesh Achuthan, MLA, Chittur
+
+---
+
+## Annexure — Draft Government Order (model, for the Government's consideration)
+
+> The following is a model draft placed for the Government's consideration. The actual G.O. number, date and file references are to be assigned by the Department.
+
+```
+GOVERNMENT OF KERALA
+Abstract
+
+Industries Department — Coir sector in Chittur (Palakkad) — Alignment of the
+pollution-category of coir de-fibring and dry coir-pith processing with the CPCB
+Directions, and grant of special coir-cluster status with a Common Facility
+Centre — Orders issued.
+
+INDUSTRIES (COIR) DEPARTMENT
+G.O.(Ms) No. ______/2026/ID          Thiruvananthapuram, dated __-__-2026
+
+Read:  1. CPCB Directions dated 07-03-2016 (No. B-29012/ESS(CPA)/2015-16)
+          u/s 18(1)(b) of the Water (Prevention and Control of Pollution)
+          Act, 1974, and CPCB Directions dated 12-02-2025.
+       2. TNPCB proceedings dated 10-11-2021 and their withdrawal (2023).
+       3. Representation dated 15-07-2026 of the Chittur Agriculture
+          Marketing Society, Kozhinjampara, forwarded by the MLA, Chittur.
+
+ORDER
+
+  Whereas the primary coir processes (husk retting, de-fibring, dry pith
+processing) are treated more stringently in Kerala than the CPCB PI-based norm
+requires, causing these units and their employment to migrate to Pollachi
+(Tamil Nadu), where they are in the White category;
+
+  Government, having considered the matter, hereby order that —
+
+  (1) the Kerala State Pollution Control Board shall re-align the category of
+      coir de-fibring and dry coir-pith processing to Green/White, consistent
+      with the CPCB Directions read above (1), retaining regulation only for
+      bleaching/dyeing;
+  (2) a special coir-cluster / coir industrial-zone status is accorded to
+      Chittur, with an SPV and a Common Facility Centre (mechanised de-fibring,
+      pith washing/block-making with Zero-Liquid-Discharge and salinity
+      management);
+  (3) capital subsidy, interest subvention and power-tariff parity with
+      Tamil Nadu shall be extended to coir units in Chittur; and
+  (4) the Industries and Coir Directorates shall ensure a level playing field so
+      that value addition to Kerala's coconut husk is retained within the State.
+
+                                        By order of the Governor,
+                                        __________________________
+                                        Secretary to Government
+To  The Director of Industries & Commerce; the Director of Coir Development;
+    the Chairman, Kerala State Pollution Control Board.
+    Copy to: the Minister for Coir; Environment Dept.; the MLA, Chittur.
+```
+
