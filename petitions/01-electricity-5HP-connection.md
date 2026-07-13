@@ -15,7 +15,7 @@ Thiruvananthapuram
 
 **Date:** 15 July 2026, Thiruvananthapuram.
 
-**Subject:** Request to permit and expedite agricultural electricity connections up to **5 HP** (and, where justified, above 5 HP) for deep irrigation borewells in the rain-shadow panchayats of Eruthempathy, Vadakarapathy, Kozhinjampara and adjoining areas of the Chittur block.
+**Subject:** Request to (a) grant agricultural electricity connections for deep irrigation borewells in the rain-shadow panchayats of Eruthempathy, Vadakarapathy, Kozhinjampara and adjoining areas of the Chittur block **directly through KSEB, without any involvement of the Ground Water Authority**, and (b) permit and expedite such connections up to **5 HP** (and, where justified, above 5 HP).
 
 ---
 
@@ -44,15 +44,15 @@ We are farmer-representatives of the Chittur Agriculture Marketing Society, Kozh
 
 We humbly request the Hon'ble Minister to:
 
-1. **Sanction agricultural EB connections up to 5 HP as the norm** for genuine cultivators in Eruthempathy, Vadakarapathy, Kozhinjampara (and comparable critical-zone areas of Chittur block) where the certified borewell depth exceeds a reasonable threshold (e.g. 500/800 ft), on production of the Ground Water Authority permit.
+1. **Remove the Ground Water Authority from the electric-connection process altogether.** The Ground Water Authority shall **not be involved at all** in granting an agricultural EB connection for a borewell in these panchayats. Accordingly, the requirement — under the **KSEB Board Circular dated 05-06-2007** — that a Ground Water Authority permit be produced as a pre-condition for the connection should be **withdrawn / relaxed** for agricultural connections in the Chittur belt, so that **KSEB grants the connection directly** without any reference to the Ground Water Authority.
 
-2. **Expedite and simplify** clearances for connections **above 5 HP** in genuinely deep borewells, on the basis of a well-depth certificate, without routine referral delays.
+2. **Sanction agricultural EB connections up to 5 HP as the norm** for genuine cultivators in Eruthempathy, Vadakarapathy, Kozhinjampara (and comparable areas of Chittur block) where the certified borewell depth exceeds a reasonable threshold (e.g. 500/800 ft), **directly by KSEB** on a simple application and well-depth certificate.
 
-3. Establish a **single-window** so that the Ground Water Authority permit and the KSEB connection are processed together within a fixed time limit.
+3. **Expedite** connections **above 5 HP** in genuinely deep borewells, on the basis of a well-depth certificate, **without any Ground Water Authority reference** and without routine referral delays.
 
-4. **Retain the concessional LT-VA agricultural tariff** for these enhanced-HP irrigation connections.
+4. Since the Ground Water Authority is not to be involved, the **flow-meter, daily-log and yield-test conditions** presently imposed by the Authority **shall not apply as a pre-condition** to the agricultural EB connection.
 
-5. **Make the flow-meter, daily-log and yield-test conditions practical** — for genuine small and marginal farmers in these panchayats, simplify or relax the mandatory flow-meter installation and daily-reading requirement (e.g. a one-time meter with periodic reading, or exemption below a threshold HP/depth), and fix crop-based, realistic daily-extraction ceilings, so that these conditions do not delay or block the EB connection.
+5. **Retain the concessional LT-VA agricultural tariff** for these enhanced-HP irrigation connections.
 
 6. Consider **dedicated agricultural feeders and solar-pump support (PM-KUSUM / State schemes)** so that the higher connected load does not raise the farmer's cost, and to make deep-borewell irrigation energy-efficient (paired with drip/micro-irrigation).
 
@@ -84,10 +84,10 @@ Endorsed by: Adv. Sumesh Achuthan, MLA, Chittur
 GOVERNMENT OF KERALA
 Abstract
 
-Power (Electricity) Department — Agricultural electric connections in the
-notified "critical" ground-water areas of Chittoor block, Palakkad District —
-Enhancement of permissible motor capacity up to 5 HP for deep bore-wells and
-single-window clearance — Sanctioned — Orders issued.
+Power (Electricity) Department — Agricultural electric connections for deep
+bore-wells in Chittoor block, Palakkad District — De-linking the connection
+from the Ground Water Authority permit and enhancing permissible motor
+capacity up to 5 HP — Sanctioned — Orders issued.
 
 POWER (ELECTRICITY) DEPARTMENT
 G.O.(Ms) No. ______/2026/PD          Thiruvananthapuram, dated __-__-2026
@@ -108,19 +108,19 @@ exceed 800–1,000 ft, for which a 3 HP pump-set is technically insufficient;
 
   Government, having considered the matter, hereby order that —
 
-  (1) KSEB Ltd. shall sanction agricultural (LT-VA) connections up to 5 HP
-      as a matter of course to genuine cultivators in the said panchayats,
-      on production of the Ground Water Authority permit, where the certified
-      bore-well depth exceeds [500/800] ft;
-  (2) applications for connections above 5 HP for genuinely deep bore-wells
-      shall be disposed by the State Ground Water Authority within [30] days
-      on the basis of a well-depth certificate;
-  (3) a single-window mechanism shall process the GWA permit and the KSEB
-      connection together within a fixed time-limit;
-  (4) the Ground Water Authority's flow-meter, daily-log and yield-test
-      conditions shall be made practical for small/marginal farmers (one-time
-      meter with periodic reading or exemption below a threshold; realistic,
-      crop-based daily-extraction ceilings) so as not to delay the EB line;
+  (1) the requirement under the Circular read above (3) — that a Ground Water
+      Authority permit be produced as a pre-condition — shall NOT apply to
+      agricultural connections in the said panchayats; the Ground Water
+      Authority shall not be involved in the grant of such connections;
+  (2) KSEB Ltd. shall sanction agricultural (LT-VA) connections up to 5 HP
+      directly, as a matter of course, to genuine cultivators in the said
+      panchayats on a simple application and well-depth certificate, where the
+      certified bore-well depth exceeds [500/800] ft;
+  (3) applications for connections above 5 HP for genuinely deep bore-wells
+      shall be disposed by KSEB within [30] days on the basis of a well-depth
+      certificate, without any Ground Water Authority reference;
+  (4) accordingly, the Ground Water Authority's flow-meter, daily-log and
+      yield-test conditions shall not apply as a pre-condition to the EB line;
   (5) the concessional LT-VA agricultural tariff shall continue to apply; and
   (6) the Department shall examine dedicated agricultural feeders / PM-KUSUM
       solar-pump support for the belt.
