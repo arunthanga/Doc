@@ -36,6 +36,7 @@ We are farmer-representatives of the Chittur Agriculture Marketing Society, Kozh
    - Consequently, under **Section 7** of the Act, extraction of groundwater in Chittoor requires a **permit from the Kerala State Ground Water Authority**.
    - By **KSEB Board Circular dated 05-06-2007** (Circular_Control_05-06-2007), the Board directed that an **electric connection to any open well / borewell within a notified area shall be given only on production of the Ground Water Authority permit**, treating that permit as a statutory clearance — in line with the proviso to **Clause 6(1) of the Kerala Electricity Supply Code** (now the **Kerala Electricity Supply Code, 2014**).
    - Under the Ground Water Department's operating practice, the **District-level committee sanctions motors only in the 3–5 HP band**, and motors **above 5 HP require State-level authority** approval, so in practice farmers in this belt are effectively held at around **3 HP**, with long delays for anything higher.
+   - Further, before the borewell / EB line is approved, the **Ground Water Authority requires the farmer to install a water flow meter on the well and submit its readings**, and grants the extraction/conversion permit **subject to a ceiling on daily extraction** fixed on the basis of a **yield test**. In our critical-zone belt these flow-meter, daily-log and yield-test conditions are difficult and impractical for small and marginal farmers to comply with and add further delay to obtaining the EB connection.
 
 5. **Why 3 HP is not enough.** A 3 HP pump simply cannot lift adequate water from a borewell that is 800–1,000 ft deep. The result is that farms cannot be irrigated even where a valid well exists, causing crop loss and distress among paddy, banana, coconut and vegetable growers who have no alternative source of water.
 
@@ -51,7 +52,9 @@ We humbly request the Hon'ble Minister to:
 
 4. **Retain the concessional LT-VA agricultural tariff** for these enhanced-HP irrigation connections.
 
-5. Consider **dedicated agricultural feeders and solar-pump support (PM-KUSUM / State schemes)** so that the higher connected load does not raise the farmer's cost, and to make deep-borewell irrigation energy-efficient (paired with drip/micro-irrigation).
+5. **Make the flow-meter, daily-log and yield-test conditions practical** — for genuine small and marginal farmers in these panchayats, simplify or relax the mandatory flow-meter installation and daily-reading requirement (e.g. a one-time meter with periodic reading, or exemption below a threshold HP/depth), and fix crop-based, realistic daily-extraction ceilings, so that these conditions do not delay or block the EB connection.
+
+6. Consider **dedicated agricultural feeders and solar-pump support (PM-KUSUM / State schemes)** so that the higher connected load does not raise the farmer's cost, and to make deep-borewell irrigation energy-efficient (paired with drip/micro-irrigation).
 
 We are willing to furnish panchayat-wise lists of affected farmers, borewell-depth data and pending connection applications.
 
@@ -114,8 +117,12 @@ exceed 800–1,000 ft, for which a 3 HP pump-set is technically insufficient;
       on the basis of a well-depth certificate;
   (3) a single-window mechanism shall process the GWA permit and the KSEB
       connection together within a fixed time-limit;
-  (4) the concessional LT-VA agricultural tariff shall continue to apply; and
-  (5) the Department shall examine dedicated agricultural feeders / PM-KUSUM
+  (4) the Ground Water Authority's flow-meter, daily-log and yield-test
+      conditions shall be made practical for small/marginal farmers (one-time
+      meter with periodic reading or exemption below a threshold; realistic,
+      crop-based daily-extraction ceilings) so as not to delay the EB line;
+  (5) the concessional LT-VA agricultural tariff shall continue to apply; and
+  (6) the Department shall examine dedicated agricultural feeders / PM-KUSUM
       solar-pump support for the belt.
 
                                         By order of the Governor,
