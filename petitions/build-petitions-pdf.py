@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Build print-ready A4 PDFs of the Chittur delegation petitions.
 
-- Converts each numbered Markdown petition in this folder to its own PDF.
-- Also produces a single combined PDF (cover note + all five petitions),
-  with each petition starting on a new page.
-- Rendered via headless Chrome (no extra Python deps beyond `markdown`).
+Languages:
+  - English  : the numbered *.md files in this folder
+  - Malayalam : ml/*.md
+  - Tamil     : ta/*.md
+
+For each language it produces one PDF per petition (into pdf/<lang>/) plus a
+single combined PDF (cover note + all petitions), each petition on a new page.
+Rendered via headless Chrome. Malayalam/Tamil glyphs use the Noto Indic fonts.
 """
 import pathlib
 import subprocess
@@ -17,32 +21,47 @@ HERE = pathlib.Path(__file__).parent
 OUT = HERE / "pdf"
 OUT.mkdir(exist_ok=True)
 
-STYLE = """
-  @page { size: A4; margin: 18mm 16mm; }
-  * { box-sizing: border-box; }
-  html, body { margin: 0; padding: 0; }
-  body {
-    font-family: "DejaVu Serif", Georgia, "Times New Roman", serif;
-    font-size: 11.5px; line-height: 1.55; color: #111;
-  }
-  h1 { font-size: 17px; text-align: center; border-bottom: 2px solid #333;
-       padding-bottom: 8px; margin: 0 0 14px; }
-  h2 { font-size: 13px; margin-top: 16px; color: #0b3d0b; }
-  h3 { font-size: 12px; margin-top: 12px; }
-  table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 10.5px; }
-  th, td { border: 1px solid #999; padding: 5px 7px; text-align: left; vertical-align: top; }
-  th { background: #eee; }
-  hr { border: none; border-top: 1px solid #bbb; margin: 14px 0; }
-  ol, ul { margin: 6px 0 6px 18px; }
-  .page { page-break-after: always; }
-  .page:last-child { page-break-after: auto; }
+# Latin serif first, with Noto Indic families as fall-backs for ML/TA glyphs.
+FONT_STACK = (
+    '"Noto Serif", Georgia, "Times New Roman", '
+    '"Noto Serif Malayalam", "Noto Sans Malayalam", '
+    '"Noto Serif Tamil", "Noto Sans Tamil", serif'
+)
+
+STYLE = f"""
+  @page {{ size: A4; margin: 18mm 16mm; }}
+  * {{ box-sizing: border-box; }}
+  html, body {{ margin: 0; padding: 0; }}
+  body {{ font-family: {FONT_STACK}; font-size: 11.5px; line-height: 1.6; color: #111; }}
+  h1 {{ font-size: 16.5px; text-align: center; border-bottom: 2px solid #333;
+       padding-bottom: 8px; margin: 0 0 14px; }}
+  h2 {{ font-size: 13px; margin-top: 16px; color: #0b3d0b; }}
+  h3 {{ font-size: 12px; margin-top: 12px; }}
+  table {{ border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 10.5px; }}
+  th, td {{ border: 1px solid #999; padding: 5px 7px; text-align: left; vertical-align: top; }}
+  th {{ background: #eee; }}
+  hr {{ border: none; border-top: 1px solid #bbb; margin: 14px 0; }}
+  ol, ul {{ margin: 6px 0 6px 18px; }}
+  blockquote {{ color: #444; border-left: 3px solid #bbb; margin: 8px 0; padding: 2px 10px; }}
+  pre {{ background: #f6f6f6; border: 1px solid #ddd; padding: 8px 10px; font-size: 9px;
+        line-height: 1.3; white-space: pre-wrap; word-wrap: break-word;
+        font-family: {FONT_STACK}; }}
+  code {{ font-family: {FONT_STACK}; }}
+  .page {{ page-break-after: always; }}
+  .page:last-child {{ page-break-after: auto; }}
 """
+
+LANGS = [
+    ("en", HERE, "English"),
+    ("ml", HERE / "ml", "Malayalam"),
+    ("ta", HERE / "ta", "Tamil"),
+]
 
 
 def md_to_html_fragment(path: pathlib.Path) -> str:
     return markdown.markdown(
         path.read_text(encoding="utf-8"),
-        extensions=["tables", "sane_lists"],
+        extensions=["tables", "sane_lists", "fenced_code"],
     )
 
 
@@ -51,6 +70,7 @@ def render(html_body: str, out_pdf: pathlib.Path) -> None:
         '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
         f"<style>{STYLE}</style></head><body>{html_body}</body></html>"
     )
+    out_pdf.parent.mkdir(parents=True, exist_ok=True)
     html_file = out_pdf.with_suffix(".html")
     html_file.write_text(html, encoding="utf-8")
     for chrome in ("google-chrome", "chromium", "chromium-browser"):
@@ -72,8 +92,6 @@ def render(html_body: str, out_pdf: pathlib.Path) -> None:
                     stdout=subprocess.DEVNULL,
                     stderr=subprocess.DEVNULL,
                 )
-                # Headless Chrome writes the PDF but may not always self-exit;
-                # wait until the file is produced, then stop the process.
                 deadline = time.time() + 60
                 while time.time() < deadline:
                     if proc.poll() is not None:
@@ -95,11 +113,13 @@ def render(html_body: str, out_pdf: pathlib.Path) -> None:
     print("PDF written:", out_pdf, f"({out_pdf.stat().st_size} bytes)")
 
 
-sources = sorted(p for p in HERE.glob("*.md"))
-combined_parts = []
-for src in sources:
-    frag = md_to_html_fragment(src)
-    combined_parts.append(f'<div class="page">{frag}</div>')
-    render(frag, OUT / f"{src.stem}.pdf")
-
-render("".join(combined_parts), OUT / "Chittur-Petitions-Combined.pdf")
+for code, folder, label in LANGS:
+    sources = sorted(p for p in folder.glob("*.md"))
+    if not sources:
+        continue
+    combined_parts = []
+    for src in sources:
+        frag = md_to_html_fragment(src)
+        combined_parts.append(f'<div class="page">{frag}</div>')
+        render(frag, OUT / code / f"{src.stem}.pdf")
+    render("".join(combined_parts), OUT / f"Chittur-Petitions-{label}-Combined.pdf")
