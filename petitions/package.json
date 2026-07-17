@@ -1,0 +1,12 @@
+{
+  "name": "chittur-coir-petition",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generator for the formal Word (.docx) petition on coir pollution-category parity for Chittur (KSPCB vs TNPCB).",
+  "scripts": {
+    "build": "node build-coir-petition-docx.js"
+  },
+  "dependencies": {
+    "docx": "^9.7.1"
+  }
+}

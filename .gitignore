@@ -3,3 +3,5 @@ iffco-dpr.html
 chrome.log
 /tmp/chrome-dpr-profile/
 petitions/pdf/*.html
+node_modules/
+petitions/node_modules/
