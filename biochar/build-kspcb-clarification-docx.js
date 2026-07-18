@@ -71,9 +71,9 @@ const children = [];
 
 /* letterhead */
 children.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 16 },
-  children: [new TextRun({ text: "ARUN AND FRIENDS", font: "Times New Roman", size: 28, bold: true, color: INK })] }));
+  children: [new TextRun({ text: "ARUN T.", font: "Times New Roman", size: 28, bold: true, color: INK })] }));
 children.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 4 },
-  children: [new TextRun({ text: "(Proposed partnership enterprise — Tender-Coconut & Agri-Biomass Biochar Unit)", font: "Times New Roman", size: 19, italics: true, color: "555555" })] }));
+  children: [new TextRun({ text: "(Sole proprietary concern \u2014 Tender-Coconut & Agri-Biomass Biochar Unit)", font: "Times New Roman", size: 19, italics: true, color: "555555" })] }));
 children.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 2 },
   children: [new TextRun({ text: "4/296, Mangapallam South, RVP Pudur Post, Palakkad District, Kerala \u2013 678555", font: "Times New Roman", size: 19, color: "555555" })] }));
 children.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 40 },
@@ -83,7 +83,7 @@ children.push(thinRule());
 /* ref + date */
 children.push(new Paragraph({ spacing: { after: 60 },
   tabStops: [{ type: TabStopType.RIGHT, position: CONTENT_W }],
-  children: [b("Ref: "), t("AAF/KSPCB/CAT/2026/[__]"), new TextRun({ text: "\t", font: "Times New Roman", size: 22 }), b("Date: "), t("[__] July 2026")] }));
+  children: [b("Ref: "), t("AT/KSPCB/CAT/2026/[__]"), new TextRun({ text: "\t", font: "Times New Roman", size: 22 }), b("Date: "), t("[__] July 2026")] }));
 
 /* addressee */
 children.push(labelLine("To:", [
@@ -92,7 +92,8 @@ children.push(labelLine("To:", [
   t("Pattom, Thiruvananthapuram \u2013 695004."),
 ]));
 children.push(labelLine("Copy to:", [
-  t("The Environmental Engineer, KSPCB District Office, Palakkad."),
+  t("1. The Environmental Engineer, KSPCB District Office, Palakkad."), new TextRun({ break: 1 }),
+  t("2. The Convener, Kerala State Expert Committee on Biochar."),
 ]));
 
 /* subject */
@@ -116,11 +117,11 @@ children.push(thinRule());
 /* 1. respected sir */
 children.push(new Paragraph({ spacing: { after: 100, line: 276 }, children: [t("Respected Sir/Madam,")] }));
 children.push(para([
-  t("We, "), b("Arun and Friends"),
-  t(" (a proposed partnership enterprise), intend to establish a "),
+  t("I, "), b("Arun T."),
+  t(", proprietor of a proposed sole proprietary concern, intend to establish a "),
   b("continuous, low-emission biochar unit"),
-  t(" on an owned 38-cent plot at Eruthenpathy, Chittur Taluk (Block No. 30, Survey No. 300), Palakkad. Before filing our Consent to Establish, we respectfully seek a "),
-  b("written clarification on the sector entry and pollution-category applicable to our unit"),
+  t(" on my owned 38-cent plot at Eruthenpathy, Chittur Taluk (Block No. 30, Survey No. 300), Palakkad. Before filing my Consent to Establish, I respectfully seek a "),
+  b("written clarification on the sector entry and pollution-category applicable to the unit"),
   t(" under the revised categorisation list as on 29.12.2025."),
 ]));
 
@@ -134,7 +135,7 @@ children.push(bullet([b("Process & controls: "), t("closed, continuous/semi-cont
 /* 3. classification question with candidate table */
 children.push(h(3, "The classification question"));
 children.push(para([
-  t("Our unit could be read against either of two entries. We request confirmation of which one applies:"),
+  t("The unit could be read against either of two entries. I request confirmation of which one applies:"),
 ]));
 {
   const cw = [4838, 1600, 3200];
@@ -150,7 +151,7 @@ children.push(para([
       cell("Consent to Establish + Consent to Operate; periodic monitoring", { widthDxa: cw[2] }),
     ]}),
     new TableRow({ children: [
-      cell("General charcoal / char (biochar) production \u2014 as we understand it is classified under the revised list as on 29.12.2025", { widthDxa: cw[0] }),
+      cell("General charcoal / char (biochar) production \u2014 as I understand it is classified under the revised list as on 29.12.2025", { widthDxa: cw[0] }),
       cell([catRun("GREEN", GREENC)], { widthDxa: cw[1] }),
       cell("Simplified consent regime", { widthDxa: cw[2] }),
     ]}),
@@ -160,18 +161,18 @@ children.push(para([
 children.push(new Paragraph({ spacing: { after: 100 }, children: [t("")] }));
 
 /* 4. why we submit the general/green entry fits */
-children.push(h(4, "Why we submit the general (lighter) entry is the correct fit"));
-children.push(bullet([b("Not \u201Ccoconut shell.\u201D "), t("Our feedstock is mixed agri-biomass, not a coconut-shell-only charge; the 10.08.2024 Orange entry is worded specifically for \u201Ccoconut shell.\u201D")]));
+children.push(h(4, "Why I submit the general (lighter) entry is the correct fit"));
+children.push(bullet([b("Not \u201Ccoconut shell.\u201D "), t("The feedstock is mixed agri-biomass, not a coconut-shell-only charge; the 10.08.2024 Orange entry is worded specifically for \u201Ccoconut shell.\u201D")]));
 children.push(bullet([b("Not \u201Ccharcoal\u201D for fuel, nor activated carbon. "), t("The product is biochar for soil; there is no oil/carbon-black recovery and no chemical/steam activation \u2014 the features that drive the heavier categories.")]));
 children.push(bullet([b("Low pollution potential on the CPCB Pollution-Index basis. "), t("A closed, continuous process with afterburner, scrubber, controlled stack emissions and Zero-Liquid-Discharge has a materially lower Pollution Index than the coconut-shell charcoal / activated-carbon activities.")]));
 children.push(bullet([b("Guideline-compliant by design. "), t("The unit is designed to meet the \u201CEnvironmental Guidelines for Charcoal Manufacturing Units\u201D dated 02.12.2025 (emission control, stack, ash/dust housekeeping, heat reutilisation, responsible feedstock sourcing).")]));
 
 /* 5. clarifications sought */
 children.push(h(5, "Clarifications requested"));
-children.push(para([t("We respectfully request the Board to clarify, in writing:")]));
+children.push(para([t("I respectfully request the Board to clarify, in writing:")]));
 children.push(numItem([b("The applicable entry and category. "), t("Whether the described agri-biomass biochar (soil-amendment) unit falls under the general charcoal/char (biochar) production entry (Green) in the revised list as on 29.12.2025, rather than the \u201Ccharcoal production from coconut shell by pyrolysis\u201D (Orange) entry of 10.08.2024.")]));
-children.push(numItem([b("If Orange is held to apply, "), t("the consent conditions, and whether the unit is eligible for the self-certification route under the 16.09.2025 circular at our capital-investment level.")]));
-children.push(numItem([b("The applicable technical norms "), t("(emission limits, minimum stack height, distance/siting criteria) under the 02.12.2025 charcoal guidelines that we must design to.")]));
+children.push(numItem([b("If Orange is held to apply, "), t("the consent conditions, and whether the unit is eligible for the self-certification route under the 16.09.2025 circular at my capital-investment level.")]));
+children.push(numItem([b("The applicable technical norms "), t("(emission limits, minimum stack height, distance/siting criteria) under the 02.12.2025 charcoal guidelines that I must design to.")]));
 children.push(numItem([b("Confirmation that no public hearing or Environmental Clearance "), t("is required for the unit (being outside the Red / EIA-2006 scheduled category).")]));
 
 /* 6. enclosures */
@@ -182,16 +183,16 @@ children.push(bullet([t("Feedstock list and plot details (survey no., extent, la
 
 /* closing */
 children.push(new Paragraph({ spacing: { before: 160, after: 120, line: 276 }, children: [
-  t("An early written clarification will let us file a correctly-categorised Consent to Establish and design the unit to the exact norms. We shall be glad to furnish any further particulars or meet the concerned officer at the District Office."),
+  t("An early written clarification will let me file a correctly-categorised Consent to Establish and design the unit to the exact norms. I shall be glad to furnish any further particulars or meet the concerned officer at the District Office."),
 ]}));
 children.push(new Paragraph({ spacing: { after: 60 }, children: [t("Thanking you,")] }));
 children.push(new Paragraph({ spacing: { after: 200 }, children: [t("Yours faithfully,")] }));
 children.push(new Paragraph({ spacing: { after: 16 }, children: [t("_________________________________")] }));
-children.push(new Paragraph({ spacing: { after: 16 }, children: [b("Arun T."), t("  \u2014 for and on behalf of Arun and Friends (proposed)")] }));
+children.push(new Paragraph({ spacing: { after: 16 }, children: [b("Arun T."), t("  \u2014 Proprietor")] }));
 children.push(new Paragraph({ spacing: { after: 60 }, children: [t("Phone: 9901955667  \u00B7  Email: er.arunt@gmail.com")] }));
 
 const doc = new Document({
-  creator: "Arun and Friends (proposed)",
+  creator: "Arun T. (proprietor)",
   title: "KSPCB category clarification request — agri-biomass biochar unit, Chittur",
   description: "Written request to KSPCB for clarification of pollution-category (Orange vs Green) for a biomass biochar-for-soil unit.",
   styles: {
@@ -209,7 +210,7 @@ const doc = new Document({
       alignment: AlignmentType.CENTER,
       tabStops: [{ type: TabStopType.RIGHT, position: CONTENT_W }],
       children: [
-        new TextRun({ text: "Arun and Friends \u2014 KSPCB category clarification (biochar unit, Chittur)", font: "Times New Roman", size: 16, color: "999999" }),
+        new TextRun({ text: "Arun T. \u2014 KSPCB category clarification (biochar unit, Chittur)", font: "Times New Roman", size: 16, color: "999999" }),
         new TextRun({ text: "\tPage ", font: "Times New Roman", size: 16, color: "999999" }),
         new TextRun({ children: [PageNumber.CURRENT], font: "Times New Roman", size: 16, color: "999999" }),
         new TextRun({ text: " of ", font: "Times New Roman", size: 16, color: "999999" }),
