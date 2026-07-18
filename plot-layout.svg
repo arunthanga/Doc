@@ -1,67 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 800" font-family="Arial, Helvetica, sans-serif">
-  <rect x="0" y="0" width="860" height="800" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 880" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="900" height="880" fill="#ffffff"/>
 
   <!-- Title -->
-  <text x="430" y="30" text-anchor="middle" font-size="22" font-weight="bold">Plot Layout - 38 cent (~40 m x 38.5 m ~= 1,538 sq m)</text>
-  <text x="430" y="50" text-anchor="middle" font-size="13" fill="#555">Biochar and enriched bio-fertilizer unit - schematic (2 t/day-ready), not strictly to scale</text>
+  <text x="450" y="30" text-anchor="middle" font-size="21" font-weight="bold">Plot &amp; Hall Layout - 38-cent corner plot (roads on south &amp; east)</text>
+  <text x="450" y="50" text-anchor="middle" font-size="13" fill="#555">Biochar &amp; enriched bio-fertilizer unit - ~11,000 sq ft covered hall (2 t/day-ready); schematic, not strictly to scale</text>
 
-  <!-- Greenbelt (full plot) -->
-  <rect x="40" y="70" width="780" height="690" fill="#d9ead3" stroke="#38761d" stroke-width="2"/>
-  <text x="430" y="88" text-anchor="middle" font-size="12" fill="#38761d" font-weight="bold">GREENBELT / SETBACK (~550 sq m, ~33%) - perimeter tree belt (KSPCB requirement)</text>
+  <!-- East road -->
+  <rect x="740" y="70" width="60" height="740" fill="#e8e8e8" stroke="#bbb" stroke-width="1"/>
+  <text x="770" y="440" text-anchor="middle" font-size="13" fill="#666" transform="rotate(90 770 440)">EAST ROAD</text>
 
-  <!-- Inner working area -->
-  <rect x="95" y="100" width="670" height="620" fill="#ffffff" stroke="#999" stroke-width="1"/>
+  <!-- South road -->
+  <rect x="60" y="760" width="740" height="50" fill="#e8e8e8" stroke="#bbb" stroke-width="1"/>
+  <text x="410" y="790" text-anchor="middle" font-size="13" fill="#666">SOUTH ROAD</text>
 
-  <!-- Row 1: Feedstock day-bin, Pyrolysis, Product storage -->
-  <rect x="110" y="120" width="150" height="150" fill="#fce5cd" stroke="#b45309" stroke-width="1.5"/>
-  <text x="185" y="185" text-anchor="middle" font-size="13" font-weight="bold">Feedstock</text>
-  <text x="185" y="203" text-anchor="middle" font-size="13" font-weight="bold">day-bin</text>
-  <text x="185" y="223" text-anchor="middle" font-size="12" fill="#555">~80 sq m (1-2 day)</text>
+  <!-- Plot / greenbelt -->
+  <rect x="60" y="70" width="670" height="680" fill="#d9ead3" stroke="#38761d" stroke-width="2"/>
+  <text x="395" y="90" text-anchor="middle" font-size="12" fill="#38761d" font-weight="bold">GREENBELT / SETBACK - perimeter tree belt (KSPCB requirement) - balance ~13 cents</text>
 
-  <rect x="280" y="120" width="220" height="150" fill="#f4cccc" stroke="#990000" stroke-width="1.5"/>
-  <text x="390" y="170" text-anchor="middle" font-size="13" font-weight="bold">PYROLYSIS + EMISSION</text>
-  <text x="390" y="188" text-anchor="middle" font-size="13" font-weight="bold">CONTROL</text>
-  <text x="390" y="208" text-anchor="middle" font-size="12" fill="#555">~150 sq m - reactor #1 +</text>
-  <text x="390" y="224" text-anchor="middle" font-size="12" fill="#555">space for reactor #2</text>
-  <!-- stack -->
-  <rect x="470" y="105" width="14" height="30" fill="#666"/>
-  <text x="500" y="120" font-size="10" fill="#666">stack</text>
+  <!-- Covered hall (~11,000 sq ft over ~25 cents) -->
+  <rect x="95" y="110" width="600" height="400" fill="#ffffff" stroke="#333" stroke-width="2"/>
+  <text x="395" y="128" text-anchor="middle" font-size="13" font-weight="bold">COVERED HALL  ~11,000 sq ft  (built for the 2 t/day endgame)</text>
 
-  <rect x="520" y="120" width="225" height="150" fill="#d9d2e9" stroke="#674ea7" stroke-width="1.5"/>
-  <text x="632" y="185" text-anchor="middle" font-size="13" font-weight="bold">Product storage</text>
-  <text x="632" y="203" text-anchor="middle" font-size="13" font-weight="bold">+ bagging</text>
-  <text x="632" y="223" text-anchor="middle" font-size="12" fill="#555">~150 sq m</text>
+  <!-- Hall A: main process & product -->
+  <rect x="110" y="140" width="255" height="355" fill="#f4cccc" stroke="#990000" stroke-width="1.5"/>
+  <text x="237" y="285" text-anchor="middle" font-size="14" font-weight="bold">MAIN PROCESS &amp;</text>
+  <text x="237" y="305" text-anchor="middle" font-size="14" font-weight="bold">PRODUCT HALL</text>
+  <text x="237" y="330" text-anchor="middle" font-size="11.5" fill="#555">pyrolysis reactor (+ space for</text>
+  <text x="237" y="346" text-anchor="middle" font-size="11.5" fill="#555">Phase-2/3 module), char cooling,</text>
+  <text x="237" y="362" text-anchor="middle" font-size="11.5" fill="#555">sieving, bagging, product storage</text>
+  <text x="237" y="384" text-anchor="middle" font-size="11.5" fill="#777">~7,000 sq ft</text>
 
-  <!-- Central road spine -->
-  <rect x="110" y="290" width="635" height="70" fill="#efefef" stroke="#999" stroke-width="1" stroke-dasharray="6 4"/>
-  <text x="427" y="332" text-anchor="middle" font-size="12" fill="#777">INTERNAL ROAD / LOADER TURNING (~258 sq m)</text>
+  <!-- Central aisle -->
+  <rect x="375" y="140" width="70" height="355" fill="#efefef" stroke="#999" stroke-width="1" stroke-dasharray="6 4"/>
+  <text x="410" y="310" text-anchor="middle" font-size="12" fill="#777" transform="rotate(90 410 310)">CENTRAL MATERIAL AISLE</text>
 
-  <!-- Row 2: Enrichment/composting, Office/lab/utilities -->
-  <rect x="110" y="380" width="360" height="300" fill="#d0e0e3" stroke="#0b5394" stroke-width="1.5"/>
-  <text x="290" y="520" text-anchor="middle" font-size="14" font-weight="bold">ENRICHMENT / COMPOSTING</text>
-  <text x="290" y="540" text-anchor="middle" font-size="14" font-weight="bold">+ CURING</text>
-  <text x="290" y="562" text-anchor="middle" font-size="12" fill="#555">~250 sq m (biochar + manure/</text>
-  <text x="290" y="578" text-anchor="middle" font-size="12" fill="#555">neem/rock-P + microbes)</text>
+  <!-- Hall B: enrichment, curing & packing -->
+  <rect x="455" y="140" width="225" height="355" fill="#d0e0e3" stroke="#0b5394" stroke-width="1.5"/>
+  <text x="567" y="290" text-anchor="middle" font-size="14" font-weight="bold">ENRICHMENT,</text>
+  <text x="567" y="310" text-anchor="middle" font-size="14" font-weight="bold">CURING &amp; PACKING</text>
+  <text x="567" y="330" text-anchor="middle" font-size="14" font-weight="bold">HALL</text>
+  <text x="567" y="354" text-anchor="middle" font-size="11.5" fill="#555">char + manure/neem/rock-P</text>
+  <text x="567" y="370" text-anchor="middle" font-size="11.5" fill="#555">+ microbes; curing; packing</text>
+  <text x="567" y="392" text-anchor="middle" font-size="11.5" fill="#777">~3,500 sq ft</text>
 
-  <rect x="490" y="380" width="255" height="300" fill="#fff2cc" stroke="#bf9000" stroke-width="1.5"/>
-  <text x="617" y="500" text-anchor="middle" font-size="13" font-weight="bold">Office / Lab (QC)</text>
-  <text x="617" y="520" text-anchor="middle" font-size="13" font-weight="bold">Utilities / Water</text>
-  <text x="617" y="540" text-anchor="middle" font-size="12" fill="#555">~100 sq m</text>
-  <text x="617" y="565" text-anchor="middle" font-size="12" fill="#555">borewell + tanks,</text>
-  <text x="617" y="581" text-anchor="middle" font-size="12" fill="#555">electrical, fire system</text>
+  <!-- Stack -->
+  <rect x="118" y="92" width="14" height="24" fill="#666"/>
+  <text x="150" y="106" font-size="10" fill="#666">stack</text>
 
-  <!-- Weighbridge + Gate at bottom -->
-  <rect x="360" y="700" width="120" height="40" fill="#cccccc" stroke="#666" stroke-width="1.5"/>
-  <text x="420" y="725" text-anchor="middle" font-size="12" font-weight="bold">WEIGHBRIDGE</text>
-  <rect x="500" y="700" width="90" height="40" fill="#ffffff" stroke="#666" stroke-width="1.5" stroke-dasharray="4 3"/>
-  <text x="545" y="725" text-anchor="middle" font-size="12">GATE</text>
+  <!-- Office / lab / weighbridge / utilities -->
+  <rect x="95" y="540" width="600" height="95" fill="#fff2cc" stroke="#bf9000" stroke-width="1.5"/>
+  <text x="395" y="580" text-anchor="middle" font-size="13" font-weight="bold">Office / Lab (QC) / Weighbridge / Utilities</text>
+  <text x="395" y="602" text-anchor="middle" font-size="11.5" fill="#555">borewell + tanks, electrical, fire system, 1-2 day feedstock day-bin</text>
+
+  <!-- Gates -->
+  <rect x="340" y="742" width="110" height="30" fill="#ffffff" stroke="#666" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="395" y="762" text-anchor="middle" font-size="11" font-weight="bold">GATE (south) - material in</text>
+  <rect x="700" y="330" width="42" height="90" fill="#ffffff" stroke="#666" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="721" y="378" text-anchor="middle" font-size="10.5" font-weight="bold" transform="rotate(90 721 378)">GATE (east) - dispatch</text>
 
   <!-- North arrow -->
-  <line x1="810" y1="120" x2="810" y2="80" stroke="#333" stroke-width="2"/>
-  <polygon points="810,72 805,84 815,84" fill="#333"/>
-  <text x="810" y="135" text-anchor="middle" font-size="12" font-weight="bold">N</text>
+  <line x1="690" y1="120" x2="690" y2="82" stroke="#333" stroke-width="2"/>
+  <polygon points="690,74 685,86 695,86" fill="#333"/>
+  <text x="690" y="135" text-anchor="middle" font-size="12" font-weight="bold">N</text>
 
-  <!-- Road + farm direction -->
-  <text x="545" y="775" text-anchor="middle" font-size="12" fill="#333">v PWD ROAD (site access)</text>
-  <text x="185" y="775" text-anchor="middle" font-size="12" fill="#38761d">Farm (feedstock + sun-drying) ~200 m --&gt;</text>
+  <!-- Off-site note -->
+  <text x="410" y="850" text-anchor="middle" font-size="12" fill="#38761d">Own 10-acre land (feedstock aggregation, sun-drying, chipping, bulk storage) ~200 m away</text>
 </svg>
