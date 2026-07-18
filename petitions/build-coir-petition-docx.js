@@ -1,5 +1,9 @@
 /*
- * Formal petition (Word .docx) — Pollution-category parity for the coir industry in Chittur.
+ * Formal petition (Word .docx) — Pollution-category parity for coir processing in Chittur.
+ * Petitioner: the coconut farmers of the Chittur Assembly Constituency, represented by Arun.
+ * Addressed to the Minister in charge of Pollution Control (Environment), Government of Kerala;
+ * copies to the Chief Minister and the Minister for Industries & Commerce.
+ *
  * Built with docx-js per the Anthropic "docx" skill (explicit A4 size, dual-width tables,
  * numbering config for lists, CLEAR shading, page breaks inside paragraphs).
  *
@@ -10,7 +14,7 @@ const fs = require("fs");
 const {
   Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,
   Header, Footer, AlignmentType, HeadingLevel, LevelFormat, WidthType,
-  ShadingType, BorderStyle, PageNumber, TabStopType, TabStopPosition,
+  ShadingType, BorderStyle, PageNumber, TabStopType,
 } = require("docx");
 
 /* ---- palette / metrics ---------------------------------------------------- */
@@ -22,6 +26,7 @@ const REDC = "C0392B";
 const ORANGEC = "C87A00";
 const GREENC = "1E7D1E";
 const WHITEC = "444444";
+const FLAGC = "8A3324";        // divergence flag colour
 
 // A4 content width = 11906 - (2 * 1134) margins = 9638 DXA
 const CONTENT_W = 9638;
@@ -90,28 +95,33 @@ function thinRule() {
   });
 }
 
+function spacer(after = 120) {
+  return new Paragraph({ spacing: { after }, children: [t("")] });
+}
+
 /* ---- table helpers (dual widths, CLEAR shading) --------------------------- */
-function cell(children, { widthDxa, shade, header = false, align = AlignmentType.LEFT } = {}) {
+function cell(children, { widthDxa, shade, header = false, align = AlignmentType.LEFT, size = 20 } = {}) {
   const kids = (Array.isArray(children) ? children : [children]).map((c) =>
     typeof c === "string"
       ? new Paragraph({
           alignment: align,
-          spacing: { after: 40, line: 252 },
-          children: [new TextRun({ text: c, font: "Times New Roman", size: 20, bold: header, color: header ? "222222" : INK })],
+          spacing: { after: 30, line: 248 },
+          children: [new TextRun({ text: c, font: "Times New Roman", size, bold: header, color: header ? "222222" : INK })],
         })
       : c
   );
   return new TableCell({
     width: { size: widthDxa, type: WidthType.DXA },
-    margins: { top: 60, bottom: 60, left: 100, right: 100 },
+    margins: { top: 50, bottom: 50, left: 90, right: 90 },
     shading: shade ? { type: ShadingType.CLEAR, fill: shade, color: "auto" } : undefined,
     children: kids,
   });
 }
 
-function catRun(text, color) {
+function catRun(text, color, align = AlignmentType.CENTER) {
   return new Paragraph({
-    spacing: { after: 40, line: 252 },
+    alignment: align,
+    spacing: { after: 30, line: 248 },
     children: [new TextRun({ text, font: "Times New Roman", size: 20, bold: true, color })],
   });
 }
@@ -141,12 +151,12 @@ const children = [];
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { after: 20 },
-  children: [new TextRun({ text: "THE CHITTUR AGRICULTURE MARKETING SOCIETY, KOZHINJAMPARA", font: "Times New Roman", size: 26, bold: true, color: INK })],
+  children: [new TextRun({ text: "PETITION OF THE COCONUT FARMERS OF CHITTUR ASSEMBLY CONSTITUENCY", font: "Times New Roman", size: 26, bold: true, color: INK })],
 }));
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { after: 40 },
-  children: [new TextRun({ text: "Chittur Taluk, Palakkad District, Kerala", font: "Times New Roman", size: 20, italics: true, color: "555555" })],
+  children: [new TextRun({ text: "Palakkad District, Kerala \u2014 represented by Arun", font: "Times New Roman", size: 20, italics: true, color: "555555" })],
 }));
 children.push(thinRule());
 
@@ -154,236 +164,199 @@ children.push(thinRule());
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { before: 60, after: 60 },
-  children: [new TextRun({ text: "PETITION FOR POLLUTION-CATEGORY PARITY FOR THE COIR INDUSTRY IN CHITTUR", font: "Times New Roman", size: 26, bold: true, color: INK })],
+  children: [new TextRun({ text: "POLLUTION-CATEGORY PARITY FOR COIR PROCESSING IN CHITTUR", font: "Times New Roman", size: 26, bold: true, color: INK })],
 }));
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { after: 180 },
-  children: [new TextRun({ text: "Re-alignment of husk retting and coir de-fibring / ginning with the CPCB Pollution-Index methodology and with Tamil Nadu's White-category treatment of the same husk and process chain", font: "Times New Roman", size: 21, italics: true, color: "444444" })],
+  children: [new TextRun({ text: "Why Pollachi (Tamil Nadu) became a coir-processing hub while Chittur \u2014 with the same husk, 80 km away \u2014 did not", font: "Times New Roman", size: 21, italics: true, color: "444444" })],
 }));
 
 /* --- addressing block ----------------------------------------------------- */
 children.push(labelLine("To:", [
-  t("Shri P. K. Kunhalikutty,"), new TextRun({ break: 1 }),
-  t("Hon'ble Minister for Industries & Commerce, Government of Kerala,"), new TextRun({ break: 1 }),
-  t("Thiruvananthapuram."),
+  t("The Hon'ble Minister in charge of Pollution Control (Environment), Government of Kerala,"), new TextRun({ break: 1 }),
+  t("Thiruvananthapuram."), new TextRun({ break: 1 }),
+  new TextRun({ text: "(Administrative Department of the Kerala State Pollution Control Board.)", font: "Times New Roman", size: 20, italics: true, color: "555555" }),
 ]));
 children.push(labelLine("Copy to:", [
-  t("1. Shri Ramesh Chennithala, Hon'ble Minister in charge of Coir."), new TextRun({ break: 1 }),
-  t("2. The Chairman, Kerala State Pollution Control Board (KSPCB)."),
+  t("1. The Hon'ble Chief Minister of Kerala."), new TextRun({ break: 1 }),
+  t("2. The Hon'ble Minister for Industries & Commerce, Government of Kerala."),
 ]));
 children.push(labelLine("From:", [
-  t("The Chittur Agriculture Marketing Society, Kozhinjampara, Chittur Taluk, Palakkad District — represented by "),
-  b("[Name, designation]"), t(" and delegation."),
+  t("The coconut farmers of the Chittur Assembly Constituency, Palakkad District, Kerala \u2014 represented by "),
+  b("Arun"), t(" and delegation."),
 ]));
-children.push(labelLine("Through:", [t("Adv. Sumesh Achuthan, MLA, Chittur Constituency.")]));
 children.push(labelLine("Date:", [b("[__] July 2026"), t(", Thiruvananthapuram.")]));
 children.push(new Paragraph({
   spacing: { before: 40, after: 160, line: 276 },
   children: [
     b("Subject:  "),
-    t("Request to re-align the pollution-control classification of coconut-husk retting (presently Red) and coir de-fibring / ginning (presently Orange) in Kerala with the CPCB Pollution-Index norms and with Tamil Nadu's White-category treatment of the identical process chain, so that the primary coir industry can develop within Chittur instead of migrating across the district border to Pollachi (Tamil Nadu)."),
+    t("Request to re-align the pollution-control category of coconut-husk retting (presently Red) and coir de-fibring / ginning (presently Orange) in Kerala with the Central (CPCB) norms and with Tamil Nadu's White-category treatment of the identical process chain \u2014 so that coir processing develops in Chittur instead of migrating across the border to Pollachi."),
   ],
 }));
 children.push(thinRule());
 
-/* --- 1. Respected Sir ------------------------------------------------------ */
-children.push(h(1, "Respected Sir"));
+/* --- 1. The ask, in one line ---------------------------------------------- */
+children.push(h(1, "The prayer in one line"));
 children.push(para([
-  t("Chittur Taluk adjoins the Pollachi coir belt of Tamil Nadu and enjoys abundant coconut and coir-husk availability. Yet the "),
-  b("primary coir-processing industry has migrated almost entirely across the border to Pollachi"),
-  t(" — barely 80 km away — chiefly because of a difference in "),
-  b("pollution-control classification"),
-  t(" between the two States for one and the same raw material and process chain. We respectfully pray for a level playing field."),
-]));
-children.push(para([
-  t("We wish, at the outset, to state the position "),
-  b("precisely and without overstatement"),
-  t(". On an earlier occasion the classification gap was described more broadly than the record supports. Having now examined KSPCB's current classification list, we place before the Government the "),
-  b("exact and narrower position"),
-  t(": Kerala already treats dry coir manufacturing leniently (White), in line with the national CPCB norm. The genuine bottleneck for a Chittur unit is sharp and limited — "),
-  b("husk retting is in the Red category and coir de-fibring / ginning is in the Orange category"),
-  t("."),
+  t("We are coconut farmers of the Chittur Assembly Constituency. We grow the coconut; the husk that comes off it is coir's raw material. We ask the Government to fix a single, provable anomaly: "),
+  b("Kerala places coconut-husk retting in the Red category and coir de-fibring / ginning in the Orange category, while both the Central norm and neighbouring Tamil Nadu treat the very same activities as practically non-polluting (White)."),
+  t(" That one gap has sent the industry \u2014 and our husk's value \u2014 across the border to Pollachi."),
 ]));
 
-/* --- 2. Precise regulatory position ---------------------------------------- */
-children.push(h(2, "The precise regulatory position in Kerala (KSPCB current list, December 2025)"));
+/* --- 2. The three-way comparison table ------------------------------------ */
+children.push(h(2, "The classification gap \u2014 Kerala vs. Tamil Nadu vs. the Central (CPCB) norm"));
 children.push(para([
-  t("As per the Kerala State Pollution Control Board's current classification of industrial sectors, the coir process chain is placed as follows (reproduced in full at "),
-  b("Annexure A"), t("):"),
+  t("The table below sets each coir activity against its category in Kerala (KSPCB), Tamil Nadu (TNPCB) and the Central norm (CPCB). The divergence is confined to the "),
+  b("primary end"), t(" of the chain:"),
 ]));
-
-/* KSPCB summary table */
 {
-  const cw = [3900, 1900, 3838]; // = 9638
+  const cw = [2760, 1180, 1180, 1560, 2958]; // = 9638
+  const catCell = (txt, color, w) => cell([catRun(txt, color)], { widthDxa: w });
   const rows = [
     new TableRow({ tableHeader: true, children: [
-      cell("Coir process / activity", { widthDxa: cw[0], shade: HEADSHADE, header: true }),
-      cell("KSPCB category", { widthDxa: cw[1], shade: HEADSHADE, header: true, align: AlignmentType.CENTER }),
-      cell("Consent regime & implication", { widthDxa: cw[2], shade: HEADSHADE, header: true }),
-    ]}),
-    new TableRow({ children: [
-      cell("Coconut-husk retting", { widthDxa: cw[0] }),
-      cell([catRun("RED", REDC)], { widthDxa: cw[1], align: AlignmentType.CENTER }),
-      cell("Highest scrutiny — full Consent to Establish (CTE) and Consent to Operate (CTO); can attract public-hearing-tier appraisal.", { widthDxa: cw[2] }),
-    ]}),
-    new TableRow({ children: [
-      cell("Coir de-fibring / ginning; coir stencilling; coir bleaching / dyeing", { widthDxa: cw[0] }),
-      cell([catRun("ORANGE", ORANGEC)], { widthDxa: cw[1], align: AlignmentType.CENTER }),
-      cell("Full CTE and CTO required, with periodic monitoring.", { widthDxa: cw[2] }),
-    ]}),
-    new TableRow({ children: [
-      cell("Coir fibre / pith processing generating effluent", { widthDxa: cw[0] }),
-      cell([catRun("GREEN", GREENC)], { widthDxa: cw[1], align: AlignmentType.CENTER }),
-      cell("Simplified consent regime.", { widthDxa: cw[2] }),
-    ]}),
-    new TableRow({ children: [
-      cell("Dry coir processing / coir products without effluent; coir yarn without dyeing; coir-pith final product; coir rope; curled coir", { widthDxa: cw[0] }),
-      cell([catRun("WHITE", WHITEC)], { widthDxa: cw[1], align: AlignmentType.CENTER }),
-      cell("Practically non-polluting; no Consent to Operate — a simple intimation to KSPCB suffices.", { widthDxa: cw[2] }),
-    ]}),
-  ];
-  children.push(table(cw, rows));
-}
-children.push(new Paragraph({ spacing: { after: 120 }, children: [t("")] }));
-children.push(para([
-  t("Two points follow. "),
-  b("First"), t(", Kerala "),
-  b("already"), t(" treats dry coir manufacturing — coir products, yarn without dyeing, coir pith as a final product, rope and curled coir — as "),
-  b("White"), t(", matching the national CPCB White-category treatment. There is therefore "),
-  b("no dispute"), t(" about dry value-addition. "),
-  b("Second"), t(", the real and only bottleneck is at the "),
-  b("primary end"), t(" of the chain: retting (Red) and de-fibring / ginning (Orange). Both require full Consent to Establish and Consent to Operate, and retting specifically can trigger public-hearing-tier scrutiny — which, for small MSME/cottage units, is prohibitive."),
-]));
-
-/* --- 3. Comparator: Tamil Nadu -------------------------------------------- */
-children.push(h(3, "The comparator: Tamil Nadu treats the identical husk and process as White"));
-children.push(para([
-  t("The Tamil Nadu Pollution Control Board (TNPCB) classifies the entire "),
-  b("\u201Ccoconut-husk retting / de-fibering / pith-processing industry\u201D"),
-  t(" in the "), b("White"), t(" category. The recent history is directly on point (reproduced at "),
-  b("Annexure B"), t("):"),
-]));
-children.push(bullet([
-  b("10-11-2021 — "),
-  t("By proceedings dated 10 November 2021, TNPCB reclassified the coir industry from White to Orange, purportedly on directions of the environmental tribunal and courts, thereby subjecting these units to consent and periodic monitoring."),
-]));
-children.push(bullet([
-  b("12-10-2023 — "),
-  t("After an enormous number of representations from coir exporters' and manufacturers' associations, TNPCB formally "),
-  b("withdrew"), t(" that Orange reclassification, expressly "),
-  new TextRun({ text: "\u201Cconsidering the coir industry is one of the vital agro-based cottage-type industries in the State contributing significantly to the creation of livelihood in major coconut-growing districts and to encourage the cottage-type MSME sector for the production of eco-friendly products\u201D", font: "Times New Roman", size: 22, italics: true, color: INK }),
-  t(", restoring the coconut-husk retting / de-fibring / pith-processing industry to the "),
-  b("White"), t(" category."),
-]));
-children.push(para([
-  t("The comparison could not be starker. It is the "),
-  b("same husk, the same process chain, roughly 80 km apart across the same district border"),
-  t(" — yet placed in opposite regulatory tiers:"),
-]));
-
-/* KL vs TN comparison table */
-{
-  const cw = [3238, 3200, 3200]; // = 9638
-  const rows = [
-    new TableRow({ tableHeader: true, children: [
-      cell("Process", { widthDxa: cw[0], shade: HEADSHADE, header: true }),
+      cell("Coir activity", { widthDxa: cw[0], shade: HEADSHADE, header: true }),
       cell("Kerala (KSPCB)", { widthDxa: cw[1], shade: HEADSHADE, header: true, align: AlignmentType.CENTER }),
       cell("Tamil Nadu (TNPCB)", { widthDxa: cw[2], shade: HEADSHADE, header: true, align: AlignmentType.CENTER }),
+      cell("Central (CPCB)", { widthDxa: cw[3], shade: HEADSHADE, header: true, align: AlignmentType.CENTER }),
+      cell("Where the outlier is", { widthDxa: cw[4], shade: HEADSHADE, header: true }),
     ]}),
     new TableRow({ children: [
       cell("Coconut-husk retting", { widthDxa: cw[0] }),
-      cell([catRun("RED", REDC)], { widthDxa: cw[1], align: AlignmentType.CENTER }),
-      cell([catRun("WHITE", WHITEC)], { widthDxa: cw[2], align: AlignmentType.CENTER }),
+      catCell("RED", REDC, cw[1]),
+      catCell("WHITE", WHITEC, cw[2]),
+      cell([catRun("Not a Red / Orange sector \u2020", GREENC)], { widthDxa: cw[3] }),
+      cell([catRun("Kerala alone \u2014 Red vs. White elsewhere", FLAGC, AlignmentType.LEFT)], { widthDxa: cw[4] }),
     ]}),
     new TableRow({ children: [
       cell("Coir de-fibring / ginning", { widthDxa: cw[0] }),
-      cell([catRun("ORANGE", ORANGEC)], { widthDxa: cw[1], align: AlignmentType.CENTER }),
-      cell([catRun("WHITE", WHITEC)], { widthDxa: cw[2], align: AlignmentType.CENTER }),
+      catCell("ORANGE", ORANGEC, cw[1]),
+      catCell("WHITE", WHITEC, cw[2]),
+      cell([catRun("White / Green (dry) \u2020", GREENC)], { widthDxa: cw[3] }),
+      cell([catRun("Kerala alone \u2014 Orange vs. White elsewhere", FLAGC, AlignmentType.LEFT)], { widthDxa: cw[4] }),
     ]}),
     new TableRow({ children: [
-      cell("Coir-pith processing", { widthDxa: cw[0] }),
-      cell([catRun("GREEN (effluent) / WHITE (dry)", GREENC)], { widthDxa: cw[1], align: AlignmentType.CENTER }),
-      cell([catRun("WHITE", WHITEC)], { widthDxa: cw[2], align: AlignmentType.CENTER }),
+      cell("Coir fibre / pith processing generating effluent", { widthDxa: cw[0] }),
+      catCell("GREEN", GREENC, cw[1]),
+      catCell("WHITE", WHITEC, cw[2]),
+      catCell("GREEN", GREENC, cw[3]),
+      cell([catRun("Kerala & CPCB stricter than TN", "555555", AlignmentType.LEFT)], { widthDxa: cw[4] }),
+    ]}),
+    new TableRow({ children: [
+      cell("Coir bleaching / dyeing / stencilling (chemical, wet)", { widthDxa: cw[0] }),
+      catCell("ORANGE", ORANGEC, cw[1]),
+      catCell("WHITE", WHITEC, cw[2]),
+      catCell("ORANGE", ORANGEC, cw[3]),
+      cell([catRun("Kerala aligned with CPCB", "555555", AlignmentType.LEFT)], { widthDxa: cw[4] }),
+    ]}),
+    new TableRow({ children: [
+      cell("Dry coir processing / coir products without effluent", { widthDxa: cw[0] }),
+      catCell("WHITE", WHITEC, cw[1]),
+      catCell("WHITE", WHITEC, cw[2]),
+      catCell("WHITE", WHITEC, cw[3]),
+      cell([catRun("Fully aligned", "555555", AlignmentType.LEFT)], { widthDxa: cw[4] }),
+    ]}),
+    new TableRow({ children: [
+      cell("Coir yarn without dyeing", { widthDxa: cw[0] }),
+      catCell("WHITE", WHITEC, cw[1]),
+      catCell("WHITE", WHITEC, cw[2]),
+      catCell("WHITE", WHITEC, cw[3]),
+      cell([catRun("Fully aligned", "555555", AlignmentType.LEFT)], { widthDxa: cw[4] }),
+    ]}),
+    new TableRow({ children: [
+      cell("Coir-pith final product; coir rope; curled coir", { widthDxa: cw[0] }),
+      catCell("WHITE", WHITEC, cw[1]),
+      catCell("WHITE", WHITEC, cw[2]),
+      catCell("WHITE", WHITEC, cw[3]),
+      cell([catRun("Fully aligned", "555555", AlignmentType.LEFT)], { widthDxa: cw[4] }),
     ]}),
   ];
   children.push(table(cw, rows));
 }
-children.push(new Paragraph({ spacing: { after: 120 }, children: [t("")] }));
-
-/* --- 4. Legal / policy basis ---------------------------------------------- */
-children.push(h(4, "The re-alignment is squarely within the CPCB methodology"));
+children.push(new Paragraph({
+  spacing: { before: 60, after: 120, line: 252 },
+  children: [new TextRun({
+    text: "\u2020 CPCB's 2016 categorisation list places \u201CManufacturing of coir items from coconut husks\u201D in the White category; its 2023 draft re-categorisation places dry coir processing in Green, coir items in White, and only wet / dyeing coir in Orange. CPCB does not list ordinary husk retting or dry de-fibring as a Red sector.",
+    font: "Times New Roman", size: 18, italics: true, color: "555555",
+  })],
+}));
 children.push(para([
-  t("The classification is not left to discretion; it is governed by a national, Pollution-Index (PI) based methodology. The "),
+  t("Read down the last column: on "),
+  b("five of seven"), t(" activities the three regulators broadly agree. The entire dispute is the "),
+  b("top two rows"), t(" \u2014 retting and de-fibring / ginning \u2014 where "),
+  b("Kerala stands alone"), t(" in imposing Red / Orange treatment on activities that Tamil Nadu and the Central norm regard as White."),
+]));
+
+/* --- 3. Why Pollachi is the hub ------------------------------------------- */
+children.push(h(3, "Why this made Pollachi the hub and left Chittur out"));
+children.push(para([
+  t("Category is not a label \u2014 it decides whether a small unit can exist. A "),
+  b("White"), t(" activity needs "),
+  b("no Consent to Operate"), t("; a simple intimation suffices, and the unit can start almost at once. A "),
+  b("Red"), t(" activity needs a full Consent to Establish and Consent to Operate and can attract "),
+  b("public-hearing-tier scrutiny"), t("; an "),
+  b("Orange"), t(" activity needs the same consents plus periodic monitoring. For a cottage / MSME coir unit, that is the difference between opening and not opening."),
+]));
+children.push(para([
+  t("So a coir entrepreneur \u2014 including many from Kerala \u2014 does the obvious thing: he sets up retting and de-fibring "),
+  b("80 km away in Pollachi"), t(", where they are White, and leaves Chittur out. The result on the ground:"),
+]));
+children.push(bullet([b("The husk moves, not the value. "), t("Our coconut husk is carted to Pollachi, processed there, and the fibre, pith, jobs and margins are booked in Tamil Nadu.")]));
+children.push(bullet([b("Pollachi is a coir cluster; Chittur is a supplier of raw husk. "), t("The same raw material and the same process chain, but the primary industry clustered on the side of the border where the category is lighter.")]));
+children.push(bullet([b("Farmers lose twice. "), t("We forgo the price a local processing demand would give our husk, and we forgo the local employment that retting, de-fibring and pith units would create in the Chittur belt.")]));
+
+/* --- 4. Legal basis -------------------------------------------------------- */
+children.push(h(4, "The re-alignment is squarely within the Central norm \u2014 not a dilution of safeguards"));
+children.push(para([
+  t("Classification is governed by a national, Pollution-Index (PI) methodology. The "),
   b("CPCB Directions dated 07-03-2016 (No. B-29012/ESS(CPA)/2015-16)"),
-  t(", issued under "),
+  t(", under "),
   b("Section 18(1)(b) of the Water (Prevention and Control of Pollution) Act, 1974"),
-  t(", fix the tiers on a Pollution-Index basis — "),
-  b("Red (PI \u2265 60), Orange (41\u201359), Green (21\u201340), White (\u2264 20)"),
-  t(" — carried forward by the subsequent CPCB Directions of 2025. White-category units require "),
-  b("no Consent to Operate"), t("; a mere intimation to the SPCB suffices."),
+  t(", fix the tiers by PI \u2014 "),
+  b("Red \u2265 60, Orange 41\u201359, Green 21\u201340, White \u2264 20"),
+  t(" \u2014 carried forward by the CPCB Directions of 2025. On that very scale a dry mechanical "),
+  b("de-fibring / ginning"), t(" operation is low-index and is treated as White; the Central list itself places coir manufacturing from coconut husks in White."),
 ]));
 children.push(para([
-  t("Under this very methodology, a "),
-  b("dry mechanical de-fibring / ginning operation carries a low Pollution Index"),
-  t(" and is treated as White by TNPCB and, in Kerala itself, dry coir manufacturing is already White. Retaining ordinary de-fibring / ginning in Orange in Kerala is therefore "),
-  b("stricter than the CPCB norm requires"),
-  t(". Retting, which involves water and effluent, legitimately warrants safeguards — but those are best delivered through "),
-  b("collective effluent management (Zero-Liquid-Discharge) at a Common Facility Centre"),
-  t(", exactly as Tamil Nadu has done, rather than through a Red-category, public-hearing-tier barrier that simply exports the industry and its jobs across the border."),
+  t("Tamil Nadu proved the point in practice. By proceedings dated "),
+  b("10-11-2021"), t(" TNPCB moved coir from White to Orange; after representations from coir associations it "),
+  b("withdrew"), t(" that on "),
+  b("12-10-2023"), t(", restoring the \u201Ccoconut-husk retting / de-fibering / pith-processing industry\u201D to White, expressly to protect the agro-based cottage MSME sector (Annexure B). Retting does use water \u2014 but that is best handled by "),
+  b("Zero-Liquid-Discharge at a shared Common Facility Centre"), t(", exactly as Tamil Nadu does, not by a Red-category barrier that simply exports the industry."),
 ]));
 
-/* --- 5. Why it matters for Chittur ---------------------------------------- */
-children.push(h(5, "The consequence for Chittur"));
-children.push(para([
-  t("Because of this gap, the "),
-  b("primary / value-generating processes (retting, de-fibring, pith buffering) are carried out in Pollachi"),
-  t(", while Kerala is left with only downstream value-addition. Coir entrepreneurs — including many from Kerala — have set up their primary units in Tamil Nadu, taking with them the investment, the employment, and the value of "),
-  b("our own coconut husk"),
-  t(". A narrow, defensible re-alignment of two categories would let that value be retained in Chittur, generating local rural and women's employment in a classic agro-based cottage sector."),
+/* --- 5. Prayer ------------------------------------------------------------- */
+children.push(h(5, "Our prayer"));
+children.push(para([t("We humbly request the Hon'ble Minister in charge of Pollution Control, in consultation with the Chief Minister and the Minister for Industries, to direct the Kerala State Pollution Control Board to:")]));
+children.push(numItem([
+  b("Reclassify coir de-fibring / ginning from Orange to White"),
+  t(" (a dry mechanical process, as the Central norm and Tamil Nadu treat it)."),
+]));
+children.push(numItem([
+  b("Reduce coconut-husk retting from Red to Green"),
+  t(", with mandatory Zero-Liquid-Discharge / common effluent safeguards, in line with the CPCB PI methodology and Tamil Nadu's White treatment. Bleaching / dyeing / stencilling may remain regulated (Orange), as they alone involve chemicals."),
+]));
+children.push(numItem([
+  b("Sanction a coir Common Facility Centre and cluster status for Chittur"),
+  t(" (mechanised de-fibring, pith washing / block-making with ZLD and salinity management), so that environmental safeguards are met collectively and cheaply."),
+]));
+children.push(numItem([
+  b("Ensure a level playing field with Pollachi"),
+  t(" \u2014 including power-tariff parity and MSME incentives \u2014 so that the value of Kerala's own coconut husk is retained in Kerala."),
 ]));
 
-/* --- 6. Prayer ------------------------------------------------------------- */
-children.push(h(6, "Our prayer"));
-children.push(para([t("We humbly request the Hon'ble Minister, in coordination with the Coir portfolio and the Kerala State Pollution Control Board, to:")]));
-children.push(numItem([
-  b("Re-align the two bottleneck categories. "),
-  t("Reclassify "),
-  b("coir de-fibring / ginning from Orange to White"),
-  t(" (a dry mechanical process, as Tamil Nadu treats it), and reduce "),
-  b("coconut-husk retting from Red to Green"),
-  t(" with mandatory Zero-Liquid-Discharge / common effluent safeguards — consistent with the CPCB PI methodology and with TNPCB's White treatment. Bleaching / dyeing / stencilling (which involve chemicals and effluent) may continue to be regulated in the Orange category."),
-]));
-children.push(numItem([
-  b("Grant special coir-cluster / coir industrial-zone status for Chittur, "),
-  t("with a Special Purpose Vehicle and a "),
-  b("Common Facility Centre"),
-  t(" (mechanised de-fibring, pith washing / block-making with Zero-Liquid-Discharge and salinity management), so that environmental concerns are addressed collectively and cost-effectively."),
-]));
-children.push(numItem([
-  b("Extend fiscal incentives — "),
-  t("capital subsidy, interest subvention, and "),
-  b("power-tariff parity with Tamil Nadu"),
-  t(" — to attract coir units to Chittur."),
-]));
-children.push(numItem([
-  b("Ensure a level playing field with Pollachi, "),
-  t("so that the value addition to Kerala's own coconut husk is retained within Kerala."),
-]));
-
-/* --- 7. Annexures list ----------------------------------------------------- */
-children.push(h(7, "Annexures"));
-children.push(bullet([b("Annexure A — "), t("KSPCB current classification of coir processes (December 2025).")]));
-children.push(bullet([b("Annexure B — "), t("TNPCB: coir retained in the White category — the 10-11-2021 Orange reclassification and its withdrawal on 12-10-2023.")]));
-children.push(bullet([b("Annexure C — "), t("Model draft Government Order for the Government's consideration.")]));
+/* --- 6. Annexures list ----------------------------------------------------- */
+children.push(h(6, "Annexures"));
+children.push(bullet([b("Annexure A \u2014 "), t("KSPCB current classification of coir processes (December 2025).")]));
+children.push(bullet([b("Annexure B \u2014 "), t("TNPCB: coir retained in the White category \u2014 the 10-11-2021 Orange reclassification and its withdrawal on 12-10-2023.")]));
+children.push(bullet([b("Annexure C \u2014 "), t("Model draft Government Order for the Government's consideration.")]));
 
 /* --- signature block ------------------------------------------------------- */
 children.push(new Paragraph({ spacing: { before: 220, after: 60 }, children: [t("Respectfully submitted,")] }));
-children.push(new Paragraph({ spacing: { after: 220 }, children: [t("For and on behalf of the Chittur Agriculture Marketing Society, Kozhinjampara")] }));
+children.push(new Paragraph({ spacing: { after: 220 }, children: [t("For and on behalf of the coconut farmers of the Chittur Assembly Constituency,")] }));
 children.push(new Paragraph({ spacing: { after: 20 }, children: [t("_________________________________")] }));
-children.push(new Paragraph({ spacing: { after: 20 }, children: [b("[Name, Designation]")] }));
-children.push(new Paragraph({ spacing: { after: 160 }, children: [t("[Phone / Email]")] }));
-children.push(new Paragraph({ spacing: { after: 40 }, children: [b("Endorsed by:  "), t("Adv. Sumesh Achuthan, MLA, Chittur.")] }));
+children.push(new Paragraph({ spacing: { after: 20 }, children: [b("Arun"), t("  (authorised representative of the petitioner farmers)")] }));
+children.push(new Paragraph({ spacing: { after: 60 }, children: [t("[Phone / Email]")] }));
 
 /* ========================================================================== */
 /* ANNEXURE A                                                                  */
@@ -393,7 +366,7 @@ children.push(annexHeading("ANNEXURE A"));
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { after: 160 },
-  children: [b("KSPCB classification of coir processes — current list (December 2025)")],
+  children: [b("KSPCB classification of coir processes \u2014 current list (December 2025)")],
 }));
 children.push(para([
   new TextRun({ text: "Transcribed from the Kerala State Pollution Control Board's current classification of industrial sectors. The source list is to be annexed to this petition in original.", font: "Times New Roman", size: 20, italics: true, color: "555555" }),
@@ -401,7 +374,7 @@ children.push(para([
 {
   const cw = [2000, 5638, 2000]; // = 9638
   const mk = (catText, catColor, activities) => new TableRow({ children: [
-    cell([catRun(catText, catColor)], { widthDxa: cw[0], align: AlignmentType.CENTER }),
+    cell([catRun(catText, catColor)], { widthDxa: cw[0] }),
     cell(activities, { widthDxa: cw[1] }),
     cell(catText === "RED" ? "CTE + CTO; public-hearing-tier possible"
        : catText === "ORANGE" ? "CTE + CTO; periodic monitoring"
@@ -430,19 +403,19 @@ children.push(annexHeading("ANNEXURE B"));
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { after: 160 },
-  children: [b("TNPCB — coir industry retained in the White category")],
+  children: [b("TNPCB \u2014 coir industry retained in the White category")],
 }));
 children.push(para([
   new TextRun({ text: "Summary of the Tamil Nadu Pollution Control Board's position, with the operative dates and the text of its withdrawal order. Copies of the TNPCB proceedings / press release are to be annexed in original.", font: "Times New Roman", size: 20, italics: true, color: "555555" }),
 ]));
 children.push(bullet([
   b("Baseline position: "),
-  t("Under the CPCB Pollution-Index norm (Red high, Orange/Green moderate, White non-polluting), the coconut-husk retting / de-fibering / pith-processing industry stands in the "),
+  t("Under the CPCB Pollution-Index norm (Red high, Orange / Green moderate, White non-polluting), the coconut-husk retting / de-fibering / pith-processing industry stands in the "),
   b("White"), t(" category in Tamil Nadu."),
 ]));
 children.push(bullet([
   b("Proceedings dated 10-11-2021: "),
-  t("TNPCB reclassified the coir industry from White to Orange — moving it into the polluting category, requiring TNPCB approval to set up units and subjecting them to periodic monitoring — stated to be pursuant to directions of the environmental tribunal / courts."),
+  t("TNPCB reclassified the coir industry from White to Orange \u2014 moving it into the polluting category, requiring TNPCB approval to set up units and subjecting them to periodic monitoring \u2014 stated to be pursuant to directions of the environmental tribunal / courts."),
 ]));
 children.push(bullet([
   b("Withdrawal dated 12-10-2023: "),
@@ -461,13 +434,13 @@ children.push(bullet([
   b("Effect: "),
   t("The coconut-husk retting / de-fibring / pith-processing industry "),
   b("remains in the White category in Tamil Nadu"),
-  t(", relieving these cottage/MSME units of Consent-to-Operate and monitoring burdens."),
+  t(", relieving these cottage / MSME units of Consent-to-Operate and monitoring burdens."),
 ]));
 children.push(para([
   b("Relevance to this petition: "),
   t("Kerala keeps husk retting in Red and de-fibring / ginning in Orange for the "),
   b("same raw material and the same process chain"),
-  t(" that Tamil Nadu treats as White, on the other side of the same district border. That contrast is the core justification for the re-alignment prayed for in paragraph 6."),
+  t(" that both Tamil Nadu and the Central norm treat as White, on the other side of the same district border. That contrast is the core justification for the re-alignment prayed for in paragraph 5."),
 ]));
 
 /* ========================================================================== */
@@ -488,21 +461,21 @@ const goLines = [
   "GOVERNMENT OF KERALA",
   "Abstract",
   "",
-  "Industries Department — Coir sector in Chittur (Palakkad) — Re-alignment of the",
+  "Environment Department \u2014 Coir sector in Chittur (Palakkad) \u2014 Re-alignment of the",
   "pollution-category of coconut-husk retting (Red \u2192 Green with ZLD) and coir",
   "de-fibring / ginning (Orange \u2192 White) with the CPCB Pollution-Index Directions",
-  "and with the Tamil Nadu White-category treatment, and grant of special coir-cluster",
-  "status with a Common Facility Centre — Orders issued.",
+  "and with the Tamil Nadu White-category treatment, and grant of a coir Common",
+  "Facility Centre with cluster status \u2014 Orders issued.",
   "",
-  "INDUSTRIES (COIR) DEPARTMENT",
-  "G.O.(Ms) No. ______/2026/ID            Thiruvananthapuram, dated __-__-2026",
+  "ENVIRONMENT (POLLUTION CONTROL) DEPARTMENT",
+  "G.O.(Ms) No. ______/2026/Envt.        Thiruvananthapuram, dated __-__-2026",
   "",
   "Read: 1. CPCB Directions dated 07-03-2016 (No. B-29012/ESS(CPA)/2015-16) u/s",
   "         18(1)(b) of the Water (Prevention and Control of Pollution) Act, 1974,",
   "         and the subsequent CPCB Directions of 2025.",
   "      2. TNPCB proceedings dated 10-11-2021 and their withdrawal dated 12-10-2023.",
-  "      3. Representation dated __-07-2026 of the Chittur Agriculture Marketing",
-  "         Society, Kozhinjampara, forwarded by the MLA, Chittur.",
+  "      3. Representation dated __-07-2026 of the coconut farmers of the Chittur",
+  "         Assembly Constituency, represented by Arun.",
   "",
   "ORDER",
   "",
@@ -511,28 +484,29 @@ const goLines = [
   "norm requires, and than Tamil Nadu treats the identical process chain (White),",
   "causing these units and their employment to migrate to Pollachi (Tamil Nadu);",
   "",
-  "  Government, having considered the matter, hereby order that —",
+  "  Government, having considered the matter, hereby order that \u2014",
   "",
   "  (1) the Kerala State Pollution Control Board shall re-align coir de-fibring /",
   "      ginning to the White category and coconut-husk retting to the Green category",
   "      with mandatory Zero-Liquid-Discharge safeguards, consistent with the CPCB",
   "      Directions read above, retaining Orange regulation only for bleaching /",
   "      dyeing / stencilling;",
-  "  (2) a special coir-cluster / coir industrial-zone status is accorded to Chittur,",
-  "      with an SPV and a Common Facility Centre (mechanised de-fibring, pith",
-  "      washing / block-making with ZLD and salinity management);",
-  "  (3) capital subsidy, interest subvention and power-tariff parity with Tamil Nadu",
-  "      shall be extended to coir units in Chittur; and",
-  "  (4) the Industries and Coir Directorates shall ensure a level playing field so",
-  "      that value addition to Kerala's coconut husk is retained within the State.",
+  "  (2) a coir Common Facility Centre with cluster status is sanctioned for Chittur",
+  "      (mechanised de-fibring, pith washing / block-making with ZLD and salinity",
+  "      management);",
+  "  (3) power-tariff parity with Tamil Nadu and MSME incentives shall be extended to",
+  "      coir units in Chittur; and",
+  "  (4) the Environment, Industries and Coir Directorates shall ensure a level",
+  "      playing field so that value addition to Kerala's coconut husk is retained",
+  "      within the State.",
   "",
   "                                        By order of the Governor,",
   "                                        __________________________",
   "                                        Secretary to Government",
   "",
-  "To  The Director of Industries & Commerce; the Director of Coir Development;",
-  "    the Chairman, Kerala State Pollution Control Board.",
-  "    Copy to: the Minister for Coir; Environment Department; the MLA, Chittur.",
+  "To  The Chairman, Kerala State Pollution Control Board; the Director of Industries",
+  "    & Commerce; the Director of Coir Development.",
+  "    Copy to: the Chief Minister's Office; the Minister for Industries; the MLA, Chittur.",
 ];
 {
   const goPara = new Paragraph({
@@ -567,9 +541,9 @@ const goLines = [
 /* DOCUMENT                                                                     */
 /* ========================================================================== */
 const doc = new Document({
-  creator: "Chittur Agriculture Marketing Society, Kozhinjampara",
-  title: "Petition — Coir Industry Pollution-Category Parity, Chittur",
-  description: "Formal petition on KSPCB vs TNPCB coir classification parity for Chittur.",
+  creator: "Coconut farmers of Chittur Assembly Constituency (represented by Arun)",
+  title: "Petition — Coir Processing Pollution-Category Parity, Chittur",
+  description: "Petition by Chittur coconut farmers on KSPCB vs TNPCB vs CPCB coir classification parity.",
   styles: {
     default: {
       document: { run: { font: "Times New Roman", size: 22, color: INK } },
@@ -610,7 +584,7 @@ const doc = new Document({
         alignment: AlignmentType.RIGHT,
         spacing: { after: 0 },
         border: { bottom: { color: "CCCCCC", style: BorderStyle.SINGLE, size: 4, space: 2 } },
-        children: [new TextRun({ text: "Chittur Agriculture Marketing Society, Kozhinjampara", font: "Times New Roman", size: 16, italics: true, color: "888888" })],
+        children: [new TextRun({ text: "Coconut farmers of Chittur Assembly Constituency", font: "Times New Roman", size: 16, italics: true, color: "888888" })],
       })] }),
     },
     footers: {
