@@ -4,7 +4,7 @@
 **Promoter:** Arun T. (sole proprietary concern)
 **Location:** Eruthenpathy, Chittur Taluk, Palakkad District, Kerala (Kerala–Tamil Nadu border)
 **Feedstock origin:** Own coconut-farm residues + open-market agri/wood biomass procured from multiple local sources
-**Structure:** A **single registered unit** that **starts small (~0.5 t/day) and ramps in place to ~2 t/day**, housed in a **purpose-built ~11,000 sq ft covered hall** on the promoter's own 38-cent corner plot, with all bulk feedstock and drying handled on the promoter's **own 10-acre land ~200 m away**. Designed for the **Green** pollution category.
+**Structure:** A **single registered unit** that **starts small (~0.5 t/day) and ramps in place to ~2 t/day**, housed in a **purpose-built ~10,000 sq ft single clear-span hall (with 3 movable partition rails)** on the promoter's own 38-cent corner plot, with all bulk feedstock and drying handled on the promoter's **own 10-acre land ~200 m away**. Designed for the **Green** pollution category.
 **Prepared for:** Submission to District Industries Centre (DIC), Palakkad and lending bank (AIF / term loan)
 **Document status:** Planning-grade DPR — figures are indicative estimates to be firmed up with (a) a feedstock proximate-analysis lab report, (b) formal machinery quotations, and (c) a written KSPCB categorisation confirmation, before sanction.
 
@@ -16,12 +16,12 @@ This project establishes an **agri-biomass biochar and enriched (microbe-inocula
 
 - **Constitution:** sole proprietorship — **Arun T., proprietor**.
 - **One unit, phased in place (not split):** start at **~0.5 t/day biochar (500 kg/day)** and **ramp to ~1 t/day and then ~2 t/day** by adding modular reactor capacity within the **same registered premises**.
-- **Purpose-built hall:** a **~11,000 sq ft covered hall** (over ~25 cents of the 38-cent plot) is built **once, up front, for the 2 t/day endgame** — housing the process line, product storage and enrichment/curing under one weather-proof roof. Building the full civil once (rather than in stages) also lets the project **capture the maximum Kerala ESS capital subsidy**.
+- **Purpose-built hall:** a **~10,000 sq ft single clear-span covered hall** (over ~23 cents of the 38-cent plot) is built **once, up front, for the 2 t/day endgame**, fitted with **3 movable partition rails** (sliding partitions on floor tracks) that **open or close to reconfigure the floor into larger or smaller working bays** — process, curing, packing and storage — as throughput ramps. Building the full civil once (rather than in stages) also lets the project **capture the maximum Kerala ESS capital subsidy**.
 - **Land:** the **own 38-cent corner plot** carries the hall and process; the promoter's **own 10-acre land ~200 m away** handles **all feedstock aggregation, sun-drying, chipping and bulk storage**.
 - **Feedstock:** **multi-source, own-farm + open-market agri/wood biomass** — coconut fronds, petioles, husk, shells and spathe; coir pith and shells from local dehuskers/coir units; and open-market residues (sawdust/wood chips, cashew shell, areca husk, paddy husk, groundnut shell, prunings).
 - **Pollution category — Green (target).** Designed as *general biomass biochar (soil-amendment) production*, which the KSPCB revised categorisation list (as on 29.12.2025) places in the **Green** category — distinct from "charcoal from coconut shell by pyrolysis" (Orange). See Section 7.
 - **Institutional tailwind:** the project plugs into the **Kerala Government biochar expert committee** (constituted on a proposal of the **Australia India Business Council, AIBC**) and takes technical help from **CPCRI** and **KAU**. See Section 16.
-- **Project cost (Phase-1):** ~**₹1.10 crore** (~₹1.02 cr fixed capital + ₹8 L working-capital margin); land is the promoter's own (in-kind, excluded).
+- **Project cost (Phase-1):** ~**₹1.09 crore** (~₹1.01 cr fixed capital + ₹8 L working-capital margin); land is the promoter's own (in-kind, excluded).
 - **Financing:** promoter equity + **AIF term loan (3% interest subvention, 7 yrs)** + **CGTMSE** collateral-free cover + **Kerala ESS capital subsidy (~₹40 L — the scheme maximum)**.
 - **Markets:** **domestic (India) + international**, plus **carbon-removal credits** (the highest-value stream) via an aggregator (Puro.earth CORCs). Australia/NZ is one explorable export option (Section 16).
 - **Indicative payback:** the front-loaded hall lengthens the Phase-1 physical-only payback, but returns strengthen sharply as the unit ramps to 2 t/day and once carbon-credit revenue is realised.
@@ -147,14 +147,14 @@ Two own plots meet all needs:
 
 | Plot | Role | Activities |
 |---|---|---|
-| **Own 38-cent corner plot** (roads on south & east) | **Manufacturing hall (registered; needs CTE/CTO)** | ~11,000 sq ft covered hall: process line + product storage + enrichment/curing/packing; emission stack; office/lab/weighbridge |
+| **Own 38-cent corner plot** (roads on south & east) | **Manufacturing hall (registered; needs CTE/CTO)** | ~10,000 sq ft single clear-span hall with 3 movable partition rails (reconfigurable bays: process, curing, packing, storage); emission stack; office/lab/weighbridge |
 | **Own ~10-acre land (~200 m)** | Non-core | Feedstock aggregation, **sun-drying**, chipping/shredding, bulk biomass storage |
 
-**The hall (~11,000 sq ft over ~25 cents):** a single covered hall built for the 2 t/day endgame, laid out as **two working halls separated by a central material aisle** — a **main process & product hall** (reactor, cooling, sieving, bagging, product storage) and an **enrichment, curing & packing hall** — with the office/lab, weighbridge and utilities at the frontage. Building the full civil once avoids re-construction on ramp and captures maximum ESS. Balance of the plot (~13 cents) is greenbelt, internal roads, parking and setbacks; the corner location (roads on **south and east**) allows separate material-in and dispatch gates.
+**The hall (~10,000 sq ft over ~23 cents):** a **single clear-span covered hall** built for the 2 t/day endgame. **3 movable partition rails** (sliding partitions running on floor tracks) divide the clear span into **reconfigurable working bays** — the operator can **open the rails to run the whole floor as one large bay, or close them to separate process, curing, packing and storage bays** — resized as production ramps from 0.5 to 2 t/day. Office/lab, weighbridge and utilities sit at the frontage. Building the full civil once avoids re-construction on ramp and captures maximum ESS. Balance of the plot (~15 cents) is greenbelt, internal roads, parking and setbacks; the corner location (roads on **south and east**) allows separate material-in and dispatch gates.
 
 **Pre-checks:** land-use where required; KSPCB setback from residences/water bodies/eco-sensitive zones; road access from the south/east frontage; 3-phase power; water.
 
-**Construction (hall + site works, ~11,000 sq ft):** ≈ **₹55 L** hall + ~₹6 L site development (see cost table).
+**Construction (hall + site works, ~10,000 sq ft):** ≈ **₹54 L** hall (clear-span + 3 movable partition rails) + ~₹6 L site development (see cost table).
 
 ---
 
@@ -179,7 +179,7 @@ Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning 
 
 | # | Item | ₹ Lakh |
 |---|---|---|
-| 1 | Covered hall ~11,000 sq ft (built for the 2 t/day endgame; process + storage + curing) | 55 |
+| 1 | Covered hall ~10,000 sq ft — single clear-span + 3 movable partition rails (built for the 2 t/day endgame) | 54 |
 | 2 | Pyrolysis reactor ~0.5 t/day (modular, expandable to 2 t/day) | 16 |
 | 3 | Emission control — afterburner/flare + cyclone + scrubber + stack (Green-compliant) | 6 |
 | 4 | Char cooling, sieving, enrichment mixer, bagging | 5 |
@@ -188,9 +188,9 @@ Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning 
 | 7 | Lab / QC + office | 2 |
 | 8 | Site development (corner plot: compound wall, gates on S & E, paving, greenbelt) | 6 |
 | 9 | Preliminary & pre-operative (CTE/CTO, DPR, EBC/MRV) | 2 |
-| | **Fixed capital sub-total** | **102** |
+| | **Fixed capital sub-total** | **101** |
 | 10 | Margin money for working capital | 8 |
-| | **Total project cost (Phase-1)** | **~₹1.10 crore** |
+| | **Total project cost (Phase-1)** | **~₹1.09 crore** |
 
 **Land** is the promoter's own (in-kind) and is **excluded**. **Ramp add-ons (from cash flows / top-up AIF loan):** Phase-2 (to 1 t/day) ≈ **+₹22 L**; Phase-3 (to 2 t/day) ≈ **+₹40 L** (extra reactor modules only — the hall, stack and utilities are already built).
 
@@ -200,12 +200,12 @@ Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning 
 
 | Source | ₹ Lakh | % |
 |---|---|---|
-| Promoter equity (cash) | 28 | 25% |
-| Term loan — bank, under **AIF (3% interest subvention, 7 yrs)**, **CGTMSE** collateral-free | 74 | 67% |
-| Working capital limit (bank cash credit) | 8 | 8% |
-| **Total** | **110** | 100% |
+| Promoter equity (cash) | 27 | 25% |
+| Term loan — bank, under **AIF (3% interest subvention, 7 yrs)**, **CGTMSE** collateral-free | 74 | 68% |
+| Working capital limit (bank cash credit) | 8 | 7% |
+| **Total** | **109** | 100% |
 
-**Kerala ESS capital subsidy — ~₹40 L (the scheme maximum).** At the ~45% band, the cap of ₹40 L is reached at ~₹89 L eligible fixed capital; the project's ~₹102 L fixed capital **comfortably maxes the subsidy**. ESS is received as **reimbursement after commissioning** and applied to **prepay the term loan**, cutting effective debt to ~₹34 L.
+**Kerala ESS capital subsidy — ~₹40 L (the scheme maximum).** At the ~45% band, the cap of ₹40 L is reached at ~₹89 L eligible fixed capital; the project's ~₹101 L fixed capital **comfortably maxes the subsidy**. ESS is received as **reimbursement after commissioning** and applied to **prepay the term loan**, cutting effective debt to ~₹34 L.
 
 ### Subsidy stack logic
 - **Anchor = Kerala ESS** (state capital subsidy). Target **45%** band: 25% base (young/women/SC-ST/NRK) + 10% priority sector (agro-based / bio-fertilizer) + 10% new technology. *Palakkad does not get the extra 10% district bonus.* The **large hall lifts fixed capital past the ₹89 L point, so the full ₹40 L cap is captured.**
@@ -286,7 +286,7 @@ Base biochar is K-rich; enrich to a balanced slow-release organic input:
 1. Feedstock lab proximate analysis (moisture, fixed carbon, ash, K) — decides final Phase-1 sizing.
 2. Udyam registration; DIC/ESS pre-consultation; feedstock MoUs (3–4 local sources).
 3. **Written KSPCB categorisation confirmation** (Green); enrol with the **WTO-Cell expert committee** as a pilot.
-4. **CTE (Green)**; hall design/build (11,000 sq ft, endgame-sized); machinery order (~0.5 t/day reactor + gas train + dryer, with ramp tie-ins).
+4. **CTE (Green)**; hall design/build (10,000 sq ft single clear-span, 3 movable partition rails, endgame-sized); machinery order (~0.5 t/day reactor + gas train + dryer, with ramp tie-ins).
 5. Hall + site works on the corner plot; feedstock yards on the 10-acre land.
 6. Panchayat D&O + building permit + fire NOC; **CTO**.
 7. AIF term loan + CGTMSE; commissioning; **ESS claim (max ₹40 L)**.
@@ -326,15 +326,14 @@ All costs, yields, prices and returns are **planning-grade indicative estimates*
    +==================== 38-CENT CORNER PLOT ====================+
    |  GREENBELT / SETBACK (perimeter tree belt)                 |
    |   +----------------------------------------------------+   |
-   |   |            COVERED HALL  ~11,000 sq ft             |   |
-   |   |  +------------------+ | AISLE | +---------------+  |   |
-   |   |  | MAIN PROCESS &   | |       | | ENRICHMENT,   |  |   |
-   |   |  | PRODUCT HALL     | | (mat- | | CURING &      |  |   |
-   |   |  | reactor, cooling | | erial | | PACKING HALL  |  |   |
-   |   |  | sieving, bagging | | move- | |               |  |   |
-   |   |  | product storage  | | ment) | |               |  |   |
-   |   |  |  ~7,000 sq ft    | |       | |  ~3,500 sq ft |  |   |
-   |   |  +------------------+ +-------+ +---------------+  |   |
+   |   |   SINGLE CLEAR-SPAN COVERED HALL  ~10,000 sq ft    |   |
+   |   |   +-----+ R +-----+ R +-----+ R +-----+           |   |
+   |   |   | bay | a | bay | a | bay | a | bay |           |   |
+   |   |   |  1  | i |  2  | i |  3  | i |  4  |           |   |
+   |   |   |proc.| l |cure | l |pack | l |store|           |   |
+   |   |   +-----+   +-----+   +-----+   +-----+           |   |
+   |   |   3 movable partition rails (R) - open = one       |   |
+   |   |   large bay; close = separate bays                 |   |
    |   +----------------------------------------------------+   |
    |  [stack]   +----------------------------------+            |
    |            | Office / Lab / Weighbridge / Util |  [GATE-E]==|== EAST ROAD
@@ -345,7 +344,7 @@ All costs, yields, prices and returns are **planning-grade indicative estimates*
         Own 10-acre land (feedstock, sun-drying, storage) ~200 m -->
 ```
 
-**Notes:** the plot is a near-square **corner plot with public roads on the south and east**, allowing a **material-in gate (south)** and a **dispatch gate (east)**. The **~11,000 sq ft covered hall** occupies ~25 of the 38 cents and is laid out as **two working halls flanking a central material aisle** — the **main process & product hall** and the **enrichment, curing & packing hall**; office/lab/weighbridge and the emission stack sit at the frontage; the balance of the plot is greenbelt, parking and setbacks. All bulk feedstock handling, sun-drying and storage are on the **own 10-acre land ~200 m away**, so only a 1–2 day day-bin sits in the hall.
+**Notes:** the plot is a near-square **corner plot with public roads on the south and east**, allowing a **material-in gate (south)** and a **dispatch gate (east)**. The **~10,000 sq ft single clear-span covered hall** occupies ~23 of the 38 cents; **3 movable partition rails** (sliding partitions on floor tracks) let the operator **open the whole floor as one large bay, or close it into separate process, curing, packing and storage bays**, resized as production ramps. Office/lab/weighbridge and the emission stack sit at the frontage; the balance of the plot is greenbelt, parking and setbacks. All bulk feedstock handling, sun-drying and storage are on the **own 10-acre land ~200 m away**, so only a 1–2 day day-bin sits in the hall.
 
 ---
 
