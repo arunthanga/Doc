@@ -1,45 +1,51 @@
 # Detailed Project Report (DPR)
-## Tender-Coconut & Agri-Biomass Biochar and Enriched Bio-Fertilizer Unit
+## Agri-Biomass Biochar & Enriched Bio-Fertilizer — Modular Green-Category Micro-Units
 
+**Promoter:** Arun T. (sole proprietary concern — no partnership)
 **Location:** Eruthenpathy, Chittur Taluk, Palakkad District, Kerala (Kerala–Tamil Nadu border)
-**Feedstock origin:** Tender-coconut husk briquettes from a partner packaging unit in the regional industrial belt + own coconut farm residues
+**Feedstock origin:** Own coconut-farm residues + open-market agri/wood biomass procured from multiple local sources (no single-supplier or partnership dependency)
+**Structure:** A rollout of **independent micro-units, each with fixed capital ≤ ₹50 lakh**, each designed to sit in the **Green** pollution category and use the **self-certification** consent route.
 **Prepared for:** Submission to District Industries Centre (DIC), Palakkad and lending bank (AIF / term loan)
-**Document status:** Planning-grade DPR — figures are indicative estimates to be firmed up with (a) a feedstock proximate-analysis lab report and (b) formal machinery quotations before sanction.
+**Document status:** Planning-grade DPR — figures are indicative estimates to be firmed up with (a) a feedstock proximate-analysis lab report, (b) formal machinery quotations, and (c) a written KSPCB categorisation confirmation, before sanction.
 
 ---
 
 ## 1. Executive summary
 
-The project sets up a **continuous, low-emission biochar plant with an enriched (microbe-inoculated) organic bio-fertilizer line** on an owned **38-cent plot**, using **4 tonnes/day of tender-coconut husk briquettes** (from a partner tender-coconut packaging unit ~30–40 km away) as the anchor feedstock, supplemented by coconut fronds, shells and coir pith from the promoters' adjacent farm.
+This project establishes an **agri-biomass biochar and enriched (microbe-inoculated) organic bio-fertilizer** business as a **sole proprietary concern of Arun T.**, built as a series of **standalone micro-units, each ≤ ₹50 lakh in fixed capital**, on the promoter's own land at Eruthenpathy, Chittur, Palakkad.
 
-- **Phase-1 capacity:** ~**1 tonne/day biochar** (~300 t/yr) — matched to the 4 t/day briquette feed.
-- **Phase-2 (expansion):** ~**2 tonnes/day biochar** (~600 t/yr) by adding a second modular reactor and aggregating farm/regional biomass.
-- **Design philosophy:** all **fixed, permitted and civil infrastructure is built for the ultimate 2 t/day**, while **modular equipment (reactor) is bought for 1 t/day and expanded later** as a bolt-on — no re-permitting or civil rework.
-- **Total Phase-1 project cost:** ~**₹1.70 crore**.
-- **Financing:** promoter equity + **AIF term loan (3% interest subvention, 7 yrs)** + **CGTMSE** collateral-free cover + **Kerala ESS capital subsidy (~₹40 lakh)**.
+- **Constitution:** sole proprietorship — **Arun T., proprietor**. There is no partnership and no partner-supplied feedstock.
+- **Feedstock:** **multi-source, open-market and own-farm agri/wood biomass** — coconut fronds, petioles, husk, shells and spathe from the promoter's own farm; coir pith and shells from local dehuskers/coir units; and open-market residues (sawdust and wood chips, cashew shell, areca husk, paddy husk, groundnut shell, prunings). Not limited to tender-coconut husk and not dependent on any one supplier.
+- **Pollution category — Green (target).** Each unit is designed as *general biomass biochar (soil-amendment) production*, which the KSPCB revised categorisation list (as on 29.12.2025) places in the **Green** category — distinct from "charcoal from coconut shell by pyrolysis" (Orange). See Section 7.
+- **Unit size for lenient norms:** keeping each unit's **fixed capital ≤ ₹50 lakh** brings it within KSPCB's **self-certification** thresholds for Consent to Establish/Operate (circular dated 16.09.2025) and within the **micro-enterprise** MSME band.
+- **Per-unit capacity:** ~**0.5 t/day biochar** (~150 t/yr) from ~2 t/day mixed dry biomass; ~**330 t CO₂/yr** removal.
+- **Rollout:** **Unit-1 now**, replicated to **3 units** from cash flows / fresh micro-loans → aggregate **~1.5 t/day (~450 t/yr, ~990 t CO₂/yr)**.
+- **Per-unit project cost:** ~**₹52 lakh** (₹48 L fixed capital + ₹4 L working-capital margin); land is the promoter's own (in-kind, excluded from the ₹50 L capital test).
+- **Financing (per unit):** promoter equity + **AIF term loan (3% interest subvention, 7 yrs)** + **CGTMSE** collateral-free cover + **Kerala ESS capital subsidy**.
 - **Revenue stack:** enriched biochar sales (domestic + export) + **biochar carbon-removal credits** via an aggregator (Puro.earth CORCs).
-- **Indicative payback:** ~3–4 years (physical-sales base case); under ~2 years if carbon-credit revenue is realized.
+- **Indicative payback:** ~2.5–3.5 years per unit (physical-sales base case); under ~2 years if carbon-credit revenue is realised.
 
 ---
 
 ## 2. Promoter
 
-**Promoter entity:** *Arun and Friends* (proposed partnership enterprise).
+**Promoter / constitution:** **Arun T.** — **sole proprietary concern** (proprietorship). This is **not a partnership**; there is no "and Friends" or associate partner, and no partner-supplied raw material.
 
-- Promoted by Arun and associates ("Arun and Friends").
-- Owns the project site (38-cent plot) and an adjacent coconut farm (~200 m away) in Eruthenpathy, Palakkad.
-- Anchor feedstock (~4 t/day tender-coconut husk briquettes) is secured from a partner tender-coconut packaging unit in the regional industrial belt under a supply arrangement — the residue is currently a disposal cost and becomes a secured, low-cost feedstock.
-- Captive demand: the promoters' own coconut farm can consume and demonstrate the enriched product, de-risking market entry.
+- Owns the project land — a 38-cent plot and an adjacent coconut farm (~200 m away) in Eruthenpathy, Chittur Taluk, Palakkad — which accommodates the phased micro-units and their feedstock yard.
+- Contact: 4/296, Mangapallam South, RVP Pudur Post, Palakkad District, Kerala – 678555 · 9901955667 · er.arunt@gmail.com.
+- Captive demand: the promoter's own coconut farm consumes and demonstrates the enriched product, de-risking market entry.
 
 ---
 
 ## 3. Project concept & rationale
 
-Tender-coconut husk is a wet, fibrous, **potassium-rich** residue; converting it (and other coconut/agri biomass) to biochar via controlled pyrolysis:
-1. Solves the partner's daily waste-disposal problem (secured feedstock).
-2. Produces a stable, carbon-rich soil amendment; enriched with organics + microbes it becomes a branded slow-release bio-fertilizer.
+Agri-biomass residues (coconut fronds/husk/shell, coir pith, wood/sawdust and other crop residues) are abundant, low-value and often burnt in the open. Converting them to biochar via controlled, low-emission pyrolysis:
+
+1. Diverts local biomass waste from open burning into a productive use.
+2. Produces a stable, carbon-rich **soil amendment**; enriched with organics + microbes it becomes a branded slow-release **bio-fertilizer** (the product is a soil input — **not** fuel charcoal and **not** activated carbon).
 3. Generates durable **carbon-removal credits** (1 t biochar ≈ ~2.2 t CO₂ sequestered for centuries).
-4. Qualifies for strong central + state subsidy support as an agro-based / bio-fertilizer MSME.
+4. Qualifies for strong central + state subsidy support as an agro-based / bio-fertilizer **micro** MSME.
+5. Is structured to be **Green-category and self-certifiable**, so each unit can be established quickly and cheaply (Section 7).
 
 ---
 
@@ -59,198 +65,213 @@ Tender-coconut husk is a wet, fibrous, **potassium-rich** residue; converting it
 
 ---
 
-## 5. Feedstock plan (two-site model)
+## 5. Feedstock plan (multi-source, no partnership)
 
-| Site | Role |
-|---|---|
-| **Farm (200 m from plot)** | Feedstock aggregation, **sun-drying yard**, chipping/shredding, bulk storage. No processing here. |
-| **38-cent plot** | Registered unit: pyrolysis + emission control + enrichment + product storage + office/lab. |
+The unit is **not tied to a single feedstock or supplier**. It runs on a mix of own-farm and open-market biomass, giving supply security and reinforcing the *general biomass* (Green) classification.
 
-**Feedstock sources:** partner's tender-coconut husk briquettes (4 t/day anchor); coconut fronds/petioles, shells, spathe from own farm; coir pith and shells from local dehuskers/coir units; seasonal agri residue (Phase-2).
+| Source | Material | Basis |
+|---|---|---|
+| **Own coconut farm** (200 m) | Fronds, petioles, husk, shells, spathe | Free / captive |
+| **Local dehuskers & coir units** | Coir pith, coconut shells | Open-market purchase |
+| **Local sawmills / carpentry** | Sawdust, wood chips, offcuts | Open-market purchase |
+| **Local farms / traders** | Cashew shell, areca husk, paddy husk, groundnut shell, prunings, seasonal crop residue | Open-market purchase / collection |
 
-**Benefits of the split:** sun-drying at the farm supplies free drying energy and reduces transported water; keeps large fuel storage away from the reactor (fire-safety and consent advantage); frees plot space so the 38 cent comfortably hosts the 2 t/day endgame.
+**Two-site handling:** the **farm (200 m)** is used for feedstock aggregation, a **sun-drying yard**, chipping/shredding and bulk storage (no processing); the **unit** carries only a 1–2 day day-bin, keeping bulk fuel away from the reactor (fire-safety and consent advantage).
 
-**Supply security:** execute feedstock supply MoUs (partner + 2–3 local sources) — required for both bank appraisal and carbon-credit additionality/traceability.
+**Supply security:** execute **supply MoUs / purchase arrangements with 3–4 local sources** (not one partner) plus own-farm residue — sufficient for both bank appraisal and carbon-credit additionality/traceability. Feedstock is documented **residual/waste biomass** for carbon additionality.
 
 ---
 
-## 6. Technical design & capacity
+## 6. Technical design & capacity (per micro-unit)
 
-### 6.1 Mass balance (design basis: 4 t/day briquettes, medium moisture ~18%)
+### 6.1 Mass balance (design basis per unit: ~2 t/day mixed dry biomass)
 
 | Parameter | Value |
 |---|---|
-| Briquette feed | 4,000 kg/day |
-| Dry matter (~82%) | ~3,280 kg/day |
-| Biochar yield (~30% of dry mass) | **~1.0 t/day** (0.9–1.05 at 12–25% moisture) |
-| Operating basis | ~200 kg/hr feed → ~50 kg/hr biochar over ~20 h |
-| Annual biochar (300 days) | **~300 t/yr (Phase-1)** |
-| CO₂ removal (~2.2×) | ~660 t CO₂/yr (Phase-1) |
+| Biomass feed (dried) | ~2,000 kg/day |
+| Biochar yield (~25–30% dry mass) | **~0.5 t/day** |
+| Operating basis | ~100 kg/hr feed → ~25 kg/hr biochar over ~20 h |
+| Annual biochar (300 days) | **~150 t/yr per unit** |
+| CO₂ removal (~2.2×) | **~330 t CO₂/yr per unit** |
 
-**Phase-2:** add a second identical reactor + aggregate biomass to ~8 t/day feed → **~2 t/day biochar (~600 t/yr, ~1,320 t CO₂/yr).**
+**Aggregate at 3 units:** ~**1.5 t/day biochar (~450 t/yr, ~990 t CO₂/yr).**
 
-### 6.2 Expandable-design split ("small where scalable, big where fixed")
+### 6.2 Right-sized micro-unit ("small and replicable, not one big plant")
 
-| Component | Sized now | Rationale |
-|---|---|---|
-| Pyrolysis reactor / carbonizer | **1 t/day (modular)** | Add 2nd parallel unit later; avoids idle capacity |
-| Char cooling, sieving, bagging, enrichment mixer | 1 t/day | Cheap to duplicate |
-| Afterburner/flare, cyclone, scrubber, ID fan, stack | **2 t/day (big)** | Re-engineering gas train forces re-permitting |
-| **KSPCB CTE/CTO consent capacity** | **Apply for 2 t/day now** | Consent amendment later is slow/painful |
-| Electrical transformer, sanctioned load, panels | **2 t/day (big)** | Load enhancement/re-cabling costly |
-| Civil: plinths, sheds, roads, foundations | **2 t/day (big)** | Pour concrete once; leave bolt pockets for reactor #2 |
-| Common pre-bin, waste-heat dryer, feed headers | **2 t/day (big)** | Pre-fit flanged tie-in stubs |
-| Weighbridge, water, drainage, fire system, greenbelt | **2 t/day (big)** | One-time infrastructure |
-| Farm drying floor + storage | For ~8 t/day feed | Low-cost area |
+Unlike a single large plant, each unit is **right-sized to ~0.5 t/day** with its **own compact emission-control train** — no over-provisioning. Capacity is grown by **replicating whole units**, which keeps every unit independently ≤ ₹50 L, Green and self-certifiable, and lets capital be staged.
 
-**Key move:** install one reactor now but pre-provision foundation, gas/electrical/feed tie-ins and spare panel ways for reactor #2 → expansion is a bolt-on with minimal downtime and no re-permitting.
+| Component (per unit) | Scale |
+|---|---|
+| Pyrolysis reactor / carbonizer | ~0.5 t/day, continuous/semi-continuous, multi-feedstock |
+| Emission control: afterburner/flare → cyclone → scrubber + mist eliminator → stack | ~0.5 t/day, Green-compliant |
+| Waste-heat feed dryer | ~0.5 t/day |
+| Char cooling, sieving, enrichment mixer, bagging | ~0.5 t/day |
+| Electrical, water, weighing, fire | micro-unit |
 
-### 6.3 Emission control (for KSPCB CTO — Orange category)
-Syngas afterburner/flare (self-fuels the process + drying) → cyclone/dust collector → alkaline scrubber with mist eliminator → stack meeting KSPCB ambient limits. Real-time temperature monitoring; emergency shutdown.
+### 6.3 Emission control & Green-category design
+Closed, **continuous/semi-continuous** pyrolysis with a **syngas afterburner/flare** (self-fuelling the process and the dryer) → **cyclone/dust collector** → **alkaline scrubber with mist eliminator** → **stack** meeting KSPCB norms; **real-time temperature monitoring** and emergency shutdown; **Zero-Liquid-Discharge** (tar condensate and scrubber blowdown captured and reused/soaked into feed — no effluent to land or water). **No open burning** at any stage. The design is built to the **KSPCB "Environmental Guidelines for Charcoal Manufacturing Units" dated 02.12.2025** (emission control, stack height, ash/dust housekeeping, heat reutilisation, responsible feedstock sourcing).
 
 ---
 
-## 7. Machinery & suppliers
+## 7. Pollution-control category & consent strategy
 
-**Local (Coimbatore–Pollachi hub, 30–60 km — preferred for service/spares; build for coconut feedstock):** coconut-shell/biomass carbonization plant manufacturers (e.g., Micro Fab Engineers, Essar Engineers, Veera Biopower and similar). Indicative: 5 t/day ≈ ₹66–72 L; 1–5 t/day semi-auto ≈ ₹6–25 L.
+**Objective: establish each unit in the Green category and via self-certification** — the lenient regime — legitimately, on the merits of the process, and by keeping each unit small.
 
-**National (continuous, low-emission, certification-grade — better for CTO/EBC/carbon):**
+### 7.1 Why Green applies
+The KSPCB revised categorisation list **as on 29.12.2025** classifies *general charcoal / char (biochar) production* under **Green**, and distinguishes it from *"Charcoal Production from Coconut Shell by Pyrolysis"* — the **Orange** entry created by Notification No. KSPCB/159/2022-SEE-3 dated 10.08.2024. Our unit fits the **general / Green** description because:
+
+- **Feedstock is mixed agri-biomass**, not a coconut-shell-only charge.
+- **Product is biochar for soil**, not fuel charcoal and not activated carbon.
+- **No pyrolysis-oil or carbon-black recovery** and **no chemical/steam activation** — the features that drive the heavier (Orange/Red) categories.
+- **Low pollution potential** on the CPCB Pollution-Index basis — a closed process with afterburner, scrubber, controlled stack emissions and **Zero-Liquid-Discharge**.
+- **Guideline-compliant** with the 02.12.2025 charcoal-manufacturing guidelines.
+
+### 7.2 Why the ≤ ₹50 lakh unit size matters
+Category is set by the *activity*; the *unit size* governs the **consent process**. Keeping each unit's **fixed capital ≤ ₹50 lakh** brings it within KSPCB's **self-certification** thresholds for CTE/CTO (circular dated 16.09.2025: self-certified CTE up to ₹50 L; CTO up to the applicable ₹25–50 L slab) and within the **micro-enterprise** band. Land is the promoter's own and is excluded (in-kind), so it does not consume the ₹50 L headroom.
+
+### 7.3 Consent path
+- **Green + ≤ ₹50 L → self-certification-based CTE and CTO** — fast, low-fee, no public hearing.
+- **No Environmental Clearance** (biochar from agri-biomass is not an EIA-2006 scheduled activity; not Red).
+- A **written KSPCB clarification** confirming the Green entry for this unit has been sought (see the separate KSPCB category-clarification letter); sanction should follow that confirmation.
+
+### 7.4 Honest caveats (to close before sanction)
+- **Clubbing risk.** Pollution boards may **aggregate co-located, commonly-owned units** and assess them as one. To keep each unit independently ≤ ₹50 L and Green, units should be **genuinely separate** — distinct premises/demarcated blocks, separate Udyam registrations, separate metering and consent applications — and this treatment should be **confirmed in writing with KSPCB**. The Green classification itself does **not** depend on the split; the split only unlocks self-certification and micro-benefits.
+- **Category base.** Confirm whether KSPCB's ₹50 L test is on *plant & machinery* or *total fixed capital*, and size accordingly.
+
+---
+
+## 8. Machinery & suppliers (per micro-unit)
+
+**Local (Coimbatore–Pollachi hub, 30–60 km — preferred for service/spares):** coconut-shell/biomass carbonization plant manufacturers (e.g., Micro Fab Engineers, Essar Engineers, Veera Biopower and similar). Indicative small semi-auto units 1 t/day-class ≈ ₹6–25 L.
+
+**National (continuous, low-emission, certification-grade — better for EBC/carbon):**
 - **Kerone Engineering (Mumbai)** — continuous multi-feedstock pyrolysis, waste-heat drying, cyclone + scrubber, SCADA.
 - **W2E Innovations (Ahmedabad/Kharagpur; Bengaluru branch)** — integrated biomass→biochar + wood-vinegar + fertilizer, "verification-ready."
 - **Susstains Engineering (Karnataka)** — IIT-Madras-derived zero-smoke continuous process (~34% yield).
-- **Ylem Energy (New Delhi)** — smaller batch furnaces (lower cost; batch → less consistent, weaker for CTO/EBC).
+- **Ylem Energy (New Delhi)** — smaller batch furnaces (lower cost; batch → less consistent).
 
-**Recommendation:** buy a **continuous/semi-continuous plant with integrated dryer + afterburner + scrubber** (not a bare batch kiln). Obtain quotes from one local Coimbatore/Pollachi maker (price + service) and one national continuous-tech supplier; compare on emission compliance and yield. Budget ₹40 L machinery for Phase-1 with the gas train and dryer pre-sized for 2 t/day.
+**Recommendation:** for a micro-unit, buy a **compact continuous/semi-continuous ~0.5 t/day plant with integrated dryer + afterburner + scrubber** (not a bare batch kiln) so stack emissions comfortably meet the Green/guideline norms. Obtain quotes from one local Coimbatore/Pollachi maker (price + service) and one national continuous-tech supplier; compare on **emission compliance and yield**. Budget ~₹22 L for the reactor + gas train + dryer per unit (see Annexure D).
 
 ---
 
-## 8. Land, layout & civil works
+## 9. Land, layout & civil works
 
-**Plot:** owned **38 cent = 16,553 sq ft = ~1,538 sq m**. Machine footprint is small; feedstock storage is off-site at the farm, so the plot comfortably hosts the 2 t/day endgame.
+**Land:** promoter-owned **38-cent plot** (~1,538 sq m) + adjacent farm (feedstock/drying). The plot comfortably hosts up to **three compact micro-units** with shared greenbelt, road and gate; each unit is a **separately demarcated block** (supporting independent consent).
 
-**Indicative layout (2 t/day-ready):**
+**Indicative per-unit footprint (compact):**
 
-| Zone | Area (sq m) |
+| Zone (per unit) | Area (sq m) |
 |---|---|
-| Greenbelt / setback (KSPCB) | ~550 |
-| Pyrolysis + emission control + waste-heat finish-dryer | 150 |
-| Feedstock day-bin (1–2 day buffer) | 80 |
-| Enrichment / composting + curing | 250 |
-| Product storage + bagging | 150 |
-| Office / lab / weighbridge / utilities | 100 |
-| Internal roads / loader turning | ~258 |
-| **Total** | **~1,538 (= 38 cent)** |
+| Pyrolysis + emission control | 60 |
+| Feedstock day-bin (1–2 day) | 30 |
+| Enrichment / curing | 90 |
+| Product storage + bagging | 60 |
+| Share of greenbelt / roads / utilities | ~120 |
+| **Per-unit total** | **~360** |
 
-**Pre-checks:** confirm plot land-use is convertible to industrial (Orange category needs land-use + Panchayat permission); KSPCB setback from residences/water bodies/eco-sensitive zones; road access for tippers; 3-phase power; water availability.
-
-**Construction (sized for 2 t/day):** enclosed sheds ~35–40 L; roofed open sheds ~27–32 L; site works (leveling, compound wall, paving, drainage) ~10–14 L; ≈ **₹65–90 L** (see cost table).
+**Pre-checks:** confirm plot land-use is convertible to industrial where required; KSPCB setback from residences/water bodies/eco-sensitive zones; road access; 3-phase power; water availability. **Construction per unit (compact):** process shed + curing/storage + site works ≈ **₹12 L** (see cost table).
 
 ---
 
-## 9. Regulatory & statutory compliance
+## 10. Regulatory & statutory compliance (per unit)
 
 | Approval | Authority | Notes |
 |---|---|---|
-| Udyam (MSME) registration | Online | Gateway for all schemes |
-| **Consent to Establish (CTE)** | KSPCB | Before construction; **apply rated for 2 t/day** |
-| **Consent to Operate (CTO)** | KSPCB | After build + inspection; Orange category |
+| Udyam (MSME) registration | Online | Separate registration per unit; gateway for schemes |
+| **Consent to Establish (CTE)** | KSPCB | **Green category, self-certification route** (≤ ₹50 L) |
+| **Consent to Operate (CTO)** | KSPCB | Green; self-certification per applicable slab |
 | Panchayat D&O (Dangerous & Offensive) licence | Grama Panchayat | Manufacturing unit |
-| Building permit | Grama Panchayat | Sheds/plant |
+| Building permit | Grama Panchayat | Shed/plant |
 | Fire NOC | Fire & Rescue Dept. | Thermal process |
-| Factories Act registration | If worker/power thresholds crossed | |
 | GST registration | | |
 | Land-use conversion | Revenue Dept. | If plot is agricultural |
 
-Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning of biomass at any stage.
+Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning of biomass at any stage. Environmental Clearance is not required (non-EIA-scheduled, non-Red).
 
 ---
 
-## 10. Cost of project (Phase-1)
+## 11. Cost of project (per micro-unit)
 
 | # | Item | ₹ Lakh |
 |---|---|---|
-| 1 | Land (owned 38 cent — promoter contribution in kind) | 15 |
-| 2 | Site development, compound wall, roads, greenbelt | 10 |
-| 3 | Civil — sheds & buildings (sized for 2 t/day) | 48 |
-| 4 | Pyrolysis reactor — 1 t/day (Phase-1, modular) | 20 |
-| 5 | Dryer + emission control + gas train (sized 2 t/day) | 18 |
-| 6 | Sieving, mixing, pelletizer, bagging | 6 |
-| 7 | Electrical infra & transformer (sized 2 t/day) | 12 |
-| 8 | Weighbridge, water (borewell/tanks), fire system | 13 |
-| 9 | Farm-side drying floor, chipper/shredder, storage | 9 |
-| 10 | Lab / QC equipment, office | 5 |
-| 11 | Preliminary & pre-operative (CTE/CTO, DPR, MRV setup, EBC prep) | 7 |
-| 12 | Contingency (~5%) | 7 |
-| | **Fixed capital sub-total** | **170** |
-| 13 | Margin money for working capital | 15 |
-| | **Total project cost (Phase-1)** | **~₹1.70 crore** |
+| 1 | Site development + compact process shed + curing/storage (civil) | 12 |
+| 2 | Pyrolysis reactor ~0.5 t/day (continuous/semi-continuous, multi-feedstock) | 16 |
+| 3 | Emission control — afterburner/flare + cyclone + scrubber + stack (Green-compliant) | 6 |
+| 4 | Char cooling, sieving, enrichment mixer, bagging | 5 |
+| 5 | Electrical, water, fire, weighing | 4 |
+| 6 | Feedstock drying floor + chipper/shredder | 3 |
+| 7 | Lab / QC + office corner | 1 |
+| 8 | Preliminary & pre-operative (self-cert CTE/CTO, DPR, EBC/MRV) | 1 |
+| | **Fixed capital sub-total (per unit)** | **48** |
+| 9 | Margin money for working capital | 4 |
+| | **Total project cost (per unit)** | **~₹52 lakh** |
 
-*Phase-2 add-on (later): second reactor + handling ≈ ₹25–35 L, funded from cash flows / top-up loan.*
+**Land** is the promoter's own (in-kind) and is **excluded** from the fixed-capital figure that is tested against the ₹50 L self-certification threshold. **Aggregate for 3 units ≈ ₹1.44 cr fixed capital** (units funded sequentially).
 
 ---
 
-## 11. Means of finance & subsidy stack
+## 12. Means of finance & subsidy stack (per unit)
 
 | Source | ₹ Lakh | % |
 |---|---|---|
-| Promoter equity (cash ~₹30 L + land in-kind ~₹15 L) | 45 | 26% |
-| Term loan — bank, under **AIF (3% interest subvention, 7 yrs)**, **CGTMSE** collateral-free | 110 | 65% |
-| Working capital limit (bank cash credit) | 15 | 9% |
-| **Total** | **170** | 100% |
+| Promoter equity (cash) | 14 | 27% |
+| Term loan — bank, under **AIF (3% interest subvention, 7 yrs)**, **CGTMSE** collateral-free | 34 | 65% |
+| Working capital limit (bank cash credit) | 4 | 8% |
+| **Total** | **52** | 100% |
 
-**Kerala ESS capital subsidy (~₹40 L)** is received as **reimbursement after commissioning** and will be used to **prepay the term loan**, reducing effective debt to ~₹70 L.
+**Kerala ESS capital subsidy (~₹20 L per unit)** — at the ~45% band on ₹48 L eligible fixed capital, within the ₹40 L cap — is received as **reimbursement after commissioning** and applied to **prepay the term loan**, cutting effective per-unit debt to ~₹14 L.
 
 ### Subsidy stack logic
-- **Anchor = Kerala ESS** (state capital subsidy). Target **45%** band: 25% base (young/women/SC-ST/NRK) + 10% priority sector (agro-based / bio-fertilizer) + 10% new technology; overall cap **₹40 L**, reached at ~₹90 L fixed capital (our ₹155 L fixed capital comfortably maxes it). *Palakkad does not get the extra 10% district bonus (that is only Idukki/Wayanad/Kasargode/Pathanamthitta).*
-- **+ AIF** (central): 3% interest subvention up to ₹2 cr loan for 7 yrs + CGTMSE guarantee fee government-paid. Different basis (interest vs capital) → **stacks legitimately with ESS**; confirm convergence in writing with DIC + bank.
-- **+ CGTMSE:** collateral-free loan → keeps the farm un-mortgaged.
-- **Do NOT use PMEGP** — its rules disqualify units that have availed any other government subsidy, so it would void ESS + AIF. (PMEGP is only the fallback if no bank loan is possible.)
+- **Anchor = Kerala ESS** (state capital subsidy). Target **45%** band: 25% base (young/women/SC-ST/NRK) + 10% priority sector (agro-based / bio-fertilizer) + 10% new technology. *Palakkad does not get the extra 10% district bonus.*
+- **+ AIF** (central): 3% interest subvention + CGTMSE guarantee — different basis, **stacks legitimately with ESS**; confirm convergence in writing with DIC + bank.
+- **+ CGTMSE:** collateral-free loan → the farm is not mortgaged.
+- **Multi-unit ESS:** confirm with DIC whether each independently-registered micro-unit is **separately eligible** for ESS; if units are clubbed, the aggregate stays within scheme caps.
+- **Do NOT use PMEGP** — its rules disqualify units that have availed other government subsidy, voiding ESS + AIF.
 - **Effective term-loan interest:** 9% − 3% = **~6%**.
 
 ---
 
-## 12. Working capital (indicative, annual)
+## 13. Working capital (indicative, annual, per unit)
 
-Feedstock collection/transport, enrichment inputs (poultry manure, neem cake, rock phosphate, microbial consortium), packaging, wages, power, and ~1–2 months finished-goods holding. Phase-1 operating cost ≈ **₹60 L/yr**; Phase-2 ≈ **₹1.05 cr/yr**.
+Feedstock collection/purchase/transport, enrichment inputs (poultry manure, neem cake, rock phosphate, microbial consortium), packaging, wages, power, and ~1–2 months finished-goods holding. Per-unit operating cost ≈ **₹30 L/yr**.
 
 ---
 
-## 13. Profitability & ROI
+## 14. Profitability & ROI (per unit and aggregate)
 
-**Common assumptions:** 300 operating days; biochar 1 t ≈ 2.2 t CO₂; carbon net realization ~₹10,000/t CO₂ (after aggregator/MRV); enriched blended price ₹35/kg (base) to ₹40/kg (with-carbon scenario). Effective interest 6%.
+**Common assumptions:** 300 operating days; biochar 1 t ≈ 2.2 t CO₂; carbon net realization ~₹10,000/t CO₂ (after aggregator/MRV); enriched blended price ₹35/kg. Effective interest 6%.
 
 | Scenario | Biochar | Revenue | Op. cost | Net profit (approx) | Payback |
 |---|---|---|---|---|---|
-| **Phase-1 base** (physical only) | 300 t | ₹1.05 cr | ₹0.60 cr | **~₹22 L** | ~3.5–4 yr |
-| **Phase-1 + carbon** | 300 t | ₹1.05 cr + ₹0.66 cr = ₹1.71 cr | ₹0.65 cr | **~₹80 L** | ~1.6–2 yr |
-| **Phase-2 base** (physical only) | 600 t | ₹2.10 cr | ₹1.05 cr | **~₹80 L** | — |
-| **Phase-2 + carbon** | 600 t | ₹2.4 cr + ₹1.32 cr = ₹3.72 cr | ₹1.20 cr | **~₹2.1 cr** | <1 yr |
+| **Per unit — base** (physical only) | 150 t | ₹52.5 L | ₹30 L | **~₹12 L** | ~2.5–3.5 yr |
+| **Per unit — + carbon** | 150 t | ₹52.5 L + ₹33 L = ₹85.5 L | ₹32 L | **~₹40 L** | ~1.2–1.5 yr |
+| **3 units — base** (physical only) | 450 t | ₹1.58 cr | ₹0.90 cr | **~₹36 L** | — |
+| **3 units — + carbon** | 450 t | ₹1.58 cr + ₹0.99 cr = ₹2.57 cr | ₹0.96 cr | **~₹1.2 cr** | <1.5 yr |
 
-**Net capital at risk (Phase-1) ≈ ₹1.30 cr** after ESS ₹40 L.
-**ROI (Phase-1 base): ~17%; with carbon: ~60%.** Carbon revenue is upside — treat physical-only as the bankable base case; carbon requires certification + a signed aggregator offtake.
+**Net capital at risk (per unit) ≈ ₹28 L** after ESS ~₹20 L. **ROI (per unit, base): ~20%; with carbon: ~85%.** Carbon revenue is upside — treat physical-only as the bankable base case; carbon requires certification + a signed aggregator offtake.
 
-*Drivers: near-free anchor feedstock, ~6% subsidised interest, ₹40 L ESS, and selling enriched (not raw) product.*
+*Drivers: low-cost multi-source feedstock, ~6% subsidised interest, ESS, selling enriched (not raw) product, and staged low-risk capital.*
 
 ---
 
-## 14. Carbon-credit strategy & aggregator options
+## 15. Carbon-credit strategy & aggregator options
 
-At ~660 t CO₂/yr (Phase-1) / ~1,320 t CO₂/yr (Phase-2), volumes are **too small to transact directly with corporate buyers** (~85% of CORCs are sold via brokers/aggregators). Route through an **aggregator/developer** who provides MRV, certification (Puro.earth CORC methodology) and buyer access.
+At ~330 t CO₂/yr per unit (~990 t CO₂/yr at 3 units), volumes are **too small to transact directly with corporate buyers** (~85% of CORCs are sold via brokers/aggregators). Route through an **aggregator/developer** who provides MRV, certification (Puro.earth CORC methodology) and buyer access. Aggregating the 3 units' output improves the transactable volume.
 
 | Party | Role / fit |
 |---|---|
-| **Varaha (Gurugram/New Delhi)** — India's largest biochar CDR developer; Puro.earth + Verra; offtakes with Google, Microsoft, Kellanova | **Best first contact.** Runs the **Varaha Industrial Partners Program (VIPP)** — lets facilities with feedstock + conversion capability use Varaha's digital MRV + credit commercialization and issue CORCs under Puro's biochar methodology. |
-| **Equilibrium** — industrial biochar operator; 180,000 t offtake with Altitude | Developer/partner for industrial biochar; potential offtake channel. |
-| **Eco Saarthi** — cooperative model aggregating agri residue → biochar/bio-coal | Fit for a cooperative/aggregation structure. |
-| **Puro.earth** | The **registry/standard** (CORCCHAR biochar methodology); certification happens through a developer. |
-| **BioFlux** (advisory) | Independent biochar-CDR advisory — feasibility, feedstock/logistics design, MRV & certification, buyer alignment. Useful consultant to structure the project for certification. |
-| Marketplaces/brokers — **Supercritical, Senken** | Secondary sale/price-discovery channels. |
+| **Varaha (Gurugram/New Delhi)** — India's largest biochar CDR developer; Puro.earth + Verra; offtakes with Google, Microsoft, Kellanova | **Best first contact.** Its Industrial Partners Program lets facilities with feedstock + conversion capability use Varaha's digital MRV + credit commercialization and issue CORCs. |
+| **Equilibrium** — industrial biochar operator | Developer/partner; potential offtake channel. |
+| **Eco Saarthi** — cooperative aggregating agri residue → biochar | Fit for an aggregation structure. |
+| **Puro.earth** | The **registry/standard** (CORCCHAR methodology); certification via a developer. |
+| **BioFlux** (advisory) | Independent biochar-CDR advisory — feasibility, MRV & certification, buyer alignment. |
+| Marketplaces/brokers — **Supercritical, Senken** | Secondary sale/price-discovery. |
 
-**Action:** approach **Varaha VIPP first** for an MRV + offtake partnership; engage **BioFlux** (or equivalent) to make the plant EBC/Puro-ready; target a **Letter of Intent (LOI)** before Phase-2 to bank the carbon revenue. Ensure feedstock is documented **residual/waste biomass** (fronds, husk, shells, coir) for additionality.
+**Action:** approach **Varaha first** for an MRV + offtake partnership; target a **Letter of Intent (LOI)** before scaling to bank the carbon revenue. Document feedstock as **residual/waste biomass** for additionality.
 
 ---
 
-## 15. Value addition — enriched bio-fertilizer
+## 16. Value addition — enriched bio-fertilizer
 
 Base biochar is K-rich; enrich to a balanced slow-release organic input:
 - **Nitrogen/phosphorus:** poultry manure, neem cake, bone meal / rock phosphate.
@@ -261,156 +282,151 @@ Base biochar is K-rich; enrich to a balanced slow-release organic input:
 
 ---
 
-## 16. Implementation schedule (sequence, not calendar)
+## 17. Implementation schedule (sequence, not calendar)
 
 1. Feedstock lab proximate analysis (moisture, fixed carbon, ash, K) — decides final sizing.
-2. Udyam registration; DIC/ESS pre-consultation; feedstock MoUs.
-3. Land-use confirmation; **CTE (KSPCB, rated 2 t/day)**.
-4. Machinery quotes & order (reactor 1 t/day; gas train/dryer/civil for 2 t/day).
-5. Civil construction + plant erection with reactor #2 tie-ins pre-provisioned.
-6. Panchayat D&O + building permit + fire NOC; **CTO**.
+2. Udyam registration (Unit-1); DIC/ESS pre-consultation; feedstock MoUs with 3–4 local sources.
+3. **Written KSPCB categorisation confirmation** (Green) for the unit.
+4. **Self-certified CTE (Green)**; machinery quotes & order (~0.5 t/day reactor + gas train + dryer).
+5. Compact civil construction + plant erection.
+6. Panchayat D&O + building permit + fire NOC; **self-certified CTO**.
 7. AIF term loan + CGTMSE; commissioning; ESS claim on installed assets.
 8. Product validation on own farm; EBC/organic certification.
-9. Engage carbon aggregator (Varaha VIPP); secure LOI.
-10. Phase-2: add reactor + scale feedstock aggregation.
+9. Engage carbon aggregator (Varaha); secure LOI.
+10. **Replicate Unit-2 and Unit-3** from cash flows / fresh micro-loans (repeat steps 2–7 per unit).
 
 ---
 
-## 17. Risks & mitigation
+## 18. Risks & mitigation
 
 | Risk | Mitigation |
 |---|---|
+| **Category/clubbing** — KSPCB may club co-located commonly-owned units | Keep units genuinely independent (separate blocks, Udyam, metering, consents); secure **written Green confirmation**; Green rests on the process, not the split |
 | Feedstock moisture / drying energy | Sun-dry at farm; waste-heat dryer; lab-test first |
+| Feedstock security | Multi-source (own farm + 3–4 open-market suppliers) — no single-supplier dependency |
 | Demand-side weakness (Indian biochar) | Own-farm consumption; sell enriched/branded; export the credit |
 | Carbon-credit dependency | Bank case = physical only; carbon = upside pending LOI |
-| Regulatory sequencing | CTE (2 t/day) → build → CTO; consultant support |
-| Feedstock security | Supply MoUs (partner + local sources) |
+| Multi-unit subsidy eligibility | Confirm per-unit ESS eligibility with DIC in writing |
 | Product consistency for certification | Continuous reactor + fixed blend recipe |
 
 ---
 
-## 18. Assumptions & disclaimer
+## 19. Assumptions & disclaimer
 
-All costs, yields, prices and returns are **planning-grade indicative estimates** (mid-2026 market references) for the purpose of scheme application and bank appraisal. They must be confirmed by: (a) a laboratory proximate analysis of the actual feedstock; (b) formal machinery quotations; (c) written confirmation of ESS/AIF eligibility and convergence from DIC Palakkad and the lending bank; and (d) a carbon-credit LOI from an aggregator before carbon revenue is counted. Regulatory categories and subsidy rates are subject to the prevailing KSPCB, DIC and scheme guidelines at the time of application.
+All costs, yields, prices and returns are **planning-grade indicative estimates** (mid-2026 market references) for scheme application and bank appraisal. They must be confirmed by: (a) a laboratory proximate analysis of the actual feedstock; (b) formal machinery quotations; (c) written confirmation of ESS/AIF eligibility and convergence from DIC Palakkad and the lending bank; (d) a **written KSPCB categorisation (Green) and self-certification confirmation**, including treatment of multiple co-located units; and (e) a carbon-credit LOI from an aggregator before carbon revenue is counted. Regulatory categories and subsidy rates are subject to the prevailing KSPCB, DIC and scheme guidelines at the time of application.
 
 ---
 
-## Annexure A — Plot layout (38 cent, 2 t/day-ready)
+## Annexure A — Micro-unit layout & site plan
 
-A scaled schematic is provided as **`plot-layout.svg`** (open in any browser to print on one page). Text schematic below for quick reference:
+`plot-layout.svg` (open in any browser) shows the owned site accommodating the phased units. Text schematic of a **single ≤ ₹50 L micro-unit** below:
 
 ```
                                    N ^
-   ============ GREENBELT / SETBACK  ~550 m² (perimeter tree belt) ============
-   |                                                            [stack]        |
-   |  +-------------+   +----------------------+   +--------------------------+|
-   |  | Feedstock   |   | PYROLYSIS + EMISSION |   | Product storage          ||
-   |  | day-bin     |   | CONTROL   ~150 m²    |   | + bagging   ~150 m²      ||
-   |  | ~80 m²      |   | reactor #1 (+ space  |   |                          ||
-   |  | (1-2 day)   |   |  for reactor #2)     |   |                          ||
-   |  +-------------+   +----------------------+   +--------------------------+|
-   |  - - - - - - INTERNAL ROAD / LOADER TURNING (~258 m²) - - - - - - - - - - |
-   |  +---------------------------+   +------------------------------------+  |
-   |  | ENRICHMENT / COMPOSTING   |   | Office / Lab (QC)                  |  |
-   |  | + CURING     ~250 m²      |   | Utilities / Water   ~100 m²        |  |
-   |  | (char + manure/neem/      |   | borewell+tanks, electrical, fire   |  |
-   |  |  rock-P + microbes)       |   |                                    |  |
-   |  +---------------------------+   +------------------------------------+  |
-   |                        [ WEIGHBRIDGE ]   [ GATE ]                        |
-   ==========================================================================
-              ▼ PWD ROAD (access)        → Farm (feedstock + sun-drying) ~200 m
+   ===== GREENBELT / SETBACK (shared perimeter tree belt) =====
+   |                                               [stack]     |
+   |  +-------------+   +--------------------+   +-----------+  |
+   |  | Feedstock   |   | PYROLYSIS +        |   | Product   |  |
+   |  | day-bin     |   | EMISSION CONTROL   |   | storage + |  |
+   |  | ~30 m2      |   | ~60 m2 (reactor,   |   | bagging   |  |
+   |  | (1-2 day)   |   |  afterburner,      |   | ~60 m2    |  |
+   |  |             |   |  cyclone,scrubber) |   |           |  |
+   |  +-------------+   +--------------------+   +-----------+  |
+   |  +--------------------------+   +----------------------+   |
+   |  | ENRICHMENT / CURING      |   | Utilities / weighing |   |
+   |  | ~90 m2 (char + manure/   |   | (shared)             |   |
+   |  |  neem/rock-P + microbes) |   |                      |   |
+   |  +--------------------------+   +----------------------+   |
+   |                    [ GATE ]                                |
+   ============================================================
+        v PWD ROAD (access)      -> Farm (feedstock + sun-drying) ~200 m
 ```
 
-**Notes:** greenbelt on all sides for KSPCB consent; pyrolysis block sized with vacant bay + pre-laid foundation/tie-ins for **reactor #2** (Phase-2); large biomass storage is kept **off-site at the farm** (200 m), so only a 1–2 day day-bin sits on the plot; weighbridge and gate at the road frontage.
+**Notes:** each unit is a **separately demarcated block** with its own reactor, emission-control train and storage (supporting independent Green/self-certified consent); bulk biomass is stored **off-site at the farm** (200 m), so only a 1–2 day day-bin sits in the unit. Up to three such blocks share the greenbelt, gate and utilities on the 38-cent plot.
 
 ---
 
-## Annexure B — Term-loan amortisation schedule
+## Annexure B — Term-loan amortisation (per unit)
 
-**Assumptions:** Term loan **₹110 L**; effective rate **6% p.a.** (9% − 3% AIF interest subvention); tenure **7 years**; **6-month construction moratorium** (interest served, no principal in Year 1); **Kerala ESS ~₹40 L received ~Month 12 and applied as principal prepayment**, leaving ~₹70 L to amortise over Years 2–7. Equal annual instalment (EAI) Years 2–7 ≈ **₹14.24 L** (≈ **₹1.19 L/month EMI**).
+**Assumptions:** term loan **₹34 L** per unit; effective rate **6% p.a.** (9% − 3% AIF subvention); tenure **7 years**; **6-month construction moratorium** (interest served, no principal in Year 1); **Kerala ESS ~₹20 L received ~Month 12 and applied as principal prepayment**, leaving ~₹14 L to amortise over Years 2–7 (EAI ≈ **₹2.85 L/yr**, ≈ ₹0.24 L/month).
 
 | Year | Opening (₹L) | Interest @6% (₹L) | Principal repaid (₹L) | ESS prepayment (₹L) | Closing (₹L) |
 |---|---|---|---|---|---|
-| 1 | 110.00 | 6.60 | 0.00 (moratorium) | 40.00 | 70.00 |
-| 2 | 70.00 | 4.20 | 10.04 | – | 59.96 |
-| 3 | 59.96 | 3.60 | 10.64 | – | 49.32 |
-| 4 | 49.32 | 2.96 | 11.28 | – | 38.04 |
-| 5 | 38.04 | 2.28 | 11.96 | – | 26.08 |
-| 6 | 26.08 | 1.56 | 12.68 | – | 13.40 |
-| 7 | 13.40 | 0.80 | 13.44 | – | ~0.00 |
-| **Total** | | **~22.0** | **~70.0** | **40.0** | |
+| 1 | 34.00 | 2.04 | 0.00 (moratorium) | 20.00 | 14.00 |
+| 2 | 14.00 | 0.84 | 2.01 | – | 11.99 |
+| 3 | 11.99 | 0.72 | 2.13 | – | 9.86 |
+| 4 | 9.86 | 0.59 | 2.26 | – | 7.60 |
+| 5 | 7.60 | 0.46 | 2.39 | – | 5.21 |
+| 6 | 5.21 | 0.31 | 2.54 | – | 2.67 |
+| 7 | 2.67 | 0.16 | 2.69 | – | ~0.00 |
+| **Total** | | **~5.1** | **~14.0** | **20.0** | |
 
-**AIF benefit:** the 3% subvention saves ~**₹11 L** of interest over the loan life versus a 9% loan on the same balances. Guarantee fee is government-paid under AIF (CGTMSE), so the loan is **collateral-free** — the farm is not mortgaged.
+**AIF benefit:** the 3% subvention saves ~₹2.5 L of interest per unit over the loan life versus a 9% loan; the loan is **collateral-free** under CGTMSE — the farm is not mortgaged.
 
 ---
 
-## Annexure C — Month-by-month cash flow, Year 1 (Phase-1 ramp)
+## Annexure C — Month-by-month cash flow, Year 1 (per unit ramp)
 
-**Assumptions (Phase-1, physical-sales base case):** commissioning at **Month 7**; ramp 25% → 100% by Month 12. Full-capacity monthly revenue **₹8.75 L** (₹1.05 cr/yr); operating cost ≈ **₹2.0 L fixed + ₹3.0 L variable at 100%**; interest served during moratorium ≈ **₹0.55 L/month**. Capex is funded by equity + term loan (not shown in operating flow). ESS ₹40 L inflow at Month 12 is a financing item applied to loan prepayment (Annexure B).
+**Assumptions (physical-sales base case):** commissioning at **Month 5**; ramp 30% → 100% by Month 10. Full-capacity monthly revenue **₹4.38 L** (₹52.5 L/yr); operating cost ≈ **₹1.2 L fixed + ₹1.3 L variable at 100%**; interest served during moratorium ≈ **₹0.17 L/month**. Capex is funded by equity + term loan (not shown in operating flow). ESS ₹20 L inflow (~Month 12) is a financing item applied to loan prepayment (Annexure B).
 
 | Month | Phase | Capacity | Revenue (₹L) | Op. cost (₹L) | EBITDA (₹L) | Interest (₹L) | Net op. cash (₹L) |
 |---|---|---|---|---|---|---|---|
-| 1–6 | Construction / pre-op | – | 0.00 | trial only | – | 0.55/mo | interest served from loan |
-| 7 | Commissioning | 25% | 2.19 | 2.75 | −0.56 | 0.55 | −1.11 |
-| 8 | Ramp | 40% | 3.50 | 3.20 | 0.30 | 0.55 | −0.25 |
-| 9 | Ramp | 55% | 4.81 | 3.65 | 1.16 | 0.55 | 0.61 |
-| 10 | Ramp | 70% | 6.13 | 4.10 | 2.03 | 0.55 | 1.48 |
-| 11 | Ramp | 85% | 7.44 | 4.55 | 2.89 | 0.55 | 2.34 |
-| 12 | Full | 100% | 8.75 | 5.00 | 3.75 | 0.55 | 3.20 |
-| **H2 total** | | | **32.82** | **23.25** | **9.57** | **3.30** | **6.27** |
+| 1–4 | Construction / pre-op | – | 0.00 | trial only | – | 0.17/mo | interest served from loan |
+| 5 | Commissioning | 30% | 1.31 | 1.59 | −0.28 | 0.17 | −0.45 |
+| 6 | Ramp | 45% | 1.97 | 1.79 | 0.18 | 0.17 | 0.01 |
+| 7 | Ramp | 60% | 2.63 | 1.98 | 0.65 | 0.17 | 0.48 |
+| 8 | Ramp | 75% | 3.28 | 2.18 | 1.10 | 0.17 | 0.93 |
+| 9 | Ramp | 90% | 3.94 | 2.38 | 1.56 | 0.17 | 1.39 |
+| 10–12 | Full | 100% | 4.38/mo | 2.50/mo | 1.88/mo | 0.17 | 1.71/mo |
 
-**Steady state (Year 2+, Phase-1 full):** monthly revenue ₹8.75 L − opex ₹5.0 L = **EBITDA ₹3.75 L**; less EMI ₹1.19 L → **net cash ~₹2.56 L/month (~₹30.7 L/yr)** before tax and depreciation.
+**Steady state (Year 2+, per unit):** monthly revenue ₹4.38 L − opex ₹2.50 L = **EBITDA ₹1.88 L**; less EMI ₹0.24 L → **net cash ~₹1.64 L/month (~₹19.6 L/yr)** before tax and depreciation.
 
-**Debt-service coverage (Year 2):** EBITDA ≈ ₹45 L ÷ debt service ≈ ₹14.24 L → **DSCR ≈ 3.1** (comfortably bankable; lenders typically want ≥ 1.5–2.0).
+**Debt-service coverage (Year 2, per unit):** EBITDA ≈ ₹22.5 L ÷ debt service ≈ ₹2.85 L → **DSCR ≈ 7.9** (very comfortably bankable). Even before ESS prepayment, DSCR on the full ₹34 L loan is well above 2.0.
 
-**Upside:** adding realized carbon revenue (~₹0.66 cr/yr in Phase-1, ~₹1.32 cr/yr in Phase-2) lifts EBITDA sharply and shortens payback to under ~2 years — kept out of the base case above pending a signed aggregator LOI.
+**Upside:** adding realized carbon revenue (~₹33 L/yr per unit) lifts EBITDA sharply and shortens payback to well under ~1.5 years — kept out of the base case above pending a signed aggregator LOI.
 
 ---
 
-## Annexure D — Machinery quotation-comparison template (fillable)
+## Annexure D — Machinery quotation-comparison template (fillable, per micro-unit)
 
-**How to use:** send this to at least **two local vendors (Coimbatore/Pollachi hub)** and **one national continuous-technology vendor**. Ask each to quote the **Phase-1 reactor (1 t/day)** together with the **2 t/day-sized gas train and dryer** (so no re-work at expansion), and to price reactor #2 tie-in provisions as a separate option. Enter the received figures in Table D-2, then carry the sub-totals into **Section 10 — Cost of project** (mapping shown in the "→ Cost item" column).
+**How to use:** send this to at least **two local vendors (Coimbatore/Pollachi hub)** and **one national continuous-technology vendor**. Ask each to quote a complete **~0.5 t/day micro-unit** (reactor + dryer + emission train + downstream), state guaranteed emission values and yield, then carry the total into **Section 11 — Cost of project**.
 
 ### Table D-1 — Scope & required specification (issue to vendors)
 
 | # | Equipment | Sized for | Required specification / notes | → Cost item |
 |---|---|---|---|---|
-| 1 | Pyrolysis / carbonization reactor | **Phase-1: 1 t/day** (~200–250 kg/hr feed) | Continuous or semi-continuous; multi-feedstock (briquette, husk, frond, shell, coir); yield ≥30% dry basis | #4 |
-| 2 | Reactor #2 tie-in provisions | Phase-2 (option) | Pre-laid foundation bolts, flanged feed/gas stubs, spare panel ways — quote as separate option | #4 (future) |
-| 3 | Feed system (hopper, screw/belt conveyor, metering) | **2 t/day (common header)** | Variable-speed feed; suited to briquettes + shredded biomass | #4 |
-| 4 | Waste-heat dryer | **2 t/day** | Uses pyrolysis/syngas waste heat; inlet moisture up to ~25% | #5 |
-| 5 | Emission control train — afterburner/flare + cyclone + alkaline scrubber + mist eliminator + ID fan + stack | **2 t/day** | Must meet **KSPCB (Orange) ambient/stack norms**; syngas combustion; vendor to state guaranteed emission values | #5 |
-| 6 | Char cooling / quench + discharge | 1 t/day | Sealed cooling; moisture/temperature controlled | #5 |
-| 7 | Sieving / screening | 1 t/day | Grade separation (powder/granular) | #6 |
-| 8 | Enrichment mixer / blender | 1 t/day | For char + manure/neem/rock-P + microbial slurry | #6 |
-| 9 | Pelletizer (optional) | 1 t/day | For densified enriched product | #6 |
-| 10 | Weighing + bagging | 1 t/day | 25 kg bags + FIBC jumbo option | #6 |
-| 11 | Control panel / instrumentation (PLC/SCADA) | 2 t/day | Temp/pressure monitoring, interlocks, e-stop | #7 |
-| 12 | Erection, commissioning & operator training | — | Include site supervision & trial run | #4–#7 |
-| 13 | Freight, insurance, unloading | — | To site, Eruthenpathy | #4–#7 |
-| 14 | Taxes (GST) | — | State applicable rate separately | — |
+| 1 | Pyrolysis / carbonization reactor | **~0.5 t/day** (~100 kg/hr feed) | Continuous or semi-continuous; multi-feedstock (husk, frond, shell, coir, sawdust, shell); yield ≥25–30% dry basis | #2 |
+| 2 | Feed system (hopper, screw/belt, metering) | 0.5 t/day | Variable-speed feed; suited to shredded mixed biomass | #2 |
+| 3 | Waste-heat feed dryer | 0.5 t/day | Uses pyrolysis/syngas waste heat; inlet moisture up to ~25% | #2 |
+| 4 | Emission control — afterburner/flare + cyclone + alkaline scrubber + mist eliminator + ID fan + stack | 0.5 t/day | Must meet **KSPCB Green / 02.12.2025 guideline** stack norms; vendor to state guaranteed emission values & stack height | #3 |
+| 5 | Char cooling / quench + discharge | 0.5 t/day | Sealed cooling; moisture/temperature controlled | #4 |
+| 6 | Sieving / screening | 0.5 t/day | Grade separation (powder/granular) | #4 |
+| 7 | Enrichment mixer / blender | 0.5 t/day | For char + manure/neem/rock-P + microbial slurry | #4 |
+| 8 | Weighing + bagging | 0.5 t/day | 25 kg bags + FIBC jumbo option | #4 |
+| 9 | Control panel / instrumentation | 0.5 t/day | Temp/pressure monitoring, interlocks, e-stop | #5 |
+| 10 | Erection, commissioning & operator training | — | Include site supervision & trial run | #2–#5 |
+| 11 | Freight, insurance, unloading | — | To site, Eruthenpathy | #2–#5 |
+| 12 | Taxes (GST) | — | State applicable rate separately | — |
 
 ### Table D-2 — Price comparison (fill from vendor quotes, ₹)
 
-| # | Equipment (as above) | Sized for | Vendor A: __________ | Vendor B: __________ | Vendor C: __________ |
-|---|---|---|---|---|---|
-| 1 | Pyrolysis reactor | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 2 | Reactor #2 tie-in provisions (option) | Phase-2 | ₹__________ | ₹__________ | ₹__________ |
-| 3 | Feed system | 2 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 4 | Waste-heat dryer | 2 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 5 | Emission control train | 2 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 6 | Char cooling / quench | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 7 | Sieving / screening | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 8 | Enrichment mixer | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 9 | Pelletizer (optional) | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 10 | Weighing + bagging | 1 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 11 | Control panel / SCADA | 2 t/day | ₹__________ | ₹__________ | ₹__________ |
-| 12 | Erection, commissioning, training | — | ₹__________ | ₹__________ | ₹__________ |
-| 13 | Freight, insurance | — | ₹__________ | ₹__________ | ₹__________ |
-| | **Sub-total (ex-GST)** | | ₹__________ | ₹__________ | ₹__________ |
-| 14 | GST | — | ₹__________ | ₹__________ | ₹__________ |
-| | **TOTAL (incl. GST)** | | **₹__________** | **₹__________** | **₹__________** |
-| | *Carry to Section 10:* items #4 (reactor+feed) + #5 (dryer+emission+cooling) + #6 (sieving/mixing/bagging) + #7 (electrical/control) | | | | |
+| # | Equipment (as above) | Vendor A: ______ | Vendor B: ______ | Vendor C: ______ |
+|---|---|---|---|---|
+| 1 | Pyrolysis reactor (0.5 t/day) | ₹______ | ₹______ | ₹______ |
+| 2 | Feed system | ₹______ | ₹______ | ₹______ |
+| 3 | Waste-heat dryer | ₹______ | ₹______ | ₹______ |
+| 4 | Emission control train | ₹______ | ₹______ | ₹______ |
+| 5 | Char cooling / quench | ₹______ | ₹______ | ₹______ |
+| 6 | Sieving / screening | ₹______ | ₹______ | ₹______ |
+| 7 | Enrichment mixer | ₹______ | ₹______ | ₹______ |
+| 8 | Weighing + bagging | ₹______ | ₹______ | ₹______ |
+| 9 | Control panel | ₹______ | ₹______ | ₹______ |
+| 10 | Erection, commissioning, training | ₹______ | ₹______ | ₹______ |
+| 11 | Freight, insurance | ₹______ | ₹______ | ₹______ |
+| | **Sub-total (ex-GST)** | ₹______ | ₹______ | ₹______ |
+| 12 | GST | ₹______ | ₹______ | ₹______ |
+| | **TOTAL (incl. GST)** | **₹______** | **₹______** | **₹______** |
+| | *Target ≈ ₹22 L for reactor+dryer+emission (items #2–#3 of Section 11)* | | | |
 
 ### Table D-3 — Commercial-terms comparison (fill from vendor quotes)
 
@@ -421,8 +437,8 @@ A scaled schematic is provided as **`plot-layout.svg`** (open in any browser to 
 | Guaranteed biochar yield (% dry basis) | | | |
 | Material of construction (reactor) | | | |
 | Connected electrical load (kW) | | | |
-| Guaranteed stack emissions vs KSPCB norms (state values) | | | |
-| Feedstock types accepted (briquette/husk/frond/shell/coir) | | | |
+| Guaranteed stack emissions vs KSPCB Green/guideline norms | | | |
+| Feedstock types accepted (husk/frond/shell/coir/sawdust) | | | |
 | Delivery period (weeks from PO) | | | |
 | Warranty (months) | | | |
 | After-sales / spares — distance from site | | | |
@@ -430,4 +446,4 @@ A scaled schematic is provided as **`plot-layout.svg`** (open in any browser to 
 | Training & commissioning included? | | | |
 | References / plants in operation (contactable) | | | |
 
-**Evaluation guidance:** do not select on price alone — weight **emission-compliance (for CTO), guaranteed yield, feedstock flexibility, and after-sales proximity** (favouring the Coimbatore/Pollachi hub for fast service). Confirm the quoted gas train and dryer are genuinely **rated for 2 t/day** so Phase-2 needs only the second reactor module.
+**Evaluation guidance:** do not select on price alone — weight **emission-compliance (for Green CTO), guaranteed yield, feedstock flexibility, and after-sales proximity** (favouring the Coimbatore/Pollachi hub for fast service). A clean, low-emission continuous micro-unit both satisfies the Green/guideline norms and produces consistent, certifiable biochar.
