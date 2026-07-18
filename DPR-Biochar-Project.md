@@ -4,7 +4,7 @@
 **Promoter:** Arun T. (sole proprietary concern)
 **Location:** Eruthenpathy, Chittur Taluk, Palakkad District, Kerala (Kerala–Tamil Nadu border)
 **Feedstock origin:** Own coconut-farm residues + open-market agri/wood biomass procured from multiple local sources
-**Structure:** A **single registered unit** that **starts small (~0.5 t/day) and ramps in place to ~2 t/day**, housed in a **purpose-built ~10,000 sq ft single clear-span hall (with 3 movable partition rails)** on the promoter's own 38-cent corner plot, with all bulk feedstock and drying handled on the promoter's **own 10-acre land ~200 m away**. Designed for the **Green** pollution category.
+**Structure:** A **single registered unit** that **starts small (~0.5 t/day) and ramps in place to ~2 t/day**, housed in a **purpose-built ~9,000 sq ft single clear-span hall in three bays** on the promoter's own 38-cent corner plot, with all bulk feedstock and drying handled on the promoter's **own 10-acre land ~200 m away**. Designed for the **Green** pollution category and sized to capture the full ₹40 lakh Kerala ESS subsidy.
 **Prepared for:** Submission to District Industries Centre (DIC), Palakkad and lending bank (AIF / term loan)
 **Document status:** Planning-grade DPR — figures are indicative estimates to be firmed up with (a) a feedstock proximate-analysis lab report, (b) formal machinery quotations, and (c) a written KSPCB categorisation confirmation, before sanction.
 
@@ -16,12 +16,12 @@ This project establishes an **agri-biomass biochar and enriched (microbe-inocula
 
 - **Constitution:** sole proprietorship — **Arun T., proprietor**.
 - **One unit, phased in place (not split):** start at **~0.5 t/day biochar (500 kg/day)** and **ramp to ~1 t/day and then ~2 t/day** by adding modular reactor capacity within the **same registered premises**.
-- **Purpose-built hall:** a **~10,000 sq ft single clear-span covered hall** (over ~23 cents of the 38-cent plot) is built **once, up front, for the 2 t/day endgame**, fitted with **3 movable partition rails** (sliding partitions on floor tracks) that **open or close to reconfigure the floor into larger or smaller working bays** — process, curing, packing and storage — as throughput ramps. Building the full civil once (rather than in stages) also lets the project **capture the maximum Kerala ESS capital subsidy**.
+- **Purpose-built hall (3 bays):** a **~9,000 sq ft single clear-span covered hall** (over ~21 cents of the 38-cent plot) is built **once, up front, for the 2 t/day endgame**, in **three bays** — an **enclosed process & utilities bay on the south-east** (reactor, emission control, electrical and water — the plumbing/power-heavy zone), an **open curing & enrichment floor in the middle**, and a **product storage, packing & QC bay on the west** with a small enclosed lab/office room in its south-west corner. A **movable partition** between the west and middle bays lets that floor be opened out or divided as throughput ramps; the south-east process bay is a fixed enclosure. Sizing the hall this way puts fixed capital just past the point that **captures the full ₹40 lakh Kerala ESS subsidy** (the scheme maximum) without overspending.
 - **Land:** the **own 38-cent corner plot** carries the hall and process; the promoter's **own 10-acre land ~200 m away** handles **all feedstock aggregation, sun-drying, chipping and bulk storage**.
 - **Feedstock:** **multi-source, own-farm + open-market agri/wood biomass** — coconut fronds, petioles, husk, shells and spathe; coir pith and shells from local dehuskers/coir units; and open-market residues (sawdust/wood chips, cashew shell, areca husk, paddy husk, groundnut shell, prunings).
 - **Pollution category — Green (target).** Designed as *general biomass biochar (soil-amendment) production*, which the KSPCB revised categorisation list (as on 29.12.2025) places in the **Green** category — distinct from "charcoal from coconut shell by pyrolysis" (Orange). See Section 7.
 - **Institutional tailwind:** the project plugs into the **Kerala Government biochar expert committee** (constituted on a proposal of the **Australia India Business Council, AIBC**) and takes technical help from **CPCRI** and **KAU**. See Section 16.
-- **Project cost (Phase-1):** ~**₹1.09 crore** (~₹1.01 cr fixed capital + ₹8 L working-capital margin); land is the promoter's own (in-kind, excluded).
+- **Project cost (Phase-1):** ~**₹1.01 crore** (~₹0.93 cr fixed capital + ₹8 L working-capital margin); land is the promoter's own (in-kind, excluded).
 - **Financing:** promoter equity + **AIF term loan (3% interest subvention, 7 yrs)** + **CGTMSE** collateral-free cover + **Kerala ESS capital subsidy (~₹40 L — the scheme maximum)**.
 - **Markets:** **domestic (India) + international**, plus **carbon-removal credits** (the highest-value stream) via an aggregator (Puro.earth CORCs). Australia/NZ is one explorable export option (Section 16).
 - **Indicative payback:** the front-loaded hall lengthens the Phase-1 physical-only payback, but returns strengthen sharply as the unit ramps to 2 t/day and once carbon-credit revenue is realised.
@@ -147,14 +147,19 @@ Two own plots meet all needs:
 
 | Plot | Role | Activities |
 |---|---|---|
-| **Own 38-cent corner plot** (roads on south & east) | **Manufacturing hall (registered; needs CTE/CTO)** | ~10,000 sq ft single clear-span hall with 3 movable partition rails (reconfigurable bays: process, curing, packing, storage); emission stack; office/lab/weighbridge |
+| **Own 38-cent corner plot** (roads on south & east) | **Manufacturing hall (registered; needs CTE/CTO)** | ~9,000 sq ft single clear-span hall in 3 bays — SE process & utilities (enclosed), middle curing/enrichment floor, west product-storage/packing/QC (+ lab/office room); emission stack; weighbridge |
 | **Own ~10-acre land (~200 m)** | Non-core | Feedstock aggregation, **sun-drying**, chipping/shredding, bulk biomass storage |
 
-**The hall (~10,000 sq ft over ~23 cents):** a **single clear-span covered hall** built for the 2 t/day endgame. **3 movable partition rails** (sliding partitions running on floor tracks) divide the clear span into **reconfigurable working bays** — the operator can **open the rails to run the whole floor as one large bay, or close them to separate process, curing, packing and storage bays** — resized as production ramps from 0.5 to 2 t/day. Office/lab, weighbridge and utilities sit at the frontage. Building the full civil once avoids re-construction on ramp and captures maximum ESS. Balance of the plot (~15 cents) is greenbelt, internal roads, parking and setbacks; the corner location (roads on **south and east**) allows separate material-in and dispatch gates.
+**The hall (~9,000 sq ft over ~21 cents), in three bays:**
+- **South-east — Process & utilities bay (enclosed, fixed, ~15–20%).** Houses the pyrolysis reactor, afterburner/cyclone/scrubber, stack, electrical panels and water system — i.e., the **plumbing- and power-intensive** equipment. A fixed masonry enclosure; service/material-in from the south road; the stack rises at the SE corner. (Water/borewell is kept at the north-east.)
+- **Middle — Curing & enrichment floor (open).** Char curing, enrichment mixing and handling on an open span.
+- **West — Product storage, packing & QC bay,** with a **small enclosed lab/office room in its south-west corner** and finished-goods dispatch toward the east gate.
+
+A **movable partition** between the west and middle bays lets that floor be opened out as one large space or divided as throughput ramps; the south-east process bay stays a fixed enclosure. Building the full civil once avoids re-construction on ramp and captures maximum ESS. Balance of the plot (~17 cents) is greenbelt, internal roads, parking and setbacks; the corner location (roads on **south and east**) allows a material-in/service gate on the south and a dispatch/entry gate on the east.
 
 **Pre-checks:** land-use where required; KSPCB setback from residences/water bodies/eco-sensitive zones; road access from the south/east frontage; 3-phase power; water.
 
-**Construction (hall + site works, ~10,000 sq ft):** ≈ **₹54 L** hall (clear-span + 3 movable partition rails) + ~₹6 L site development (see cost table).
+**Construction (hall + site works, ~9,000 sq ft):** ≈ **₹46 L** hall (clear-span; enclosed SE process bay + movable west/middle partition) + ~₹6 L site development (see cost table).
 
 ---
 
@@ -179,7 +184,7 @@ Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning 
 
 | # | Item | ₹ Lakh |
 |---|---|---|
-| 1 | Covered hall ~10,000 sq ft — single clear-span + 3 movable partition rails (built for the 2 t/day endgame) | 54 |
+| 1 | Covered hall ~9,000 sq ft — single clear-span, 3 bays (enclosed SE process bay; movable west/middle partition; built for the 2 t/day endgame) | 46 |
 | 2 | Pyrolysis reactor ~0.5 t/day (modular, expandable to 2 t/day) | 16 |
 | 3 | Emission control — afterburner/flare + cyclone + scrubber + stack (Green-compliant) | 6 |
 | 4 | Char cooling, sieving, enrichment mixer, bagging | 5 |
@@ -188,9 +193,9 @@ Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning 
 | 7 | Lab / QC + office | 2 |
 | 8 | Site development (corner plot: compound wall, gates on S & E, paving, greenbelt) | 6 |
 | 9 | Preliminary & pre-operative (CTE/CTO, DPR, EBC/MRV) | 2 |
-| | **Fixed capital sub-total** | **101** |
+| | **Fixed capital sub-total** | **93** |
 | 10 | Margin money for working capital | 8 |
-| | **Total project cost (Phase-1)** | **~₹1.09 crore** |
+| | **Total project cost (Phase-1)** | **~₹1.01 crore** |
 
 **Land** is the promoter's own (in-kind) and is **excluded**. **Ramp add-ons (from cash flows / top-up AIF loan):** Phase-2 (to 1 t/day) ≈ **+₹22 L**; Phase-3 (to 2 t/day) ≈ **+₹40 L** (extra reactor modules only — the hall, stack and utilities are already built).
 
@@ -200,12 +205,12 @@ Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning 
 
 | Source | ₹ Lakh | % |
 |---|---|---|
-| Promoter equity (cash) | 27 | 25% |
-| Term loan — bank, under **AIF (3% interest subvention, 7 yrs)**, **CGTMSE** collateral-free | 74 | 68% |
-| Working capital limit (bank cash credit) | 8 | 7% |
-| **Total** | **109** | 100% |
+| Promoter equity (cash) | 27 | 27% |
+| Term loan — bank, under **AIF (3% interest subvention, 7 yrs)**, **CGTMSE** collateral-free | 66 | 65% |
+| Working capital limit (bank cash credit) | 8 | 8% |
+| **Total** | **101** | 100% |
 
-**Kerala ESS capital subsidy — ~₹40 L (the scheme maximum).** At the ~45% band, the cap of ₹40 L is reached at ~₹89 L eligible fixed capital; the project's ~₹101 L fixed capital **comfortably maxes the subsidy**. ESS is received as **reimbursement after commissioning** and applied to **prepay the term loan**, cutting effective debt to ~₹34 L.
+**Kerala ESS capital subsidy — ~₹40 L (the scheme maximum).** At the ~45% band, the cap of ₹40 L is reached at ~₹89 L eligible fixed capital; the project's ~₹93 L fixed capital **just clears that point, so the full ₹40 L is captured without overspending**. ESS is received as **reimbursement after commissioning** and applied to **prepay the term loan**, cutting effective debt to ~₹26 L.
 
 ### Subsidy stack logic
 - **Anchor = Kerala ESS** (state capital subsidy). Target **45%** band: 25% base (young/women/SC-ST/NRK) + 10% priority sector (agro-based / bio-fertilizer) + 10% new technology. *Palakkad does not get the extra 10% district bonus.* The **large hall lifts fixed capital past the ₹89 L point, so the full ₹40 L cap is captured.**
@@ -233,7 +238,7 @@ Feedstock collection/purchase/transport, enrichment inputs (poultry manure, neem
 | **Endgame 2 t/day — base** (physical only) | 600 t | ₹2.10 cr | ₹1.05 cr | **~₹80 L** | — |
 | **Endgame 2 t/day — + carbon** | 600 t | ₹2.4 cr + ₹1.32 cr = ₹3.72 cr | ₹1.20 cr | **~₹2.1 cr** | <1 yr |
 
-*The Phase-1 physical-only payback is longer because the **full-size hall and utilities are built up front** for the 2 t/day endgame and to capture maximum ESS. Returns strengthen sharply as capacity ramps inside the same hall (each added reactor module needs little fresh civil) and once carbon revenue is realised. **Net capital at risk (Phase-1) ≈ ₹70 L** after ESS ₹40 L; **DSCR (Year 2) ≈ 3.3** (bankable). Treat physical-only as the base case; carbon is upside pending a signed aggregator offtake.
+*The Phase-1 physical-only payback is longer because the **full-size hall and utilities are built up front** for the 2 t/day endgame and to capture maximum ESS. Returns strengthen sharply as capacity ramps inside the same hall (each added reactor module needs little fresh civil) and once carbon revenue is realised. **Net capital at risk (Phase-1) ≈ ₹61 L** after ESS ₹40 L; **DSCR (Year 2) ≈ 4.3** (bankable). Treat physical-only as the base case; carbon is upside pending a signed aggregator offtake.
 
 ---
 
@@ -286,7 +291,7 @@ Base biochar is K-rich; enrich to a balanced slow-release organic input:
 1. Feedstock lab proximate analysis (moisture, fixed carbon, ash, K) — decides final Phase-1 sizing.
 2. Udyam registration; DIC/ESS pre-consultation; feedstock MoUs (3–4 local sources).
 3. **Written KSPCB categorisation confirmation** (Green); enrol with the **WTO-Cell expert committee** as a pilot.
-4. **CTE (Green)**; hall design/build (10,000 sq ft single clear-span, 3 movable partition rails, endgame-sized); machinery order (~0.5 t/day reactor + gas train + dryer, with ramp tie-ins).
+4. **CTE (Green)**; hall design/build (9,000 sq ft single clear-span, 3 bays — SE process / middle curing / west product+QC, endgame-sized); machinery order (~0.5 t/day reactor + gas train + dryer, with ramp tie-ins).
 5. Hall + site works on the corner plot; feedstock yards on the 10-acre land.
 6. Panchayat D&O + building permit + fire NOC; **CTO**.
 7. AIF term loan + CGTMSE; commissioning; **ESS claim (max ₹40 L)**.
@@ -324,66 +329,67 @@ All costs, yields, prices and returns are **planning-grade indicative estimates*
 ```
                                         N ^
    +==================== 38-CENT CORNER PLOT ====================+
-   |  GREENBELT / SETBACK (perimeter tree belt)                 |
-   |   +----------------------------------------------------+   |
-   |   |   SINGLE CLEAR-SPAN COVERED HALL  ~10,000 sq ft    |   |
-   |   |   +-----+ R +-----+ R +-----+ R +-----+           |   |
-   |   |   | bay | a | bay | a | bay | a | bay |           |   |
-   |   |   |  1  | i |  2  | i |  3  | i |  4  |           |   |
-   |   |   |proc.| l |cure | l |pack | l |store|           |   |
-   |   |   +-----+   +-----+   +-----+   +-----+           |   |
-   |   |   3 movable partition rails (R) - open = one       |   |
-   |   |   large bay; close = separate bays                 |   |
-   |   +----------------------------------------------------+   |
-   |  [stack]   +----------------------------------+            |
-   |            | Office / Lab / Weighbridge / Util |  [GATE-E]==|== EAST ROAD
-   |            +----------------------------------+            |
-   +===============================[GATE-S]=====================+
-                                       ||
-                              ======= SOUTH ROAD =======
+   |  GREENBELT / SETBACK (perimeter tree belt)   [NE: water/    |
+   |   +--------------------------------------+    borewell]      |
+   |   |  SINGLE CLEAR-SPAN HALL ~9,000 sq ft |                   |
+   |   |  +-----------+  +--------+ M +------+ |                  |
+   |   |  | PRODUCT   |  | CURING | o |PROC- | |                  |
+   |   |  | STORAGE / |  |   &    | v |ESS + | |                  |
+   |   |  | PACKING / |  | ENRICH | . |UTILI-| |                  |
+   |   |  | QC (WEST) |  | (MID)  | p |TIES  | |                  |
+   |   |  | +-------+ |  |        | a |(SE)  | |                  |
+   |   |  | |lab/off| |  |        | r |encl. |=|== [GATE-E east]  |
+   |   |  | |(SW)   | |  |        | t |[stack]| |   dispatch/entry |
+   |   |  | +-------+ |  +--------+   +------+ |                  |
+   |   |  +-----------+  (movable partition)   |                  |
+   |   +--------------------------------------+                   |
+   |                      [ GATE-S south - material in/service ]  |
+   +=============================================================+
+                                  ||
+                         ======= SOUTH ROAD =======          EAST ROAD (right)
         Own 10-acre land (feedstock, sun-drying, storage) ~200 m -->
 ```
 
-**Notes:** the plot is a near-square **corner plot with public roads on the south and east**, allowing a **material-in gate (south)** and a **dispatch gate (east)**. The **~10,000 sq ft single clear-span covered hall** occupies ~23 of the 38 cents; **3 movable partition rails** (sliding partitions on floor tracks) let the operator **open the whole floor as one large bay, or close it into separate process, curing, packing and storage bays**, resized as production ramps. Office/lab/weighbridge and the emission stack sit at the frontage; the balance of the plot is greenbelt, parking and setbacks. All bulk feedstock handling, sun-drying and storage are on the **own 10-acre land ~200 m away**, so only a 1–2 day day-bin sits in the hall.
+**Notes:** the plot is a near-square **corner plot with public roads on the south and east**, giving a **material-in / service gate on the south** and a **dispatch / entry gate on the east**. The **~9,000 sq ft single clear-span hall** occupies ~21 of the 38 cents and is arranged in **three bays**: an **enclosed process & utilities bay on the south-east** (reactor, emission train, electrical, water — the plumbing/power-heavy zone; stack at the SE corner), an **open curing & enrichment floor in the middle**, and a **product storage / packing / QC bay on the west** with a small **lab/office room in its south-west corner**. A **movable partition** separates the west and middle bays (opened out or divided as throughput ramps); the SE process bay is a fixed enclosure. Water/borewell is placed at the **north-east**. All bulk feedstock handling, sun-drying and storage are on the **own 10-acre land ~200 m away**, so only a 1–2 day day-bin sits in the hall.
 
 ---
 
 ## Annexure B — Term-loan amortisation (Phase-1)
 
-**Assumptions:** term loan **₹74 L**; effective rate **6% p.a.** (9% − 3% AIF subvention); tenure **7 years**; **6-month construction moratorium** (interest served, no principal in Year 1); **Kerala ESS ~₹40 L received ~Month 12 and applied as principal prepayment**, leaving ~₹34 L to amortise over Years 2–7 (EAI ≈ **₹6.92 L/yr**, ≈ ₹0.58 L/month).
+**Assumptions:** term loan **₹66 L**; effective rate **6% p.a.** (9% − 3% AIF subvention); tenure **7 years**; **6-month construction moratorium** (interest served, no principal in Year 1); **Kerala ESS ~₹40 L received ~Month 12 and applied as principal prepayment**, leaving ~₹26 L to amortise over Years 2–7 (EAI ≈ **₹5.29 L/yr**, ≈ ₹0.44 L/month).
 
 | Year | Opening (₹L) | Interest @6% (₹L) | Principal repaid (₹L) | ESS prepayment (₹L) | Closing (₹L) |
 |---|---|---|---|---|---|
-| 1 | 74.00 | 4.44 | 0.00 (moratorium) | 40.00 | 34.00 |
-| 2 | 34.00 | 2.04 | 4.88 | – | 29.12 |
-| 3 | 29.12 | 1.75 | 5.17 | – | 23.95 |
-| 4 | 23.95 | 1.44 | 5.48 | – | 18.47 |
-| 5 | 18.47 | 1.11 | 5.81 | – | 12.66 |
-| 6 | 12.66 | 0.76 | 6.16 | – | 6.50 |
-| 7 | 6.50 | 0.39 | 6.53 | – | ~0.00 |
-| **Total** | | **~11.9** | **~34.0** | **40.0** | |
+| 1 | 66.00 | 3.96 | 0.00 (moratorium) | 40.00 | 26.00 |
+| 2 | 26.00 | 1.56 | 3.73 | – | 22.27 |
+| 3 | 22.27 | 1.34 | 3.95 | – | 18.32 |
+| 4 | 18.32 | 1.10 | 4.19 | – | 14.13 |
+| 5 | 14.13 | 0.85 | 4.44 | – | 9.69 |
+| 6 | 9.69 | 0.58 | 4.71 | – | 4.98 |
+| 7 | 4.98 | 0.30 | 4.99 | – | ~0.00 |
+| **Total** | | **~9.7** | **~26.0** | **40.0** | |
 
-**AIF benefit:** the 3% subvention saves ~₹6 L of interest over the loan life; the loan is **collateral-free** under CGTMSE — the land is not mortgaged.
+**AIF benefit:** the 3% subvention saves ~₹5 L of interest over the loan life; the loan is **collateral-free** under CGTMSE — the land is not mortgaged.
 
 ---
 
 ## Annexure C — Month-by-month cash flow, Year 1 (Phase-1 ramp)
 
-**Assumptions (physical-sales base case):** commissioning at **Month 7** (larger hall build); ramp 30% → 100% by Month 12. Full-capacity monthly revenue **₹4.38 L** (₹52.5 L/yr); operating cost ≈ **₹1.2 L fixed + ₹1.3 L variable at 100%**; interest served during moratorium ≈ **₹0.37 L/month** (on ₹74 L). Capex is funded by equity + term loan (not shown in operating flow). ESS ₹40 L inflow (~Month 12) is a financing item applied to loan prepayment (Annexure B).
+**Assumptions (physical-sales base case):** commissioning at **Month 7** (larger hall build); ramp 30% → 100% by Month 12. Full-capacity monthly revenue **₹4.38 L** (₹52.5 L/yr); operating cost ≈ **₹1.2 L fixed + ₹1.3 L variable at 100%**; interest served during moratorium ≈ **₹0.33 L/month** (on ₹66 L). Capex is funded by equity + term loan (not shown in operating flow). ESS ₹40 L inflow (~Month 12) is a financing item applied to loan prepayment (Annexure B).
 
 | Month | Phase | Capacity | Revenue (₹L) | Op. cost (₹L) | EBITDA (₹L) | Interest (₹L) | Net op. cash (₹L) |
 |---|---|---|---|---|---|---|---|
-| 1–6 | Construction / pre-op | – | 0.00 | trial only | – | 0.37/mo | interest served from loan |
-| 7 | Commissioning | 30% | 1.31 | 1.59 | −0.28 | 0.37 | −0.65 |
-| 8 | Ramp | 45% | 1.97 | 1.79 | 0.18 | 0.37 | −0.19 |
-| 9 | Ramp | 60% | 2.63 | 1.98 | 0.65 | 0.37 | 0.28 |
-| 10 | Ramp | 75% | 3.28 | 2.18 | 1.10 | 0.37 | 0.73 |
-| 11 | Ramp | 90% | 3.94 | 2.38 | 1.56 | 0.37 | 1.19 |
-| 12 | Full | 100% | 4.38 | 2.50 | 1.88 | 0.37 | 1.51 |
+| 1–6 | Construction / pre-op | – | 0.00 | trial only | – | 0.33/mo | interest served from loan |
+| 7 | Commissioning | 30% | 1.31 | 1.59 | −0.28 | 0.33 | −0.61 |
+| 8 | Ramp | 45% | 1.97 | 1.79 | 0.18 | 0.33 | −0.15 |
+| 9 | Ramp | 60% | 2.63 | 1.98 | 0.65 | 0.33 | 0.32 |
+| 10 | Ramp | 75% | 3.28 | 2.18 | 1.10 | 0.33 | 0.77 |
+| 11 | Ramp | 90% | 3.94 | 2.38 | 1.56 | 0.33 | 1.23 |
+| 12 | Full | 100% | 4.38 | 2.50 | 1.88 | 0.33 | 1.55 |
 
-**Steady state (Year 2+, Phase-1):** monthly revenue ₹4.38 L − opex ₹2.50 L = **EBITDA ₹1.88 L**; less EMI ₹0.58 L → **net cash ~₹1.30 L/month (~₹15.6 L/yr)** before tax and depreciation.
+**Steady state (Year 2+, Phase-1):** monthly revenue ₹4.38 L − opex ₹2.50 L = **EBITDA ₹1.88 L**; less EMI ₹0.44 L → **net cash ~₹1.44 L/month (~₹17.3 L/yr)** before tax and depreciation.
 
-**Debt-service coverage (Year 2):** EBITDA ≈ ₹22.5 L ÷ debt service ≈ ₹6.92 L → **DSCR ≈ 3.3** (bankable).
+**Debt-service coverage (Year 2):** EBITDA ≈ ₹22.5 L ÷ debt service ≈ ₹5.29 L → **DSCR ≈ 4.3** (bankable).
 
 **Upside:** adding realized carbon revenue (~₹33 L/yr at Phase-1) and ramping capacity inside the same hall lifts EBITDA sharply — kept out of the base case above pending a signed aggregator LOI.
 
