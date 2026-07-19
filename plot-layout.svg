@@ -3,7 +3,7 @@
 
   <!-- Title -->
   <text x="450" y="30" text-anchor="middle" font-size="21" font-weight="bold">Plot &amp; Hall Layout - 38-cent corner plot (roads on south &amp; east)</text>
-  <text x="450" y="50" text-anchor="middle" font-size="13" fill="#555">Biochar &amp; enriched bio-fertilizer unit - single clear-span ~9,000 sq ft hall in 3 bays (2 t/day-ready); schematic, not to scale</text>
+  <text x="450" y="50" text-anchor="middle" font-size="13" fill="#555">Biochar &amp; enriched bio-fertilizer unit - single clear-span ~9,000 sq ft hall (2 t/day-ready); schematic, not to scale</text>
 
   <!-- East road -->
   <rect x="740" y="70" width="60" height="740" fill="#e8e8e8" stroke="#bbb" stroke-width="1"/>
@@ -15,63 +15,60 @@
 
   <!-- Plot / greenbelt -->
   <rect x="60" y="70" width="670" height="680" fill="#d9ead3" stroke="#38761d" stroke-width="2"/>
-  <text x="360" y="90" text-anchor="middle" font-size="12" fill="#38761d" font-weight="bold">GREENBELT / SETBACK - perimeter tree belt (KSPCB) - balance ~17 cents</text>
+  <text x="330" y="90" text-anchor="middle" font-size="12" fill="#38761d" font-weight="bold">GREENBELT / SETBACK - perimeter tree belt (KSPCB) - balance ~17 cents</text>
 
-  <!-- NE water/borewell -->
-  <rect x="628" y="104" width="94" height="40" fill="#cfe2f3" stroke="#3d85c6" stroke-width="1.2"/>
-  <text x="675" y="122" text-anchor="middle" font-size="10.5" font-weight="bold">Water / borewell</text>
-  <text x="675" y="136" text-anchor="middle" font-size="10" fill="#555">(north-east)</text>
+  <!-- Borewell NE -->
+  <rect x="628" y="104" width="94" height="34" fill="#cfe2f3" stroke="#3d85c6" stroke-width="1.2"/>
+  <text x="675" y="125" text-anchor="middle" font-size="10" font-weight="bold">Borewell (NE)</text>
 
-  <!-- Single clear-span covered hall (~9,000 sq ft over ~21 cents) -->
-  <rect x="95" y="160" width="600" height="360" fill="#ffffff" stroke="#333" stroke-width="2.5"/>
-  <text x="395" y="180" text-anchor="middle" font-size="13" font-weight="bold">SINGLE CLEAR-SPAN COVERED HALL  ~9,000 sq ft  (built for the 2 t/day endgame)</text>
+  <!-- Hall -->
+  <rect x="95" y="150" width="600" height="380" fill="#ffffff" stroke="#333" stroke-width="2.5"/>
 
-  <!-- West bay: product storage / packing / QC (with SW lab/office) -->
-  <rect x="110" y="195" width="185" height="310" fill="#d9d2e9" stroke="#674ea7" stroke-width="1.3"/>
-  <text x="202" y="245" text-anchor="middle" font-size="12.5" font-weight="bold">PRODUCT STORAGE /</text>
-  <text x="202" y="263" text-anchor="middle" font-size="12.5" font-weight="bold">PACKING / QC</text>
-  <text x="202" y="281" text-anchor="middle" font-size="10.5" fill="#555">(WEST bay)</text>
-  <!-- SW lab/office room -->
-  <rect x="120" y="420" width="120" height="75" fill="#fff2cc" stroke="#bf9000" stroke-width="1.3"/>
-  <text x="180" y="452" text-anchor="middle" font-size="11" font-weight="bold">Lab / Office</text>
-  <text x="180" y="468" text-anchor="middle" font-size="9.5" fill="#555">(SW corner)</text>
+  <!-- North stretch: process & utilities (fixed) -->
+  <rect x="110" y="165" width="570" height="95" fill="#f4cccc" stroke="#990000" stroke-width="1.8"/>
+  <text x="395" y="196" text-anchor="middle" font-size="12.5" font-weight="bold">PROCESS &amp; UTILITIES - NORTH STRETCH (fixed, full width)</text>
+  <text x="395" y="214" text-anchor="middle" font-size="10.5" fill="#555">reactor, afterburner/cyclone/scrubber, electrical/transformer, water &amp; ZLD effluent</text>
+  <text x="395" y="230" text-anchor="middle" font-size="10.5" fill="#555">(power + plumbing + sewage concentrated on the NORTH &amp; WEST)</text>
+  <!-- stack at north -->
+  <rect x="640" y="150" width="14" height="24" fill="#666"/>
+  <text x="632" y="146" font-size="9.5" fill="#666">stack</text>
 
-  <!-- Movable partition -->
-  <line x1="305" y1="195" x2="305" y2="505" stroke="#e06666" stroke-width="3" stroke-dasharray="7 5"/>
-  <text x="305" y="516" text-anchor="middle" font-size="9.5" fill="#cc0000">movable partition</text>
+  <!-- West strip: toilets (NW) + rooms -->
+  <rect x="110" y="270" width="130" height="52" fill="#cfe2f3" stroke="#3d85c6" stroke-width="1.3"/>
+  <text x="175" y="292" text-anchor="middle" font-size="10.5" font-weight="bold">Toilets / handwash</text>
+  <text x="175" y="308" text-anchor="middle" font-size="9.5" fill="#555">(NW, shared, fixed)</text>
 
-  <!-- Middle bay: curing & enrichment -->
-  <rect x="315" y="195" width="180" height="310" fill="#d0e0e3" stroke="#0b5394" stroke-width="1.3"/>
-  <text x="405" y="340" text-anchor="middle" font-size="12.5" font-weight="bold">CURING &amp;</text>
-  <text x="405" y="358" text-anchor="middle" font-size="12.5" font-weight="bold">ENRICHMENT</text>
-  <text x="405" y="376" text-anchor="middle" font-size="10.5" fill="#555">(MIDDLE - open floor)</text>
+  <rect x="110" y="330" width="130" height="185" fill="#d9d2e9" stroke="#674ea7" stroke-width="1.3"/>
+  <text x="175" y="400" text-anchor="middle" font-size="11.5" font-weight="bold">WEST ROOMS</text>
+  <text x="175" y="420" text-anchor="middle" font-size="10" fill="#555">Lab / QC</text>
+  <text x="175" y="436" text-anchor="middle" font-size="10" fill="#555">Office</text>
+  <text x="175" y="452" text-anchor="middle" font-size="10" fill="#555">Secure store</text>
+  <text x="175" y="472" text-anchor="middle" font-size="9.5" fill="#555">(fixed masonry)</text>
 
-  <!-- SE bay: process & utilities (enclosed, fixed) -->
-  <rect x="515" y="195" width="165" height="310" fill="#f4cccc" stroke="#990000" stroke-width="1.8"/>
-  <text x="597" y="330" text-anchor="middle" font-size="12.5" font-weight="bold">PROCESS &amp;</text>
-  <text x="597" y="348" text-anchor="middle" font-size="12.5" font-weight="bold">UTILITIES</text>
-  <text x="597" y="366" text-anchor="middle" font-size="10.5" fill="#555">(SOUTH-EAST, enclosed)</text>
-  <text x="597" y="384" text-anchor="middle" font-size="9.5" fill="#555">reactor, afterburner, cyclone,</text>
-  <text x="597" y="397" text-anchor="middle" font-size="9.5" fill="#555">scrubber, electrical, water</text>
-  <!-- stack at SE corner -->
-  <rect x="663" y="474" width="14" height="26" fill="#666"/>
-  <text x="655" y="516" font-size="9.5" fill="#666">stack (SE)</text>
+  <!-- Large open working floor -->
+  <rect x="255" y="270" width="425" height="245" fill="#d0e0e3" stroke="#0b5394" stroke-width="1.3"/>
+  <text x="467" y="360" text-anchor="middle" font-size="13" font-weight="bold">LARGE OPEN WORKING FLOOR</text>
+  <text x="467" y="381" text-anchor="middle" font-size="11" fill="#555">curing . enrichment . packing . product handling</text>
+  <text x="467" y="399" text-anchor="middle" font-size="10.5" fill="#555">(kept as large as possible)</text>
+  <!-- movable partition -->
+  <line x1="467" y1="270" x2="467" y2="515" stroke="#e06666" stroke-width="3" stroke-dasharray="7 5"/>
+  <text x="467" y="470" text-anchor="middle" font-size="10" fill="#cc0000" font-weight="bold">movable partition</text>
 
-  <!-- Weighbridge / utilities strip -->
-  <rect x="110" y="545" width="570" height="70" fill="#efefef" stroke="#999" stroke-width="1.2"/>
-  <text x="395" y="576" text-anchor="middle" font-size="12" font-weight="bold">Weighbridge / utilities / 1-2 day feedstock day-bin</text>
-  <text x="395" y="596" text-anchor="middle" font-size="10.5" fill="#555">(bulk feedstock, drying &amp; storage are off-site on the 10-acre land)</text>
+  <!-- Weighbridge / day-bin strip -->
+  <rect x="110" y="545" width="570" height="60" fill="#efefef" stroke="#999" stroke-width="1.2"/>
+  <text x="395" y="572" text-anchor="middle" font-size="11.5" font-weight="bold">Weighbridge / 1-2 day feedstock day-bin</text>
+  <text x="395" y="590" text-anchor="middle" font-size="10" fill="#555">(bulk feedstock, drying &amp; storage are off-site on the 10-acre land)</text>
 
   <!-- Gates -->
-  <rect x="480" y="742" width="150" height="30" fill="#ffffff" stroke="#666" stroke-width="1.5" stroke-dasharray="4 3"/>
-  <text x="555" y="762" text-anchor="middle" font-size="10.5" font-weight="bold">GATE (south) - material in / service</text>
+  <rect x="470" y="742" width="150" height="30" fill="#ffffff" stroke="#666" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="545" y="762" text-anchor="middle" font-size="10.5" font-weight="bold">GATE (south) - material in / service</text>
   <rect x="700" y="300" width="42" height="95" fill="#ffffff" stroke="#666" stroke-width="1.5" stroke-dasharray="4 3"/>
   <text x="721" y="350" text-anchor="middle" font-size="10" font-weight="bold" transform="rotate(90 721 350)">GATE (east) - dispatch/entry</text>
 
   <!-- North arrow -->
-  <line x1="110" y1="120" x2="110" y2="82" stroke="#333" stroke-width="2"/>
-  <polygon points="110,74 105,86 115,86" fill="#333"/>
-  <text x="110" y="135" text-anchor="middle" font-size="12" font-weight="bold">N</text>
+  <line x1="90" y1="120" x2="90" y2="82" stroke="#333" stroke-width="2"/>
+  <polygon points="90,74 85,86 95,86" fill="#333"/>
+  <text x="90" y="135" text-anchor="middle" font-size="12" font-weight="bold">N</text>
 
   <!-- Off-site note -->
   <text x="410" y="850" text-anchor="middle" font-size="12" fill="#38761d">Own 10-acre land (feedstock aggregation, sun-drying, chipping, bulk storage) ~200 m away</text>
