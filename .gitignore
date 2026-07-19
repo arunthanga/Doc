@@ -5,3 +5,5 @@ chrome.log
 petitions/pdf/*.html
 node_modules/
 petitions/node_modules/
+hall/hall.html
+/tmp/chrome-hall-profile/

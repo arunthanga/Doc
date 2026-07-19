@@ -4,7 +4,7 @@
 **Promoter:** Arun T. (sole proprietary concern)
 **Location:** Eruthenpathy, Chittur Taluk, Palakkad District, Kerala (Kerala–Tamil Nadu border)
 **Feedstock origin:** Own coconut-farm residues + open-market agri/wood biomass procured from multiple local sources
-**Structure:** A **single registered unit** that **starts small (~0.5 t/day) and ramps in place to ~2 t/day**, housed in a **purpose-built ~9,000 sq ft single clear-span hall in three bays** on the promoter's own 38-cent corner plot, with all bulk feedstock and drying handled on the promoter's **own 10-acre land ~200 m away**. Designed for the **Green** pollution category and sized to capture the full ₹40 lakh Kerala ESS subsidy.
+**Structure:** A **single registered unit** that **starts small (~0.5 t/day) and ramps in place to ~2 t/day**, housed in a **purpose-built ~9,000 sq ft single clear-span hall** (north process/utilities stretch + west service rooms + a large open working floor) on the promoter's own 38-cent corner plot, with all bulk feedstock and drying handled on the promoter's **own 10-acre land ~200 m away**. Designed for the **Green** pollution category and sized to capture the full ₹40 lakh Kerala ESS subsidy.
 **Prepared for:** Submission to District Industries Centre (DIC), Palakkad and lending bank (AIF / term loan)
 **Document status:** Planning-grade DPR — figures are indicative estimates to be firmed up with (a) a feedstock proximate-analysis lab report, (b) formal machinery quotations, and (c) a written KSPCB categorisation confirmation, before sanction.
 
@@ -16,7 +16,7 @@ This project establishes an **agri-biomass biochar and enriched (microbe-inocula
 
 - **Constitution:** sole proprietorship — **Arun T., proprietor**.
 - **One unit, phased in place (not split):** start at **~0.5 t/day biochar (500 kg/day)** and **ramp to ~1 t/day and then ~2 t/day** by adding modular reactor capacity within the **same registered premises**.
-- **Purpose-built hall (3 bays):** a **~9,000 sq ft single clear-span covered hall** (over ~21 cents of the 38-cent plot) is built **once, up front, for the 2 t/day endgame**, in **three bays** — an **enclosed process & utilities bay on the south-east** (reactor, emission control, electrical and water — the plumbing/power-heavy zone), an **open curing & enrichment floor in the middle**, and a **product storage, packing & QC bay on the west** with a small enclosed lab/office room in its south-west corner. A **movable partition** between the west and middle bays lets that floor be opened out or divided as throughput ramps; the south-east process bay is a fixed enclosure. Sizing the hall this way puts fixed capital just past the point that **captures the full ₹40 lakh Kerala ESS subsidy** (the scheme maximum) without overspending.
+- **Purpose-built hall:** a **~9,000 sq ft single clear-span covered hall** (over ~21 cents of the 38-cent plot) is built **once, up front, for the 2 t/day endgame**. The **power- and plumbing-intensive process & utilities zone runs the full northern stretch** (reactor, emission train, stack, electrical/transformer, water and ZLD effluent), with services routed along the **north and west**; a **row of enclosed rooms on the west** (lab, QC, office, secure store) and a **shared toilet/handwash block at the north-west** are fixed masonry; the **remainder is one large clear-span working floor** (curing, enrichment, packing, handling) with a **movable partition** to divide it as throughput ramps. Sizing the hall this way puts fixed capital just past the point that **captures the full ₹40 lakh Kerala ESS subsidy** (the scheme maximum) without overspending.
 - **Land:** the **own 38-cent corner plot** carries the hall and process; the promoter's **own 10-acre land ~200 m away** handles **all feedstock aggregation, sun-drying, chipping and bulk storage**.
 - **Feedstock:** **multi-source, own-farm + open-market agri/wood biomass** — coconut fronds, petioles, husk, shells and spathe; coir pith and shells from local dehuskers/coir units; and open-market residues (sawdust/wood chips, cashew shell, areca husk, paddy husk, groundnut shell, prunings).
 - **Pollution category — Green (target).** Designed as *general biomass biochar (soil-amendment) production*, which the KSPCB revised categorisation list (as on 29.12.2025) places in the **Green** category — distinct from "charcoal from coconut shell by pyrolysis" (Orange). See Section 7.
@@ -147,19 +147,19 @@ Two own plots meet all needs:
 
 | Plot | Role | Activities |
 |---|---|---|
-| **Own 38-cent corner plot** (roads on south & east) | **Manufacturing hall (registered; needs CTE/CTO)** | ~9,000 sq ft single clear-span hall in 3 bays — SE process & utilities (enclosed), middle curing/enrichment floor, west product-storage/packing/QC (+ lab/office room); emission stack; weighbridge |
+| **Own 38-cent corner plot** (roads on south & east) | **Manufacturing hall (registered; needs CTE/CTO)** | ~9,000 sq ft single clear-span hall — north process & utilities stretch (reactor, emission train, stack, electrical, water/ZLD; fixed), west row of rooms (lab, QC, office, secure store) + NW shared toilet/handwash block, and a large open working floor (curing, enrichment, packing, handling) with a movable partition |
 | **Own ~10-acre land (~200 m)** | Non-core | Feedstock aggregation, **sun-drying**, chipping/shredding, bulk biomass storage |
 
-**The hall (~9,000 sq ft over ~21 cents), in three bays:**
-- **South-east — Process & utilities bay (enclosed, fixed, ~15–20%).** Houses the pyrolysis reactor, afterburner/cyclone/scrubber, stack, electrical panels and water system — i.e., the **plumbing- and power-intensive** equipment. A fixed masonry enclosure; service/material-in from the south road; the stack rises at the SE corner. (Water/borewell is kept at the north-east.)
-- **Middle — Curing & enrichment floor (open).** Char curing, enrichment mixing and handling on an open span.
-- **West — Product storage, packing & QC bay,** with a **small enclosed lab/office room in its south-west corner** and finished-goods dispatch toward the east gate.
+**The hall (~9,000 sq ft over ~21 cents):**
+- **North stretch — Process & Utilities (full width, fixed, ~15–20%).** Runs the entire northern edge: pyrolysis reactor, afterburner/cyclone/scrubber, **stack**, electrical panels/transformer and the water & **ZLD** effluent system — i.e., **all the power- and plumbing-intensive equipment**, so that **power, water, plumbing and sewage are concentrated on the north and west**. At Phase-1 this zone is demarcated by a safety setback but **need not be fully walled off from the working floor** — a partition can be added later as throughput grows.
+- **West strip — service rooms (fixed masonry).** A **row of enclosed rooms** along the west: **lab, QC, office and a secure finished-product store**, plus a **shared toilet & handwash block at the north-west** (fixed, plumbed — usable by the whole facility).
+- **Remainder — one large clear-span working floor** (curing, enrichment, packing and product handling), kept **as large as possible** after the north and west zones. A **movable partition** divides this floor (e.g., curing vs packing/handling) and can be opened out or repositioned as throughput ramps.
 
-A **movable partition** between the west and middle bays lets that floor be opened out as one large space or divided as throughput ramps; the south-east process bay stays a fixed enclosure. Building the full civil once avoids re-construction on ramp and captures maximum ESS. Balance of the plot (~17 cents) is greenbelt, internal roads, parking and setbacks; the corner location (roads on **south and east**) allows a material-in/service gate on the south and a dispatch/entry gate on the east.
+Building the full civil once avoids re-construction on ramp and captures maximum ESS. Water/borewell is at the **north-east**. Balance of the plot (~17 cents) is greenbelt, internal roads, parking and setbacks; the corner location (roads on **south and east**) allows a material-in/service gate on the south and a dispatch/entry gate on the east.
 
 **Pre-checks:** land-use where required; KSPCB setback from residences/water bodies/eco-sensitive zones; road access from the south/east frontage; 3-phase power; water.
 
-**Construction (hall + site works, ~9,000 sq ft):** ≈ **₹46 L** hall (clear-span; enclosed SE process bay + movable west/middle partition) + ~₹6 L site development (see cost table).
+**Construction (hall + site works, ~9,000 sq ft):** ≈ **₹46 L** hall (clear-span; north process/utilities stretch + west rooms + shared toilet block + movable floor partition) + ~₹6 L site development (see cost table).
 
 ---
 
@@ -184,7 +184,7 @@ Operating without CTE/CTO is a criminal offence under EPA 1986. No open burning 
 
 | # | Item | ₹ Lakh |
 |---|---|---|
-| 1 | Covered hall ~9,000 sq ft — single clear-span, 3 bays (enclosed SE process bay; movable west/middle partition; built for the 2 t/day endgame) | 46 |
+| 1 | Covered hall ~9,000 sq ft — single clear-span (north process/utilities stretch, west rooms + shared toilets, large open floor + movable partition; built for the 2 t/day endgame) | 46 |
 | 2 | Pyrolysis reactor ~0.5 t/day (modular, expandable to 2 t/day) | 16 |
 | 3 | Emission control — afterburner/flare + cyclone + scrubber + stack (Green-compliant) | 6 |
 | 4 | Char cooling, sieving, enrichment mixer, bagging | 5 |
@@ -291,7 +291,7 @@ Base biochar is K-rich; enrich to a balanced slow-release organic input:
 1. Feedstock lab proximate analysis (moisture, fixed carbon, ash, K) — decides final Phase-1 sizing.
 2. Udyam registration; DIC/ESS pre-consultation; feedstock MoUs (3–4 local sources).
 3. **Written KSPCB categorisation confirmation** (Green); enrol with the **WTO-Cell expert committee** as a pilot.
-4. **CTE (Green)**; hall design/build (9,000 sq ft single clear-span, 3 bays — SE process / middle curing / west product+QC, endgame-sized); machinery order (~0.5 t/day reactor + gas train + dryer, with ramp tie-ins).
+4. **CTE (Green)**; hall design/build (9,000 sq ft single clear-span — north process/utilities stretch, west rooms + shared toilets, large open floor, endgame-sized); machinery order (~0.5 t/day reactor + gas train + dryer, with ramp tie-ins).
 5. Hall + site works on the corner plot; feedstock yards on the 10-acre land.
 6. Panchayat D&O + building permit + fire NOC; **CTO**.
 7. AIF term loan + CGTMSE; commissioning; **ESS claim (max ₹40 L)**.
@@ -329,28 +329,30 @@ All costs, yields, prices and returns are **planning-grade indicative estimates*
 ```
                                         N ^
    +==================== 38-CENT CORNER PLOT ====================+
-   |  GREENBELT / SETBACK (perimeter tree belt)   [NE: water/    |
-   |   +--------------------------------------+    borewell]      |
-   |   |  SINGLE CLEAR-SPAN HALL ~9,000 sq ft |                   |
-   |   |  +-----------+  +--------+ M +------+ |                  |
-   |   |  | PRODUCT   |  | CURING | o |PROC- | |                  |
-   |   |  | STORAGE / |  |   &    | v |ESS + | |                  |
-   |   |  | PACKING / |  | ENRICH | . |UTILI-| |                  |
-   |   |  | QC (WEST) |  | (MID)  | p |TIES  | |                  |
-   |   |  | +-------+ |  |        | a |(SE)  | |                  |
-   |   |  | |lab/off| |  |        | r |encl. |=|== [GATE-E east]  |
-   |   |  | |(SW)   | |  |        | t |[stack]| |   dispatch/entry |
-   |   |  | +-------+ |  +--------+   +------+ |                  |
-   |   |  +-----------+  (movable partition)   |                  |
-   |   +--------------------------------------+                   |
-   |                      [ GATE-S south - material in/service ]  |
+   |  GREENBELT / SETBACK (perimeter tree belt)      [borewell:NE]|
+   |   +----------------------------------------------------+     |
+   |   | PROCESS & UTILITIES - NORTH stretch (fixed)  [stack]|     |
+   |   | reactor, emission train, electrical/transformer,   |     |
+   |   | water & ZLD  (power + plumbing concentrated N & W) |     |
+   |   +---------+------------------------------------------+     |
+   |   |Toilets/ |                                          |     |
+   |   |handwash |     LARGE OPEN WORKING FLOOR             |     |
+   |   |(NW,fix) |     curing . enrichment . packing .      |     |
+   |   +---------+     product handling                     |=|== [GATE-E]
+   |   | Lab/QC  |          |  (movable partition)           | |  dispatch/
+   |   | Office  |          |                                | |  entry (E)
+   |   | Store   |     (floor kept as large as possible)    |     |
+   |   |(WEST    |                                          |     |
+   |   | rooms)  |                                          |     |
+   |   +---------+------------------------------------------+     |
+   |                     [ GATE-S south - material in / service ] |
    +=============================================================+
                                   ||
-                         ======= SOUTH ROAD =======          EAST ROAD (right)
+                         ======= SOUTH ROAD =======        EAST ROAD (right)
         Own 10-acre land (feedstock, sun-drying, storage) ~200 m -->
 ```
 
-**Notes:** the plot is a near-square **corner plot with public roads on the south and east**, giving a **material-in / service gate on the south** and a **dispatch / entry gate on the east**. The **~9,000 sq ft single clear-span hall** occupies ~21 of the 38 cents and is arranged in **three bays**: an **enclosed process & utilities bay on the south-east** (reactor, emission train, electrical, water — the plumbing/power-heavy zone; stack at the SE corner), an **open curing & enrichment floor in the middle**, and a **product storage / packing / QC bay on the west** with a small **lab/office room in its south-west corner**. A **movable partition** separates the west and middle bays (opened out or divided as throughput ramps); the SE process bay is a fixed enclosure. Water/borewell is placed at the **north-east**. All bulk feedstock handling, sun-drying and storage are on the **own 10-acre land ~200 m away**, so only a 1–2 day day-bin sits in the hall.
+**Notes:** the plot is a near-square **corner plot with public roads on the south and east**, giving a **material-in / service gate on the south** and a **dispatch / entry gate on the east**. In the **~9,000 sq ft single clear-span hall**, the **process & utilities zone runs the full northern stretch** (reactor, emission train, stack, electrical/transformer, water & ZLD) so that **power, water, plumbing and sewage are concentrated along the north and west**; a **row of fixed rooms on the west** (lab, QC, office, secure store) with a **shared toilet/handwash block at the north-west** serves the whole facility; the **remainder is one large clear-span working floor** (curing, enrichment, packing, handling) with a **movable partition**, kept as large as possible. Water/borewell is at the **north-east**. All bulk feedstock handling, sun-drying and storage are on the **own 10-acre land ~200 m away**, so only a 1–2 day day-bin sits in the hall.
 
 ---
 
